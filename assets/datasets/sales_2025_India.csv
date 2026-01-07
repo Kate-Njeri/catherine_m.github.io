@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_Per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+IN-100000,9/20/2025,India,P1003,Wireless Earbuds,Electronics,150,8,95,5,Debit Card,36-45,Female,Mumbai,Rep 1
+IN-100001,8/19/2025,India,P3001,Microwave Oven,Home Appliances,220,3,165,5,Cash,46-55,Male,Bangalore,Rep 11
+IN-100002,8/19/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,5,Mobile Payment,46-55,Male,Bangalore,Rep 10
+IN-100003,11/20/2025,India,P2004,Spices Pack,Grocery,9,4,4,0,Credit Card,26-35,Female,Mumbai,Rep 11
+IN-100004,12/21/2025,India,P2004,Spices Pack,Grocery,9,1,4,0,Cash,36-45,Male,Mumbai,Rep 3
+IN-100005,11/26/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,5,Debit Card,36-45,Female,Delhi,Rep 19
+IN-100006,10/30/2025,India,P4002,Hair Trimmer,Personal Care,35,2,20,15,Mobile Payment,36-45,Male,Bangalore,Rep 6
+IN-100007,10/6/2025,India,P3001,Microwave Oven,Home Appliances,220,1,165,5,Debit Card,36-45,Male,Mumbai,Rep 16
+IN-100008,10/17/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,15,Debit Card,46-55,Male,Delhi,Rep 19
+IN-100009,2/17/2025,India,P1002,Laptop Air,Electronics,1100,6,880,10,Debit Card,36-45,Female,Mumbai,Rep 13
+IN-100010,2/8/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,10,Credit Card,26-35,Female,Mumbai,Rep 14
+IN-100011,10/14/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,15,Cash,36-45,Female,Bangalore,Rep 1
+IN-100012,7/7/2025,India,P2004,Spices Pack,Grocery,9,7,4,15,Debit Card,18-25,Female,Mumbai,Rep 7
+IN-100013,12/17/2025,India,P1003,Wireless Earbuds,Electronics,150,7,95,10,Credit Card,26-35,Male,Delhi,Rep 12
+IN-100014,4/9/2025,India,P2003,Organic Honey,Grocery,15,1,9,5,Credit Card,36-45,Male,Bangalore,Rep 5
+IN-100015,1/29/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,0,Mobile Payment,36-45,Male,Mumbai,Rep 18
+IN-100016,1/15/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,15,Cash,18-25,Female,Delhi,Rep 8
+IN-100017,4/27/2025,India,P2004,Spices Pack,Grocery,9,8,4,0,Debit Card,36-45,Male,Bangalore,Rep 1
+IN-100018,3/27/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,0,Debit Card,26-35,Male,Mumbai,Rep 8
+IN-100019,4/9/2025,India,P1002,Laptop Air,Electronics,1100,9,880,0,Cash,26-35,Female,Bangalore,Rep 9
+IN-100020,5/10/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,0,Mobile Payment,26-35,Female,Mumbai,Rep 20
+IN-100021,12/19/2025,India,P4002,Hair Trimmer,Personal Care,35,9,20,15,Mobile Payment,18-25,Male,Mumbai,Rep 6
+IN-100022,7/10/2025,India,P1003,Wireless Earbuds,Electronics,150,7,95,5,Credit Card,36-45,Male,Bangalore,Rep 3
+IN-100023,9/27/2025,India,P1001,Smartphone X,Electronics,800,10,620,0,Mobile Payment,36-45,Female,Mumbai,Rep 9
+IN-100024,4/27/2025,India,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,26-35,Male,Bangalore,Rep 3
+IN-100025,4/19/2025,India,P2004,Spices Pack,Grocery,9,6,4,5,Cash,36-45,Female,Bangalore,Rep 14
+IN-100026,6/6/2025,India,P1001,Smartphone X,Electronics,800,5,620,10,Credit Card,18-25,Male,Mumbai,Rep 8
+IN-100027,10/2/2025,India,P2003,Organic Honey,Grocery,15,3,9,10,Debit Card,36-45,Male,Delhi,Rep 11
+IN-100028,10/20/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,5,Mobile Payment,36-45,Male,Mumbai,Rep 9
+IN-100029,5/23/2025,India,P2003,Organic Honey,Grocery,15,9,9,0,Credit Card,36-45,Male,Bangalore,Rep 15
+IN-100030,1/20/2025,India,P3002,Blender Pro,Home Appliances,120,8,85,10,Mobile Payment,36-45,Male,Mumbai,Rep 8
+IN-100031,12/11/2025,India,P1003,Wireless Earbuds,Electronics,150,2,95,5,Mobile Payment,26-35,Male,Mumbai,Rep 6
+IN-100032,11/4/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,5,Cash,26-35,Male,Mumbai,Rep 16
+IN-100033,11/20/2025,India,P3001,Microwave Oven,Home Appliances,220,3,165,15,Credit Card,36-45,Female,Bangalore,Rep 2
+IN-100034,10/2/2025,India,P4001,Skincare Kit,Personal Care,50,1,28,5,Debit Card,46-55,Male,Delhi,Rep 6
+IN-100035,11/17/2025,India,P1003,Wireless Earbuds,Electronics,150,10,95,5,Cash,18-25,Female,Bangalore,Rep 11
+IN-100036,7/24/2025,India,P2003,Organic Honey,Grocery,15,3,9,15,Debit Card,46-55,Female,Bangalore,Rep 19
+IN-100037,1/10/2025,India,P3001,Microwave Oven,Home Appliances,220,7,165,5,Cash,26-35,Female,Mumbai,Rep 20
+IN-100038,5/17/2025,India,P4002,Hair Trimmer,Personal Care,35,3,20,10,Debit Card,46-55,Female,Delhi,Rep 17
+IN-100039,1/31/2025,India,P2004,Spices Pack,Grocery,9,6,4,10,Mobile Payment,46-55,Female,Bangalore,Rep 3
+IN-100040,5/11/2025,India,P2003,Organic Honey,Grocery,15,7,9,0,Cash,18-25,Male,Delhi,Rep 19
+IN-100041,3/13/2025,India,P3001,Microwave Oven,Home Appliances,220,10,165,15,Debit Card,18-25,Female,Delhi,Rep 1
+IN-100042,9/26/2025,India,P2003,Organic Honey,Grocery,15,3,9,5,Cash,36-45,Male,Mumbai,Rep 4
+IN-100043,3/4/2025,India,P4001,Skincare Kit,Personal Care,50,4,28,5,Credit Card,36-45,Female,Bangalore,Rep 6
+IN-100044,3/18/2025,India,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,18-25,Female,Delhi,Rep 20
+IN-100045,4/21/2025,India,P2004,Spices Pack,Grocery,9,3,4,0,Cash,26-35,Male,Delhi,Rep 16
+IN-100046,8/7/2025,India,P3001,Microwave Oven,Home Appliances,220,9,165,15,Credit Card,46-55,Male,Bangalore,Rep 19
+IN-100047,11/23/2025,India,P1002,Laptop Air,Electronics,1100,2,880,0,Debit Card,36-45,Male,Bangalore,Rep 19
+IN-100048,9/6/2025,India,P1003,Wireless Earbuds,Electronics,150,5,95,0,Debit Card,18-25,Female,Bangalore,Rep 3
+IN-100049,1/10/2025,India,P3001,Microwave Oven,Home Appliances,220,9,165,5,Credit Card,26-35,Female,Delhi,Rep 18
+IN-100050,7/1/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,5,Mobile Payment,26-35,Male,Delhi,Rep 7
+IN-100051,7/28/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,5,Debit Card,46-55,Male,Bangalore,Rep 13
+IN-100052,3/7/2025,India,P2004,Spices Pack,Grocery,9,1,4,10,Debit Card,18-25,Male,Bangalore,Rep 17
+IN-100053,11/9/2025,India,P1001,Smartphone X,Electronics,800,5,620,15,Credit Card,36-45,Female,Mumbai,Rep 20
+IN-100054,3/21/2025,India,P4001,Skincare Kit,Personal Care,50,9,28,15,Mobile Payment,18-25,Female,Bangalore,Rep 14
+IN-100055,7/6/2025,India,P1001,Smartphone X,Electronics,800,3,620,0,Debit Card,46-55,Male,Bangalore,Rep 7
+IN-100056,12/30/2025,India,P4001,Skincare Kit,Personal Care,50,9,28,0,Mobile Payment,36-45,Male,Mumbai,Rep 5
+IN-100057,1/21/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,5,Mobile Payment,18-25,Female,Mumbai,Rep 15
+IN-100058,5/2/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,0,Credit Card,36-45,Male,Bangalore,Rep 11
+IN-100059,6/18/2025,India,P3001,Microwave Oven,Home Appliances,220,10,165,0,Mobile Payment,26-35,Female,Bangalore,Rep 18
+IN-100060,2/27/2025,India,P1001,Smartphone X,Electronics,800,10,620,10,Credit Card,46-55,Male,Bangalore,Rep 4
+IN-100061,7/6/2025,India,P1001,Smartphone X,Electronics,800,10,620,5,Credit Card,46-55,Male,Bangalore,Rep 5
+IN-100062,5/3/2025,India,P2003,Organic Honey,Grocery,15,5,9,15,Credit Card,18-25,Male,Delhi,Rep 15
+IN-100063,8/5/2025,India,P4001,Skincare Kit,Personal Care,50,2,28,10,Credit Card,18-25,Male,Mumbai,Rep 19
+IN-100064,3/18/2025,India,P2003,Organic Honey,Grocery,15,8,9,15,Debit Card,26-35,Male,Delhi,Rep 5
+IN-100065,11/20/2025,India,P2004,Spices Pack,Grocery,9,2,4,0,Cash,36-45,Male,Delhi,Rep 6
+IN-100066,4/25/2025,India,P1002,Laptop Air,Electronics,1100,4,880,0,Debit Card,36-45,Female,Mumbai,Rep 17
+IN-100067,12/23/2025,India,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,26-35,Female,Delhi,Rep 13
+IN-100068,3/14/2025,India,P1002,Laptop Air,Electronics,1100,2,880,5,Credit Card,26-35,Male,Mumbai,Rep 3
+IN-100069,12/16/2025,India,P1001,Smartphone X,Electronics,800,2,620,0,Credit Card,18-25,Female,Mumbai,Rep 5
+IN-100070,10/27/2025,India,P2004,Spices Pack,Grocery,9,5,4,5,Credit Card,46-55,Male,Mumbai,Rep 14
+IN-100071,11/14/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,5,Credit Card,18-25,Male,Mumbai,Rep 11
+IN-100072,9/6/2025,India,P2004,Spices Pack,Grocery,9,10,4,0,Cash,46-55,Female,Delhi,Rep 15
+IN-100073,1/10/2025,India,P1002,Laptop Air,Electronics,1100,5,880,0,Credit Card,36-45,Female,Delhi,Rep 8
+IN-100074,10/7/2025,India,P1002,Laptop Air,Electronics,1100,10,880,0,Credit Card,46-55,Male,Bangalore,Rep 1
+IN-100075,1/3/2025,India,P1002,Laptop Air,Electronics,1100,8,880,0,Cash,46-55,Female,Bangalore,Rep 9
+IN-100076,9/2/2025,India,P4002,Hair Trimmer,Personal Care,35,2,20,0,Mobile Payment,18-25,Female,Mumbai,Rep 14
+IN-100077,2/22/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,15,Credit Card,18-25,Female,Delhi,Rep 14
+IN-100078,10/31/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,0,Mobile Payment,36-45,Male,Bangalore,Rep 3
+IN-100079,8/8/2025,India,P3001,Microwave Oven,Home Appliances,220,7,165,10,Credit Card,46-55,Female,Mumbai,Rep 4
+IN-100080,9/19/2025,India,P4001,Skincare Kit,Personal Care,50,4,28,5,Debit Card,36-45,Female,Bangalore,Rep 9
+IN-100081,12/1/2025,India,P4002,Hair Trimmer,Personal Care,35,8,20,15,Mobile Payment,18-25,Female,Delhi,Rep 9
+IN-100082,2/11/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,15,Cash,36-45,Female,Delhi,Rep 11
+IN-100083,1/19/2025,India,P1001,Smartphone X,Electronics,800,8,620,10,Credit Card,46-55,Male,Bangalore,Rep 10
+IN-100084,11/18/2025,India,P1001,Smartphone X,Electronics,800,5,620,5,Credit Card,36-45,Male,Mumbai,Rep 15
+IN-100085,10/22/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,10,Debit Card,18-25,Female,Bangalore,Rep 12
+IN-100086,5/31/2025,India,P2004,Spices Pack,Grocery,9,4,4,10,Debit Card,36-45,Female,Delhi,Rep 16
+IN-100087,8/30/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,15,Cash,36-45,Female,Mumbai,Rep 10
+IN-100088,9/3/2025,India,P2003,Organic Honey,Grocery,15,2,9,5,Credit Card,18-25,Male,Bangalore,Rep 11
+IN-100089,9/25/2025,India,P2004,Spices Pack,Grocery,9,5,4,10,Debit Card,46-55,Female,Bangalore,Rep 3
+IN-100090,2/18/2025,India,P3002,Blender Pro,Home Appliances,120,10,85,0,Mobile Payment,46-55,Male,Bangalore,Rep 7
+IN-100091,6/1/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,0,Cash,36-45,Female,Mumbai,Rep 14
+IN-100092,5/15/2025,India,P4001,Skincare Kit,Personal Care,50,3,28,10,Credit Card,36-45,Female,Delhi,Rep 16
+IN-100093,2/3/2025,India,P2003,Organic Honey,Grocery,15,4,9,10,Cash,46-55,Male,Delhi,Rep 8
+IN-100094,5/11/2025,India,P4001,Skincare Kit,Personal Care,50,1,28,0,Mobile Payment,36-45,Female,Bangalore,Rep 19
+IN-100095,8/28/2025,India,P4001,Skincare Kit,Personal Care,50,4,28,15,Cash,46-55,Male,Delhi,Rep 10
+IN-100096,7/4/2025,India,P2004,Spices Pack,Grocery,9,5,4,0,Cash,36-45,Male,Delhi,Rep 3
+IN-100097,11/27/2025,India,P1001,Smartphone X,Electronics,800,2,620,5,Credit Card,46-55,Male,Mumbai,Rep 16
+IN-100098,7/29/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,10,Cash,18-25,Female,Bangalore,Rep 1
+IN-100099,12/30/2025,India,P1001,Smartphone X,Electronics,800,1,620,15,Cash,18-25,Female,Bangalore,Rep 13
+IN-100100,2/17/2025,India,P3001,Microwave Oven,Home Appliances,220,7,165,10,Debit Card,18-25,Male,Bangalore,Rep 16
+IN-100101,10/16/2025,India,P1002,Laptop Air,Electronics,1100,6,880,0,Debit Card,26-35,Male,Delhi,Rep 20
+IN-100102,2/12/2025,India,P2003,Organic Honey,Grocery,15,5,9,0,Credit Card,36-45,Male,Mumbai,Rep 7
+IN-100103,8/24/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,0,Mobile Payment,46-55,Female,Delhi,Rep 2
+IN-100104,7/26/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,15,Mobile Payment,18-25,Male,Delhi,Rep 16
+IN-100105,6/9/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,5,Mobile Payment,36-45,Female,Delhi,Rep 13
+IN-100106,6/14/2025,India,P1002,Laptop Air,Electronics,1100,3,880,15,Cash,18-25,Female,Delhi,Rep 1
+IN-100107,2/18/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,15,Cash,18-25,Female,Mumbai,Rep 7
+IN-100108,11/28/2025,India,P2003,Organic Honey,Grocery,15,8,9,5,Mobile Payment,26-35,Male,Delhi,Rep 2
+IN-100109,2/5/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,15,Credit Card,46-55,Male,Mumbai,Rep 17
+IN-100110,10/9/2025,India,P1002,Laptop Air,Electronics,1100,7,880,10,Debit Card,36-45,Female,Bangalore,Rep 19
+IN-100111,9/7/2025,India,P3001,Microwave Oven,Home Appliances,220,3,165,5,Credit Card,26-35,Female,Bangalore,Rep 10
+IN-100112,6/26/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,10,Mobile Payment,18-25,Male,Bangalore,Rep 18
+IN-100113,2/22/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,5,Mobile Payment,46-55,Male,Delhi,Rep 1
+IN-100114,6/16/2025,India,P2004,Spices Pack,Grocery,9,3,4,0,Debit Card,26-35,Male,Delhi,Rep 3
+IN-100115,2/25/2025,India,P2003,Organic Honey,Grocery,15,4,9,15,Cash,46-55,Female,Delhi,Rep 11
+IN-100116,4/24/2025,India,P2003,Organic Honey,Grocery,15,4,9,15,Credit Card,26-35,Female,Bangalore,Rep 9
+IN-100117,6/6/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,10,Cash,18-25,Male,Delhi,Rep 20
+IN-100118,4/13/2025,India,P4001,Skincare Kit,Personal Care,50,6,28,15,Mobile Payment,36-45,Male,Delhi,Rep 15
+IN-100119,1/12/2025,India,P4001,Skincare Kit,Personal Care,50,6,28,15,Credit Card,18-25,Female,Mumbai,Rep 8
+IN-100120,6/26/2025,India,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,36-45,Male,Mumbai,Rep 7
+IN-100121,8/7/2025,India,P2003,Organic Honey,Grocery,15,4,9,10,Debit Card,36-45,Female,Mumbai,Rep 14
+IN-100122,7/20/2025,India,P4001,Skincare Kit,Personal Care,50,4,28,15,Cash,18-25,Male,Delhi,Rep 14
+IN-100123,3/3/2025,India,P4001,Skincare Kit,Personal Care,50,3,28,5,Mobile Payment,36-45,Male,Mumbai,Rep 13
+IN-100124,1/14/2025,India,P1002,Laptop Air,Electronics,1100,7,880,0,Cash,46-55,Female,Bangalore,Rep 18
+IN-100125,6/3/2025,India,P3002,Blender Pro,Home Appliances,120,3,85,0,Debit Card,46-55,Female,Delhi,Rep 4
+IN-100126,12/30/2025,India,P2003,Organic Honey,Grocery,15,1,9,15,Cash,26-35,Female,Delhi,Rep 7
+IN-100127,6/21/2025,India,P1001,Smartphone X,Electronics,800,7,620,10,Debit Card,36-45,Female,Delhi,Rep 1
+IN-100128,6/17/2025,India,P2003,Organic Honey,Grocery,15,1,9,5,Cash,26-35,Female,Bangalore,Rep 10
+IN-100129,2/6/2025,India,P4001,Skincare Kit,Personal Care,50,3,28,0,Cash,36-45,Female,Bangalore,Rep 19
+IN-100130,2/9/2025,India,P1003,Wireless Earbuds,Electronics,150,1,95,15,Debit Card,36-45,Female,Delhi,Rep 17
+IN-100131,8/29/2025,India,P1002,Laptop Air,Electronics,1100,3,880,5,Debit Card,46-55,Female,Mumbai,Rep 14
+IN-100132,10/22/2025,India,P1003,Wireless Earbuds,Electronics,150,8,95,15,Credit Card,46-55,Male,Delhi,Rep 12
+IN-100133,2/5/2025,India,P1001,Smartphone X,Electronics,800,7,620,0,Credit Card,26-35,Male,Delhi,Rep 7
+IN-100134,9/2/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,15,Debit Card,36-45,Female,Bangalore,Rep 19
+IN-100135,2/26/2025,India,P1003,Wireless Earbuds,Electronics,150,9,95,5,Debit Card,18-25,Female,Mumbai,Rep 6
+IN-100136,12/8/2025,India,P1003,Wireless Earbuds,Electronics,150,10,95,15,Mobile Payment,18-25,Female,Bangalore,Rep 10
+IN-100137,3/24/2025,India,P1001,Smartphone X,Electronics,800,2,620,10,Debit Card,18-25,Male,Bangalore,Rep 11
+IN-100138,7/4/2025,India,P3001,Microwave Oven,Home Appliances,220,4,165,5,Cash,36-45,Male,Bangalore,Rep 8
+IN-100139,12/23/2025,India,P2004,Spices Pack,Grocery,9,1,4,15,Mobile Payment,18-25,Female,Bangalore,Rep 20
+IN-100140,7/16/2025,India,P1001,Smartphone X,Electronics,800,4,620,5,Debit Card,36-45,Female,Bangalore,Rep 8
+IN-100141,2/7/2025,India,P4002,Hair Trimmer,Personal Care,35,3,20,15,Mobile Payment,26-35,Female,Bangalore,Rep 3
+IN-100142,2/19/2025,India,P4001,Skincare Kit,Personal Care,50,6,28,5,Credit Card,36-45,Male,Delhi,Rep 16
+IN-100143,6/10/2025,India,P3001,Microwave Oven,Home Appliances,220,4,165,15,Credit Card,18-25,Male,Delhi,Rep 2
+IN-100144,9/14/2025,India,P1003,Wireless Earbuds,Electronics,150,10,95,15,Credit Card,46-55,Female,Mumbai,Rep 5
+IN-100145,9/2/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,10,Debit Card,26-35,Female,Delhi,Rep 17
+IN-100146,9/20/2025,India,P2004,Spices Pack,Grocery,9,9,4,10,Credit Card,46-55,Male,Mumbai,Rep 12
+IN-100147,6/11/2025,India,P1001,Smartphone X,Electronics,800,4,620,0,Credit Card,26-35,Female,Delhi,Rep 18
+IN-100148,1/30/2025,India,P1001,Smartphone X,Electronics,800,1,620,15,Mobile Payment,36-45,Female,Mumbai,Rep 12
+IN-100149,3/31/2025,India,P4001,Skincare Kit,Personal Care,50,3,28,5,Cash,26-35,Male,Bangalore,Rep 10
+IN-100150,2/20/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,0,Debit Card,46-55,Female,Mumbai,Rep 3
+IN-100151,3/22/2025,India,P3001,Microwave Oven,Home Appliances,220,2,165,15,Credit Card,18-25,Female,Delhi,Rep 10
+IN-100152,7/16/2025,India,P2004,Spices Pack,Grocery,9,10,4,15,Cash,18-25,Female,Mumbai,Rep 20
+IN-100153,6/7/2025,India,P2004,Spices Pack,Grocery,9,2,4,5,Debit Card,18-25,Male,Bangalore,Rep 17
+IN-100154,12/21/2025,India,P2004,Spices Pack,Grocery,9,9,4,0,Mobile Payment,46-55,Male,Delhi,Rep 19
+IN-100155,1/6/2025,India,P1003,Wireless Earbuds,Electronics,150,9,95,15,Credit Card,46-55,Male,Mumbai,Rep 11
+IN-100156,6/5/2025,India,P3002,Blender Pro,Home Appliances,120,10,85,5,Cash,46-55,Male,Delhi,Rep 19
+IN-100157,5/3/2025,India,P2004,Spices Pack,Grocery,9,6,4,10,Debit Card,46-55,Female,Mumbai,Rep 1
+IN-100158,8/7/2025,India,P2004,Spices Pack,Grocery,9,9,4,0,Credit Card,46-55,Female,Delhi,Rep 12
+IN-100159,11/5/2025,India,P3001,Microwave Oven,Home Appliances,220,4,165,15,Cash,26-35,Female,Mumbai,Rep 11
+IN-100160,4/18/2025,India,P2004,Spices Pack,Grocery,9,10,4,10,Mobile Payment,36-45,Female,Delhi,Rep 18
+IN-100161,6/16/2025,India,P1001,Smartphone X,Electronics,800,2,620,10,Debit Card,26-35,Female,Mumbai,Rep 17
+IN-100162,8/23/2025,India,P2003,Organic Honey,Grocery,15,2,9,0,Cash,46-55,Female,Bangalore,Rep 6
+IN-100163,10/8/2025,India,P1003,Wireless Earbuds,Electronics,150,2,95,10,Credit Card,36-45,Male,Mumbai,Rep 12
+IN-100164,5/8/2025,India,P1003,Wireless Earbuds,Electronics,150,2,95,10,Credit Card,46-55,Female,Mumbai,Rep 12
+IN-100165,4/7/2025,India,P3002,Blender Pro,Home Appliances,120,2,85,5,Debit Card,18-25,Male,Delhi,Rep 2
+IN-100166,4/22/2025,India,P1002,Laptop Air,Electronics,1100,4,880,0,Mobile Payment,46-55,Male,Mumbai,Rep 3
+IN-100167,12/16/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,5,Mobile Payment,26-35,Male,Delhi,Rep 12
+IN-100168,5/5/2025,India,P2003,Organic Honey,Grocery,15,1,9,15,Mobile Payment,46-55,Female,Delhi,Rep 6
+IN-100169,4/23/2025,India,P1002,Laptop Air,Electronics,1100,8,880,5,Cash,26-35,Female,Mumbai,Rep 8
+IN-100170,11/15/2025,India,P4002,Hair Trimmer,Personal Care,35,2,20,15,Debit Card,36-45,Male,Delhi,Rep 4
+IN-100171,7/3/2025,India,P2003,Organic Honey,Grocery,15,8,9,10,Cash,18-25,Male,Mumbai,Rep 19
+IN-100172,12/26/2025,India,P2003,Organic Honey,Grocery,15,6,9,15,Credit Card,36-45,Female,Bangalore,Rep 8
+IN-100173,7/2/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,0,Credit Card,36-45,Male,Bangalore,Rep 15
+IN-100174,4/17/2025,India,P2004,Spices Pack,Grocery,9,9,4,15,Credit Card,46-55,Male,Delhi,Rep 7
+IN-100175,2/13/2025,India,P2004,Spices Pack,Grocery,9,2,4,10,Debit Card,18-25,Female,Delhi,Rep 5
+IN-100176,5/10/2025,India,P2003,Organic Honey,Grocery,15,2,9,15,Cash,26-35,Male,Bangalore,Rep 18
+IN-100177,11/25/2025,India,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,26-35,Male,Bangalore,Rep 4
+IN-100178,9/27/2025,India,P3001,Microwave Oven,Home Appliances,220,2,165,0,Credit Card,18-25,Male,Mumbai,Rep 16
+IN-100179,11/27/2025,India,P3001,Microwave Oven,Home Appliances,220,2,165,10,Mobile Payment,36-45,Female,Mumbai,Rep 12
+IN-100180,12/25/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,0,Cash,46-55,Female,Delhi,Rep 4
+IN-100181,11/3/2025,India,P1001,Smartphone X,Electronics,800,10,620,5,Credit Card,46-55,Male,Delhi,Rep 17
+IN-100182,7/12/2025,India,P3002,Blender Pro,Home Appliances,120,2,85,0,Mobile Payment,18-25,Female,Mumbai,Rep 10
+IN-100183,4/3/2025,India,P2004,Spices Pack,Grocery,9,7,4,10,Debit Card,46-55,Male,Bangalore,Rep 12
+IN-100184,6/29/2025,India,P4002,Hair Trimmer,Personal Care,35,1,20,10,Credit Card,36-45,Female,Mumbai,Rep 7
+IN-100185,10/11/2025,India,P2003,Organic Honey,Grocery,15,3,9,15,Cash,26-35,Female,Mumbai,Rep 18
+IN-100186,12/26/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,15,Mobile Payment,18-25,Female,Bangalore,Rep 3
+IN-100187,10/16/2025,India,P1002,Laptop Air,Electronics,1100,3,880,5,Mobile Payment,18-25,Female,Bangalore,Rep 4
+IN-100188,10/14/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,0,Credit Card,26-35,Male,Bangalore,Rep 2
+IN-100189,2/11/2025,India,P1001,Smartphone X,Electronics,800,3,620,5,Mobile Payment,36-45,Male,Mumbai,Rep 11
+IN-100190,9/24/2025,India,P2004,Spices Pack,Grocery,9,3,4,0,Debit Card,36-45,Female,Mumbai,Rep 2
+IN-100191,5/8/2025,India,P2003,Organic Honey,Grocery,15,2,9,15,Mobile Payment,26-35,Male,Delhi,Rep 12
+IN-100192,12/14/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,5,Cash,26-35,Male,Delhi,Rep 3
+IN-100193,7/27/2025,India,P1002,Laptop Air,Electronics,1100,4,880,15,Debit Card,36-45,Male,Mumbai,Rep 3
+IN-100194,7/10/2025,India,P4001,Skincare Kit,Personal Care,50,10,28,0,Credit Card,18-25,Female,Delhi,Rep 7
+IN-100195,6/28/2025,India,P1003,Wireless Earbuds,Electronics,150,2,95,0,Debit Card,46-55,Female,Delhi,Rep 10
+IN-100196,1/27/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,5,Cash,46-55,Male,Mumbai,Rep 14
+IN-100197,3/9/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,5,Cash,26-35,Female,Bangalore,Rep 13
+IN-100198,9/10/2025,India,P4001,Skincare Kit,Personal Care,50,7,28,5,Cash,46-55,Male,Mumbai,Rep 10
+IN-100199,4/3/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,15,Credit Card,26-35,Male,Delhi,Rep 13
+IN-100200,8/7/2025,India,P3001,Microwave Oven,Home Appliances,220,9,165,0,Credit Card,18-25,Male,Bangalore,Rep 3
+IN-100201,7/21/2025,India,P1002,Laptop Air,Electronics,1100,5,880,10,Debit Card,26-35,Female,Mumbai,Rep 4
+IN-100202,12/27/2025,India,P2004,Spices Pack,Grocery,9,2,4,0,Cash,26-35,Male,Delhi,Rep 7
+IN-100203,12/20/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,5,Mobile Payment,46-55,Female,Bangalore,Rep 19
+IN-100204,11/2/2025,India,P2004,Spices Pack,Grocery,9,4,4,5,Credit Card,18-25,Female,Bangalore,Rep 16
+IN-100205,5/28/2025,India,P2004,Spices Pack,Grocery,9,10,4,5,Mobile Payment,36-45,Male,Delhi,Rep 1
+IN-100206,8/13/2025,India,P2003,Organic Honey,Grocery,15,5,9,0,Mobile Payment,26-35,Female,Mumbai,Rep 11
+IN-100207,11/19/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,15,Cash,36-45,Male,Delhi,Rep 2
+IN-100208,1/18/2025,India,P2003,Organic Honey,Grocery,15,10,9,0,Mobile Payment,36-45,Male,Mumbai,Rep 2
+IN-100209,2/28/2025,India,P4002,Hair Trimmer,Personal Care,35,2,20,10,Cash,18-25,Male,Bangalore,Rep 2
+IN-100210,11/3/2025,India,P4001,Skincare Kit,Personal Care,50,6,28,10,Credit Card,36-45,Female,Bangalore,Rep 16
+IN-100211,8/27/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,15,Credit Card,26-35,Male,Delhi,Rep 4
+IN-100212,6/1/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,0,Credit Card,36-45,Male,Mumbai,Rep 19
+IN-100213,12/20/2025,India,P2003,Organic Honey,Grocery,15,10,9,15,Mobile Payment,46-55,Male,Bangalore,Rep 10
+IN-100214,9/8/2025,India,P4002,Hair Trimmer,Personal Care,35,3,20,10,Credit Card,36-45,Male,Bangalore,Rep 7
+IN-100215,10/17/2025,India,P1002,Laptop Air,Electronics,1100,2,880,10,Credit Card,46-55,Male,Delhi,Rep 1
+IN-100216,3/29/2025,India,P2003,Organic Honey,Grocery,15,8,9,10,Debit Card,18-25,Female,Mumbai,Rep 9
+IN-100217,10/25/2025,India,P1001,Smartphone X,Electronics,800,4,620,0,Cash,36-45,Female,Delhi,Rep 7
+IN-100218,4/4/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,10,Credit Card,26-35,Female,Delhi,Rep 10
+IN-100219,11/3/2025,India,P1002,Laptop Air,Electronics,1100,7,880,5,Cash,26-35,Female,Mumbai,Rep 3
+IN-100220,11/3/2025,India,P3001,Microwave Oven,Home Appliances,220,9,165,15,Debit Card,46-55,Male,Mumbai,Rep 4
+IN-100221,2/19/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,15,Cash,36-45,Female,Delhi,Rep 13
+IN-100222,7/6/2025,India,P1001,Smartphone X,Electronics,800,6,620,10,Cash,46-55,Male,Mumbai,Rep 18
+IN-100223,11/7/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,0,Cash,18-25,Male,Mumbai,Rep 6
+IN-100224,10/3/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,0,Credit Card,18-25,Female,Bangalore,Rep 1
+IN-100225,8/31/2025,India,P3002,Blender Pro,Home Appliances,120,3,85,0,Cash,26-35,Male,Mumbai,Rep 17
+IN-100226,5/2/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,15,Mobile Payment,18-25,Female,Delhi,Rep 2
+IN-100227,10/22/2025,India,P1001,Smartphone X,Electronics,800,2,620,15,Debit Card,26-35,Female,Bangalore,Rep 1
+IN-100228,12/11/2025,India,P1003,Wireless Earbuds,Electronics,150,7,95,0,Cash,26-35,Male,Delhi,Rep 6
+IN-100229,5/3/2025,India,P3001,Microwave Oven,Home Appliances,220,4,165,5,Debit Card,18-25,Male,Delhi,Rep 2
+IN-100230,9/13/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,10,Mobile Payment,26-35,Female,Delhi,Rep 18
+IN-100231,3/14/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,15,Credit Card,18-25,Female,Delhi,Rep 2
+IN-100232,12/24/2025,India,P1001,Smartphone X,Electronics,800,3,620,5,Debit Card,26-35,Male,Mumbai,Rep 10
+IN-100233,4/20/2025,India,P2003,Organic Honey,Grocery,15,5,9,10,Credit Card,36-45,Female,Bangalore,Rep 14
+IN-100234,10/25/2025,India,P3001,Microwave Oven,Home Appliances,220,7,165,15,Credit Card,36-45,Female,Bangalore,Rep 10
+IN-100235,10/7/2025,India,P2003,Organic Honey,Grocery,15,8,9,15,Mobile Payment,36-45,Male,Delhi,Rep 19
+IN-100236,12/27/2025,India,P2003,Organic Honey,Grocery,15,2,9,15,Mobile Payment,18-25,Female,Delhi,Rep 13
+IN-100237,3/23/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,0,Credit Card,46-55,Female,Delhi,Rep 14
+IN-100238,3/15/2025,India,P3001,Microwave Oven,Home Appliances,220,10,165,15,Debit Card,18-25,Female,Delhi,Rep 3
+IN-100239,10/14/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,0,Cash,36-45,Female,Bangalore,Rep 11
+IN-100240,11/1/2025,India,P2003,Organic Honey,Grocery,15,6,9,15,Cash,46-55,Male,Bangalore,Rep 9
+IN-100241,11/28/2025,India,P1001,Smartphone X,Electronics,800,5,620,10,Debit Card,36-45,Male,Bangalore,Rep 2
+IN-100242,12/5/2025,India,P4001,Skincare Kit,Personal Care,50,8,28,10,Mobile Payment,26-35,Male,Delhi,Rep 6
+IN-100243,6/5/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,0,Cash,18-25,Female,Mumbai,Rep 2
+IN-100244,12/17/2025,India,P1002,Laptop Air,Electronics,1100,1,880,15,Cash,36-45,Female,Mumbai,Rep 20
+IN-100245,5/6/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,5,Debit Card,18-25,Female,Mumbai,Rep 12
+IN-100246,9/8/2025,India,P1002,Laptop Air,Electronics,1100,7,880,0,Credit Card,18-25,Male,Bangalore,Rep 7
+IN-100247,2/21/2025,India,P3002,Blender Pro,Home Appliances,120,8,85,15,Cash,18-25,Male,Mumbai,Rep 20
+IN-100248,8/24/2025,India,P1001,Smartphone X,Electronics,800,2,620,0,Credit Card,26-35,Female,Delhi,Rep 8
+IN-100249,8/19/2025,India,P2004,Spices Pack,Grocery,9,4,4,0,Cash,26-35,Male,Mumbai,Rep 1
+IN-100250,6/28/2025,India,P1003,Wireless Earbuds,Electronics,150,7,95,15,Mobile Payment,18-25,Male,Delhi,Rep 15
+IN-100251,1/23/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,15,Cash,18-25,Female,Mumbai,Rep 10
+IN-100252,5/15/2025,India,P2004,Spices Pack,Grocery,9,7,4,15,Cash,26-35,Male,Mumbai,Rep 4
+IN-100253,4/17/2025,India,P4001,Skincare Kit,Personal Care,50,7,28,0,Mobile Payment,18-25,Female,Delhi,Rep 5
+IN-100254,5/9/2025,India,P2004,Spices Pack,Grocery,9,8,4,10,Mobile Payment,36-45,Male,Bangalore,Rep 19
+IN-100255,5/13/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,15,Credit Card,36-45,Female,Bangalore,Rep 18
+IN-100256,3/1/2025,India,P2004,Spices Pack,Grocery,9,7,4,5,Mobile Payment,26-35,Male,Delhi,Rep 6
+IN-100257,10/7/2025,India,P4002,Hair Trimmer,Personal Care,35,9,20,5,Credit Card,36-45,Male,Bangalore,Rep 4
+IN-100258,12/22/2025,India,P2004,Spices Pack,Grocery,9,8,4,15,Cash,18-25,Female,Mumbai,Rep 16
+IN-100259,12/21/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,15,Debit Card,36-45,Male,Mumbai,Rep 18
+IN-100260,4/15/2025,India,P3002,Blender Pro,Home Appliances,120,3,85,5,Mobile Payment,18-25,Female,Delhi,Rep 10
+IN-100261,12/30/2025,India,P1001,Smartphone X,Electronics,800,5,620,5,Mobile Payment,18-25,Female,Mumbai,Rep 10
+IN-100262,3/16/2025,India,P2003,Organic Honey,Grocery,15,5,9,5,Credit Card,36-45,Female,Mumbai,Rep 17
+IN-100263,2/14/2025,India,P1001,Smartphone X,Electronics,800,10,620,0,Mobile Payment,36-45,Female,Delhi,Rep 6
+IN-100264,6/1/2025,India,P2004,Spices Pack,Grocery,9,4,4,5,Cash,36-45,Female,Bangalore,Rep 7
+IN-100265,11/6/2025,India,P1002,Laptop Air,Electronics,1100,2,880,5,Credit Card,46-55,Female,Delhi,Rep 16
+IN-100266,5/6/2025,India,P4002,Hair Trimmer,Personal Care,35,3,20,0,Debit Card,36-45,Male,Delhi,Rep 9
+IN-100267,11/25/2025,India,P2004,Spices Pack,Grocery,9,9,4,0,Credit Card,36-45,Female,Delhi,Rep 18
+IN-100268,4/2/2025,India,P2004,Spices Pack,Grocery,9,8,4,5,Mobile Payment,46-55,Male,Delhi,Rep 15
+IN-100269,6/20/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,15,Mobile Payment,26-35,Male,Mumbai,Rep 18
+IN-100270,9/11/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,5,Mobile Payment,36-45,Male,Delhi,Rep 14
+IN-100271,4/22/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,15,Mobile Payment,36-45,Male,Bangalore,Rep 12
+IN-100272,4/3/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,15,Mobile Payment,36-45,Female,Mumbai,Rep 17
+IN-100273,3/27/2025,India,P3001,Microwave Oven,Home Appliances,220,9,165,15,Debit Card,26-35,Female,Mumbai,Rep 12
+IN-100274,12/16/2025,India,P2004,Spices Pack,Grocery,9,3,4,15,Debit Card,18-25,Female,Delhi,Rep 17
+IN-100275,8/20/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,10,Cash,18-25,Male,Mumbai,Rep 15
+IN-100276,10/24/2025,India,P4001,Skincare Kit,Personal Care,50,7,28,5,Mobile Payment,36-45,Female,Mumbai,Rep 8
+IN-100277,5/5/2025,India,P2003,Organic Honey,Grocery,15,7,9,0,Debit Card,18-25,Male,Delhi,Rep 13
+IN-100278,7/7/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,15,Debit Card,18-25,Female,Mumbai,Rep 12
+IN-100279,4/20/2025,India,P1001,Smartphone X,Electronics,800,4,620,15,Cash,18-25,Male,Mumbai,Rep 2
+IN-100280,10/26/2025,India,P2003,Organic Honey,Grocery,15,5,9,10,Cash,18-25,Male,Mumbai,Rep 17
+IN-100281,7/7/2025,India,P1001,Smartphone X,Electronics,800,7,620,15,Debit Card,18-25,Male,Delhi,Rep 13
+IN-100282,8/24/2025,India,P1002,Laptop Air,Electronics,1100,5,880,0,Mobile Payment,26-35,Male,Delhi,Rep 12
+IN-100283,10/29/2025,India,P1003,Wireless Earbuds,Electronics,150,5,95,5,Debit Card,46-55,Male,Delhi,Rep 7
+IN-100284,3/20/2025,India,P1002,Laptop Air,Electronics,1100,10,880,10,Credit Card,46-55,Male,Mumbai,Rep 20
+IN-100285,3/18/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,0,Debit Card,46-55,Male,Mumbai,Rep 10
+IN-100286,10/8/2025,India,P2003,Organic Honey,Grocery,15,6,9,5,Debit Card,46-55,Female,Mumbai,Rep 6
+IN-100287,4/20/2025,India,P2004,Spices Pack,Grocery,9,10,4,15,Credit Card,36-45,Male,Bangalore,Rep 14
+IN-100288,12/25/2025,India,P1001,Smartphone X,Electronics,800,9,620,0,Mobile Payment,36-45,Male,Delhi,Rep 10
+IN-100289,4/26/2025,India,P2003,Organic Honey,Grocery,15,3,9,10,Cash,46-55,Male,Delhi,Rep 18
+IN-100290,9/23/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,10,Mobile Payment,46-55,Female,Bangalore,Rep 4
+IN-100291,4/21/2025,India,P1002,Laptop Air,Electronics,1100,8,880,10,Mobile Payment,36-45,Female,Delhi,Rep 18
+IN-100292,9/18/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,10,Credit Card,26-35,Female,Mumbai,Rep 3
+IN-100293,5/19/2025,India,P3001,Microwave Oven,Home Appliances,220,1,165,5,Credit Card,36-45,Male,Mumbai,Rep 12
+IN-100294,9/3/2025,India,P4001,Skincare Kit,Personal Care,50,10,28,10,Cash,18-25,Female,Delhi,Rep 10
+IN-100295,11/1/2025,India,P1002,Laptop Air,Electronics,1100,6,880,0,Debit Card,18-25,Female,Bangalore,Rep 12
+IN-100296,9/26/2025,India,P2003,Organic Honey,Grocery,15,3,9,10,Mobile Payment,18-25,Female,Bangalore,Rep 1
+IN-100297,7/2/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,10,Cash,18-25,Male,Mumbai,Rep 8
+IN-100298,8/26/2025,India,P1003,Wireless Earbuds,Electronics,150,8,95,10,Debit Card,26-35,Female,Bangalore,Rep 16
+IN-100299,2/10/2025,India,P1001,Smartphone X,Electronics,800,6,620,5,Cash,18-25,Male,Mumbai,Rep 17
+IN-100300,3/14/2025,India,P1001,Smartphone X,Electronics,800,9,620,0,Credit Card,46-55,Female,Mumbai,Rep 8
+IN-100301,6/4/2025,India,P2003,Organic Honey,Grocery,15,1,9,0,Credit Card,26-35,Female,Mumbai,Rep 16
+IN-100302,11/27/2025,India,P4001,Skincare Kit,Personal Care,50,8,28,5,Debit Card,36-45,Female,Mumbai,Rep 20
+IN-100303,3/25/2025,India,P1002,Laptop Air,Electronics,1100,6,880,10,Cash,36-45,Female,Bangalore,Rep 8
+IN-100304,7/14/2025,India,P2004,Spices Pack,Grocery,9,8,4,0,Debit Card,18-25,Female,Mumbai,Rep 10
+IN-100305,11/10/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,5,Mobile Payment,36-45,Male,Bangalore,Rep 13
+IN-100306,7/18/2025,India,P2004,Spices Pack,Grocery,9,10,4,10,Credit Card,46-55,Male,Delhi,Rep 8
+IN-100307,9/26/2025,India,P4001,Skincare Kit,Personal Care,50,1,28,15,Cash,26-35,Female,Delhi,Rep 4
+IN-100308,5/19/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,10,Cash,46-55,Female,Bangalore,Rep 4
+IN-100309,10/17/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,10,Debit Card,46-55,Male,Mumbai,Rep 10
+IN-100310,5/15/2025,India,P1002,Laptop Air,Electronics,1100,9,880,15,Credit Card,26-35,Female,Mumbai,Rep 19
+IN-100311,9/23/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,15,Cash,26-35,Male,Delhi,Rep 19
+IN-100312,12/22/2025,India,P4001,Skincare Kit,Personal Care,50,8,28,5,Mobile Payment,46-55,Female,Mumbai,Rep 3
+IN-100313,10/14/2025,India,P1002,Laptop Air,Electronics,1100,9,880,0,Mobile Payment,26-35,Female,Delhi,Rep 1
+IN-100314,6/30/2025,India,P1001,Smartphone X,Electronics,800,10,620,5,Mobile Payment,18-25,Male,Delhi,Rep 2
+IN-100315,6/9/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,0,Credit Card,36-45,Female,Mumbai,Rep 1
+IN-100316,7/2/2025,India,P1002,Laptop Air,Electronics,1100,8,880,10,Credit Card,26-35,Female,Mumbai,Rep 11
+IN-100317,10/20/2025,India,P1001,Smartphone X,Electronics,800,1,620,0,Credit Card,18-25,Female,Mumbai,Rep 13
+IN-100318,11/29/2025,India,P2004,Spices Pack,Grocery,9,6,4,5,Debit Card,46-55,Male,Mumbai,Rep 13
+IN-100319,3/13/2025,India,P2003,Organic Honey,Grocery,15,1,9,10,Mobile Payment,46-55,Female,Delhi,Rep 9
+IN-100320,2/8/2025,India,P4001,Skincare Kit,Personal Care,50,9,28,5,Debit Card,26-35,Male,Bangalore,Rep 10
+IN-100321,11/22/2025,India,P2003,Organic Honey,Grocery,15,7,9,15,Debit Card,46-55,Male,Delhi,Rep 10
+IN-100322,3/2/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,10,Credit Card,18-25,Male,Bangalore,Rep 15
+IN-100323,2/4/2025,India,P3001,Microwave Oven,Home Appliances,220,3,165,15,Mobile Payment,36-45,Female,Mumbai,Rep 19
+IN-100324,9/15/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,15,Mobile Payment,26-35,Male,Mumbai,Rep 8
+IN-100325,6/26/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,0,Debit Card,26-35,Female,Mumbai,Rep 19
+IN-100326,8/1/2025,India,P2003,Organic Honey,Grocery,15,7,9,10,Credit Card,18-25,Female,Delhi,Rep 6
+IN-100327,7/31/2025,India,P2003,Organic Honey,Grocery,15,4,9,10,Debit Card,26-35,Female,Mumbai,Rep 8
+IN-100328,5/23/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,10,Credit Card,18-25,Male,Mumbai,Rep 19
+IN-100329,3/8/2025,India,P1001,Smartphone X,Electronics,800,6,620,10,Debit Card,46-55,Male,Bangalore,Rep 16
+IN-100330,12/28/2025,India,P1001,Smartphone X,Electronics,800,4,620,15,Debit Card,46-55,Male,Bangalore,Rep 2
+IN-100331,11/15/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,10,Credit Card,26-35,Female,Bangalore,Rep 20
+IN-100332,3/15/2025,India,P2004,Spices Pack,Grocery,9,5,4,15,Credit Card,18-25,Female,Mumbai,Rep 8
+IN-100333,9/5/2025,India,P3001,Microwave Oven,Home Appliances,220,4,165,5,Debit Card,26-35,Male,Delhi,Rep 17
+IN-100334,7/9/2025,India,P4001,Skincare Kit,Personal Care,50,7,28,5,Cash,18-25,Male,Mumbai,Rep 17
+IN-100335,3/5/2025,India,P4002,Hair Trimmer,Personal Care,35,1,20,5,Mobile Payment,36-45,Female,Mumbai,Rep 15
+IN-100336,1/29/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,5,Mobile Payment,18-25,Male,Delhi,Rep 10
+IN-100337,10/19/2025,India,P1001,Smartphone X,Electronics,800,7,620,15,Cash,46-55,Male,Delhi,Rep 9
+IN-100338,2/14/2025,India,P1003,Wireless Earbuds,Electronics,150,10,95,10,Cash,26-35,Female,Bangalore,Rep 19
+IN-100339,2/5/2025,India,P2004,Spices Pack,Grocery,9,10,4,10,Debit Card,36-45,Female,Mumbai,Rep 7
+IN-100340,3/14/2025,India,P4002,Hair Trimmer,Personal Care,35,3,20,10,Cash,18-25,Male,Mumbai,Rep 5
+IN-100341,7/27/2025,India,P1002,Laptop Air,Electronics,1100,2,880,10,Debit Card,46-55,Female,Delhi,Rep 20
+IN-100342,5/21/2025,India,P2003,Organic Honey,Grocery,15,4,9,15,Mobile Payment,18-25,Female,Mumbai,Rep 11
+IN-100343,6/16/2025,India,P2004,Spices Pack,Grocery,9,2,4,15,Credit Card,36-45,Male,Bangalore,Rep 19
+IN-100344,1/18/2025,India,P2004,Spices Pack,Grocery,9,4,4,0,Cash,18-25,Female,Bangalore,Rep 19
+IN-100345,7/8/2025,India,P4002,Hair Trimmer,Personal Care,35,2,20,0,Cash,26-35,Male,Bangalore,Rep 17
+IN-100346,11/21/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,5,Mobile Payment,46-55,Male,Delhi,Rep 11
+IN-100347,7/25/2025,India,P1001,Smartphone X,Electronics,800,8,620,15,Mobile Payment,26-35,Female,Bangalore,Rep 6
+IN-100348,9/25/2025,India,P1002,Laptop Air,Electronics,1100,2,880,15,Credit Card,18-25,Male,Delhi,Rep 19
+IN-100349,2/14/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,5,Cash,18-25,Male,Bangalore,Rep 1
+IN-100350,7/12/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,5,Credit Card,26-35,Male,Delhi,Rep 8
+IN-100351,10/25/2025,India,P4002,Hair Trimmer,Personal Care,35,2,20,15,Debit Card,26-35,Male,Mumbai,Rep 10
+IN-100352,2/16/2025,India,P4001,Skincare Kit,Personal Care,50,9,28,15,Debit Card,26-35,Female,Bangalore,Rep 7
+IN-100353,12/7/2025,India,P2004,Spices Pack,Grocery,9,9,4,5,Mobile Payment,46-55,Male,Bangalore,Rep 5
+IN-100354,7/11/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,15,Cash,36-45,Male,Bangalore,Rep 4
+IN-100355,2/7/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,15,Credit Card,18-25,Female,Mumbai,Rep 5
+IN-100356,7/14/2025,India,P4001,Skincare Kit,Personal Care,50,1,28,0,Cash,46-55,Male,Bangalore,Rep 13
+IN-100357,2/22/2025,India,P4001,Skincare Kit,Personal Care,50,7,28,0,Debit Card,36-45,Male,Bangalore,Rep 8
+IN-100358,2/24/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,5,Cash,18-25,Female,Bangalore,Rep 17
+IN-100359,3/10/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,0,Mobile Payment,46-55,Male,Bangalore,Rep 4
+IN-100360,1/1/2025,India,P3002,Blender Pro,Home Appliances,120,3,85,10,Debit Card,18-25,Female,Bangalore,Rep 5
+IN-100361,7/30/2025,India,P1001,Smartphone X,Electronics,800,9,620,5,Debit Card,46-55,Male,Delhi,Rep 6
+IN-100362,11/15/2025,India,P1002,Laptop Air,Electronics,1100,9,880,15,Cash,46-55,Male,Mumbai,Rep 10
+IN-100363,6/13/2025,India,P3001,Microwave Oven,Home Appliances,220,10,165,0,Credit Card,18-25,Male,Bangalore,Rep 8
+IN-100364,12/8/2025,India,P2004,Spices Pack,Grocery,9,3,4,10,Credit Card,46-55,Female,Bangalore,Rep 7
+IN-100365,8/11/2025,India,P1003,Wireless Earbuds,Electronics,150,1,95,0,Credit Card,36-45,Female,Delhi,Rep 1
+IN-100366,2/22/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,15,Credit Card,18-25,Male,Delhi,Rep 16
+IN-100367,12/4/2025,India,P4002,Hair Trimmer,Personal Care,35,5,20,15,Debit Card,36-45,Male,Delhi,Rep 20
+IN-100368,3/22/2025,India,P2004,Spices Pack,Grocery,9,2,4,5,Credit Card,46-55,Female,Delhi,Rep 15
+IN-100369,1/22/2025,India,P1001,Smartphone X,Electronics,800,7,620,5,Debit Card,18-25,Female,Bangalore,Rep 2
+IN-100370,4/9/2025,India,P3001,Microwave Oven,Home Appliances,220,1,165,15,Debit Card,36-45,Male,Delhi,Rep 13
+IN-100371,1/20/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,0,Cash,46-55,Male,Mumbai,Rep 10
+IN-100372,1/19/2025,India,P4002,Hair Trimmer,Personal Care,35,1,20,0,Cash,18-25,Female,Bangalore,Rep 18
+IN-100373,11/25/2025,India,P4001,Skincare Kit,Personal Care,50,10,28,15,Credit Card,18-25,Female,Mumbai,Rep 11
+IN-100374,12/27/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,5,Credit Card,26-35,Male,Bangalore,Rep 3
+IN-100375,7/28/2025,India,P3001,Microwave Oven,Home Appliances,220,2,165,10,Mobile Payment,26-35,Male,Mumbai,Rep 6
+IN-100376,6/13/2025,India,P1001,Smartphone X,Electronics,800,3,620,15,Cash,26-35,Male,Mumbai,Rep 15
+IN-100377,1/11/2025,India,P1003,Wireless Earbuds,Electronics,150,2,95,10,Debit Card,26-35,Male,Bangalore,Rep 3
+IN-100378,4/9/2025,India,P2004,Spices Pack,Grocery,9,2,4,0,Cash,26-35,Male,Bangalore,Rep 13
+IN-100379,1/11/2025,India,P2004,Spices Pack,Grocery,9,10,4,10,Credit Card,26-35,Female,Delhi,Rep 20
+IN-100380,7/11/2025,India,P4001,Skincare Kit,Personal Care,50,10,28,15,Cash,18-25,Male,Bangalore,Rep 3
+IN-100381,12/17/2025,India,P1003,Wireless Earbuds,Electronics,150,1,95,15,Cash,26-35,Female,Delhi,Rep 15
+IN-100382,6/16/2025,India,P1002,Laptop Air,Electronics,1100,8,880,15,Cash,18-25,Male,Delhi,Rep 12
+IN-100383,11/18/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,15,Debit Card,36-45,Male,Delhi,Rep 6
+IN-100384,4/15/2025,India,P1003,Wireless Earbuds,Electronics,150,8,95,10,Debit Card,18-25,Female,Mumbai,Rep 20
+IN-100385,4/2/2025,India,P2003,Organic Honey,Grocery,15,2,9,10,Credit Card,18-25,Female,Bangalore,Rep 15
+IN-100386,8/8/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,10,Debit Card,26-35,Male,Delhi,Rep 7
+IN-100387,8/5/2025,India,P2003,Organic Honey,Grocery,15,5,9,15,Credit Card,36-45,Male,Bangalore,Rep 20
+IN-100388,6/26/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,5,Credit Card,18-25,Male,Bangalore,Rep 2
+IN-100389,2/17/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,10,Cash,26-35,Male,Mumbai,Rep 15
+IN-100390,10/4/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,5,Debit Card,36-45,Male,Delhi,Rep 6
+IN-100391,1/27/2025,India,P3001,Microwave Oven,Home Appliances,220,4,165,10,Mobile Payment,36-45,Female,Bangalore,Rep 14
+IN-100392,1/22/2025,India,P2003,Organic Honey,Grocery,15,1,9,10,Credit Card,46-55,Female,Mumbai,Rep 1
+IN-100393,3/4/2025,India,P2004,Spices Pack,Grocery,9,10,4,0,Debit Card,36-45,Female,Bangalore,Rep 6
+IN-100394,3/27/2025,India,P2004,Spices Pack,Grocery,9,5,4,5,Credit Card,36-45,Female,Delhi,Rep 12
+IN-100395,10/8/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,10,Credit Card,36-45,Male,Delhi,Rep 4
+IN-100396,8/3/2025,India,P4001,Skincare Kit,Personal Care,50,6,28,5,Mobile Payment,36-45,Female,Bangalore,Rep 18
+IN-100397,5/31/2025,India,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,18-25,Female,Mumbai,Rep 4
+IN-100398,11/5/2025,India,P2003,Organic Honey,Grocery,15,5,9,5,Debit Card,26-35,Female,Delhi,Rep 4
+IN-100399,9/18/2025,India,P3002,Blender Pro,Home Appliances,120,6,85,5,Cash,26-35,Male,Mumbai,Rep 8
+IN-100400,8/26/2025,India,P3001,Microwave Oven,Home Appliances,220,2,165,5,Debit Card,18-25,Male,Delhi,Rep 19
+IN-100401,8/6/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,10,Credit Card,18-25,Male,Delhi,Rep 17
+IN-100402,2/21/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,15,Debit Card,26-35,Female,Bangalore,Rep 16
+IN-100403,11/20/2025,India,P2003,Organic Honey,Grocery,15,4,9,5,Cash,36-45,Female,Mumbai,Rep 14
+IN-100404,5/30/2025,India,P1001,Smartphone X,Electronics,800,5,620,5,Mobile Payment,36-45,Female,Delhi,Rep 6
+IN-100405,7/22/2025,India,P4001,Skincare Kit,Personal Care,50,5,28,15,Credit Card,36-45,Male,Delhi,Rep 10
+IN-100406,1/4/2025,India,P2004,Spices Pack,Grocery,9,2,4,5,Credit Card,18-25,Male,Bangalore,Rep 5
+IN-100407,1/16/2025,India,P1003,Wireless Earbuds,Electronics,150,10,95,0,Debit Card,36-45,Female,Bangalore,Rep 11
+IN-100408,8/21/2025,India,P3002,Blender Pro,Home Appliances,120,6,85,0,Credit Card,26-35,Female,Mumbai,Rep 5
+IN-100409,2/4/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,15,Credit Card,36-45,Male,Delhi,Rep 11
+IN-100410,9/7/2025,India,P3002,Blender Pro,Home Appliances,120,3,85,10,Mobile Payment,46-55,Male,Mumbai,Rep 18
+IN-100411,6/2/2025,India,P2003,Organic Honey,Grocery,15,2,9,0,Debit Card,46-55,Female,Mumbai,Rep 15
+IN-100412,11/30/2025,India,P1002,Laptop Air,Electronics,1100,7,880,0,Credit Card,18-25,Male,Mumbai,Rep 16
+IN-100413,10/13/2025,India,P1003,Wireless Earbuds,Electronics,150,9,95,15,Debit Card,26-35,Male,Bangalore,Rep 15
+IN-100414,3/7/2025,India,P2004,Spices Pack,Grocery,9,2,4,10,Credit Card,26-35,Female,Mumbai,Rep 10
+IN-100415,11/26/2025,India,P1002,Laptop Air,Electronics,1100,1,880,5,Debit Card,26-35,Male,Delhi,Rep 2
+IN-100416,10/4/2025,India,P3001,Microwave Oven,Home Appliances,220,6,165,10,Credit Card,26-35,Female,Mumbai,Rep 12
+IN-100417,12/14/2025,India,P2003,Organic Honey,Grocery,15,3,9,15,Mobile Payment,26-35,Female,Delhi,Rep 9
+IN-100418,5/7/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,15,Debit Card,36-45,Female,Bangalore,Rep 13
+IN-100419,10/6/2025,India,P1003,Wireless Earbuds,Electronics,150,4,95,0,Debit Card,18-25,Female,Delhi,Rep 12
+IN-100420,4/18/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,5,Debit Card,26-35,Male,Mumbai,Rep 1
+IN-100421,10/9/2025,India,P4002,Hair Trimmer,Personal Care,35,9,20,15,Debit Card,26-35,Female,Delhi,Rep 13
+IN-100422,2/5/2025,India,P3002,Blender Pro,Home Appliances,120,9,85,5,Cash,46-55,Male,Delhi,Rep 12
+IN-100423,2/18/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,0,Credit Card,26-35,Female,Mumbai,Rep 10
+IN-100424,9/28/2025,India,P3002,Blender Pro,Home Appliances,120,10,85,5,Credit Card,46-55,Male,Bangalore,Rep 7
+IN-100425,10/4/2025,India,P2004,Spices Pack,Grocery,9,8,4,0,Cash,46-55,Male,Bangalore,Rep 9
+IN-100426,11/24/2025,India,P2004,Spices Pack,Grocery,9,1,4,10,Mobile Payment,36-45,Male,Bangalore,Rep 4
+IN-100427,12/21/2025,India,P1003,Wireless Earbuds,Electronics,150,1,95,0,Credit Card,18-25,Female,Mumbai,Rep 12
+IN-100428,12/3/2025,India,P1003,Wireless Earbuds,Electronics,150,5,95,5,Mobile Payment,36-45,Female,Mumbai,Rep 9
+IN-100429,11/20/2025,India,P3001,Microwave Oven,Home Appliances,220,8,165,10,Cash,26-35,Female,Mumbai,Rep 10
+IN-100430,3/8/2025,India,P4001,Skincare Kit,Personal Care,50,4,28,5,Credit Card,18-25,Male,Delhi,Rep 5
+IN-100431,12/4/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,0,Mobile Payment,36-45,Male,Mumbai,Rep 4
+IN-100432,5/20/2025,India,P1001,Smartphone X,Electronics,800,5,620,5,Debit Card,36-45,Female,Delhi,Rep 1
+IN-100433,2/21/2025,India,P2004,Spices Pack,Grocery,9,5,4,10,Mobile Payment,36-45,Female,Mumbai,Rep 8
+IN-100434,1/17/2025,India,P3002,Blender Pro,Home Appliances,120,3,85,0,Mobile Payment,18-25,Male,Mumbai,Rep 14
+IN-100435,10/30/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,15,Cash,36-45,Female,Delhi,Rep 7
+IN-100436,1/19/2025,India,P4002,Hair Trimmer,Personal Care,35,8,20,10,Credit Card,26-35,Male,Bangalore,Rep 13
+IN-100437,1/23/2025,India,P1002,Laptop Air,Electronics,1100,3,880,15,Credit Card,46-55,Male,Bangalore,Rep 14
+IN-100438,1/10/2025,India,P4001,Skincare Kit,Personal Care,50,2,28,10,Credit Card,36-45,Male,Mumbai,Rep 5
+IN-100439,6/4/2025,India,P4002,Hair Trimmer,Personal Care,35,9,20,10,Mobile Payment,26-35,Female,Bangalore,Rep 15
+IN-100440,8/24/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,0,Mobile Payment,26-35,Female,Bangalore,Rep 17
+IN-100441,11/19/2025,India,P1003,Wireless Earbuds,Electronics,150,7,95,10,Debit Card,18-25,Female,Delhi,Rep 19
+IN-100442,9/21/2025,India,P2003,Organic Honey,Grocery,15,10,9,10,Debit Card,46-55,Female,Bangalore,Rep 6
+IN-100443,12/26/2025,India,P1001,Smartphone X,Electronics,800,4,620,15,Credit Card,26-35,Female,Mumbai,Rep 18
+IN-100444,5/16/2025,India,P3001,Microwave Oven,Home Appliances,220,7,165,0,Credit Card,18-25,Male,Bangalore,Rep 9
+IN-100445,10/13/2025,India,P4001,Skincare Kit,Personal Care,50,9,28,0,Debit Card,18-25,Female,Delhi,Rep 6
+IN-100446,8/23/2025,India,P2004,Spices Pack,Grocery,9,1,4,0,Debit Card,18-25,Male,Mumbai,Rep 20
+IN-100447,10/19/2025,India,P2004,Spices Pack,Grocery,9,4,4,15,Debit Card,36-45,Female,Delhi,Rep 15
+IN-100448,6/16/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,15,Mobile Payment,18-25,Female,Bangalore,Rep 14
+IN-100449,11/5/2025,India,P2004,Spices Pack,Grocery,9,4,4,5,Mobile Payment,18-25,Female,Mumbai,Rep 13
+IN-100450,7/11/2025,India,P2004,Spices Pack,Grocery,9,3,4,5,Debit Card,18-25,Female,Delhi,Rep 16
+IN-100451,3/28/2025,India,P1002,Laptop Air,Electronics,1100,10,880,15,Mobile Payment,46-55,Male,Mumbai,Rep 16
+IN-100452,6/25/2025,India,P4002,Hair Trimmer,Personal Care,35,5,20,10,Cash,26-35,Male,Mumbai,Rep 6
+IN-100453,7/5/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,0,Debit Card,36-45,Female,Delhi,Rep 20
+IN-100454,8/1/2025,India,P4001,Skincare Kit,Personal Care,50,8,28,0,Debit Card,18-25,Male,Mumbai,Rep 20
+IN-100455,2/11/2025,India,P2003,Organic Honey,Grocery,15,2,9,5,Cash,18-25,Male,Delhi,Rep 14
+IN-100456,4/6/2025,India,P4002,Hair Trimmer,Personal Care,35,7,20,15,Cash,18-25,Female,Bangalore,Rep 19
+IN-100457,12/2/2025,India,P3002,Blender Pro,Home Appliances,120,5,85,15,Credit Card,36-45,Female,Delhi,Rep 5
+IN-100458,6/13/2025,India,P4001,Skincare Kit,Personal Care,50,9,28,15,Cash,46-55,Male,Mumbai,Rep 20
+IN-100459,11/9/2025,India,P2004,Spices Pack,Grocery,9,10,4,0,Mobile Payment,26-35,Male,Bangalore,Rep 19
+IN-100460,12/18/2025,India,P2004,Spices Pack,Grocery,9,6,4,10,Cash,18-25,Male,Bangalore,Rep 12
+IN-100461,7/9/2025,India,P4002,Hair Trimmer,Personal Care,35,3,20,15,Credit Card,36-45,Male,Mumbai,Rep 4
+IN-100462,7/7/2025,India,P2003,Organic Honey,Grocery,15,4,9,15,Credit Card,18-25,Male,Delhi,Rep 14
+IN-100463,4/10/2025,India,P1002,Laptop Air,Electronics,1100,5,880,15,Mobile Payment,26-35,Male,Bangalore,Rep 14
+IN-100464,2/25/2025,India,P1002,Laptop Air,Electronics,1100,4,880,5,Debit Card,18-25,Female,Mumbai,Rep 20
+IN-100465,6/24/2025,India,P1003,Wireless Earbuds,Electronics,150,7,95,0,Credit Card,26-35,Female,Mumbai,Rep 3
+IN-100466,2/23/2025,India,P1001,Smartphone X,Electronics,800,5,620,5,Cash,46-55,Male,Bangalore,Rep 15
+IN-100467,8/6/2025,India,P1002,Laptop Air,Electronics,1100,10,880,15,Debit Card,46-55,Male,Mumbai,Rep 14
+IN-100468,4/21/2025,India,P1002,Laptop Air,Electronics,1100,6,880,5,Cash,36-45,Female,Delhi,Rep 1
+IN-100469,3/21/2025,India,P4002,Hair Trimmer,Personal Care,35,6,20,10,Cash,36-45,Male,Bangalore,Rep 18
+IN-100470,1/19/2025,India,P1002,Laptop Air,Electronics,1100,5,880,0,Cash,46-55,Female,Delhi,Rep 10
+IN-100471,3/6/2025,India,P4001,Skincare Kit,Personal Care,50,1,28,5,Debit Card,18-25,Female,Mumbai,Rep 12
+IN-100472,5/15/2025,India,P4002,Hair Trimmer,Personal Care,35,10,20,5,Cash,36-45,Female,Mumbai,Rep 9
+IN-100473,10/1/2025,India,P3002,Blender Pro,Home Appliances,120,10,85,15,Debit Card,46-55,Male,Bangalore,Rep 19
+IN-100474,9/30/2025,India,P1001,Smartphone X,Electronics,800,7,620,15,Mobile Payment,18-25,Male,Mumbai,Rep 4
+IN-100475,7/10/2025,India,P2003,Organic Honey,Grocery,15,10,9,15,Mobile Payment,26-35,Male,Delhi,Rep 18
+IN-100476,12/10/2025,India,P1001,Smartphone X,Electronics,800,7,620,0,Cash,26-35,Male,Bangalore,Rep 5
+IN-100477,7/26/2025,India,P2003,Organic Honey,Grocery,15,2,9,5,Mobile Payment,18-25,Male,Bangalore,Rep 6
+IN-100478,6/28/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,0,Debit Card,18-25,Female,Delhi,Rep 5
+IN-100479,12/15/2025,India,P1001,Smartphone X,Electronics,800,10,620,0,Mobile Payment,18-25,Male,Bangalore,Rep 20
+IN-100480,11/16/2025,India,P3002,Blender Pro,Home Appliances,120,4,85,5,Debit Card,18-25,Male,Bangalore,Rep 5
+IN-100481,8/22/2025,India,P1002,Laptop Air,Electronics,1100,2,880,10,Mobile Payment,36-45,Male,Delhi,Rep 7
+IN-100482,5/17/2025,India,P4001,Skincare Kit,Personal Care,50,7,28,5,Credit Card,18-25,Male,Mumbai,Rep 7
+IN-100483,8/29/2025,India,P3002,Blender Pro,Home Appliances,120,1,85,5,Debit Card,46-55,Male,Bangalore,Rep 17
+IN-100484,5/8/2025,India,P2004,Spices Pack,Grocery,9,7,4,5,Mobile Payment,26-35,Male,Mumbai,Rep 16
+IN-100485,4/23/2025,India,P1001,Smartphone X,Electronics,800,4,620,10,Debit Card,46-55,Male,Bangalore,Rep 9
+IN-100486,4/22/2025,India,P4001,Skincare Kit,Personal Care,50,8,28,10,Cash,26-35,Female,Bangalore,Rep 18
+IN-100487,6/29/2025,India,P2004,Spices Pack,Grocery,9,6,4,15,Cash,46-55,Male,Bangalore,Rep 11
+IN-100488,1/18/2025,India,P2004,Spices Pack,Grocery,9,8,4,10,Cash,18-25,Male,Delhi,Rep 7
+IN-100489,8/31/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,15,Cash,36-45,Male,Bangalore,Rep 5
+IN-100490,5/10/2025,India,P1003,Wireless Earbuds,Electronics,150,3,95,5,Mobile Payment,18-25,Female,Mumbai,Rep 12
+IN-100491,12/21/2025,India,P1003,Wireless Earbuds,Electronics,150,10,95,0,Debit Card,26-35,Female,Delhi,Rep 1
+IN-100492,7/25/2025,India,P4002,Hair Trimmer,Personal Care,35,4,20,15,Cash,46-55,Female,Mumbai,Rep 20
+IN-100493,1/26/2025,India,P2004,Spices Pack,Grocery,9,7,4,0,Debit Card,26-35,Female,Mumbai,Rep 18
+IN-100494,7/12/2025,India,P3001,Microwave Oven,Home Appliances,220,5,165,15,Debit Card,36-45,Male,Delhi,Rep 13
+IN-100495,10/15/2025,India,P1003,Wireless Earbuds,Electronics,150,6,95,10,Mobile Payment,36-45,Male,Mumbai,Rep 16
+IN-100496,11/22/2025,India,P1002,Laptop Air,Electronics,1100,5,880,0,Credit Card,46-55,Male,Mumbai,Rep 9
+IN-100497,12/18/2025,India,P3002,Blender Pro,Home Appliances,120,7,85,5,Mobile Payment,46-55,Male,Bangalore,Rep 2
+IN-100498,8/13/2025,India,P3001,Microwave Oven,Home Appliances,220,1,165,15,Cash,36-45,Male,Bangalore,Rep 13
+IN-100499,8/16/2025,India,P2004,Spices Pack,Grocery,9,6,4,5,Mobile Payment,36-45,Female,Delhi,Rep 3

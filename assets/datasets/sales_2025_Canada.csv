@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_Per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+CA-100000,8/9/2025,Canada,P3001,Microwave Oven,Home Appliances,220,7,165,5,Cash,26-35,Female,Toronto,Rep 13
+CA-100001,5/15/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,5,Credit Card,18-25,Female,Vancouver,Rep 16
+CA-100002,10/27/2025,Canada,P2003,Organic Honey,Grocery,15,3,9,0,Cash,26-35,Female,Toronto,Rep 9
+CA-100003,3/15/2025,Canada,P4001,Skincare Kit,Personal Care,50,9,28,15,Mobile Payment,36-45,Male,Montreal,Rep 9
+CA-100004,10/11/2025,Canada,P2004,Spices Pack,Grocery,9,10,4,10,Credit Card,26-35,Female,Montreal,Rep 15
+CA-100005,3/20/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,15,Mobile Payment,36-45,Female,Toronto,Rep 2
+CA-100006,5/13/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,0,Credit Card,46-55,Male,Toronto,Rep 18
+CA-100007,8/22/2025,Canada,P1003,Wireless Earbuds,Electronics,150,4,95,0,Mobile Payment,26-35,Male,Toronto,Rep 16
+CA-100008,1/20/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,15,Mobile Payment,18-25,Female,Montreal,Rep 11
+CA-100009,2/3/2025,Canada,P1002,Laptop Air,Electronics,1100,10,880,5,Credit Card,36-45,Female,Vancouver,Rep 12
+CA-100010,8/31/2025,Canada,P1002,Laptop Air,Electronics,1100,9,880,10,Mobile Payment,26-35,Male,Montreal,Rep 5
+CA-100011,6/19/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,15,Debit Card,36-45,Female,Toronto,Rep 10
+CA-100012,5/16/2025,Canada,P1001,Smartphone X,Electronics,800,9,620,15,Credit Card,46-55,Female,Montreal,Rep 13
+CA-100013,5/20/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,10,Credit Card,18-25,Male,Montreal,Rep 17
+CA-100014,7/2/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,15,Mobile Payment,46-55,Female,Vancouver,Rep 10
+CA-100015,10/2/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,0,Mobile Payment,18-25,Female,Toronto,Rep 2
+CA-100016,2/21/2025,Canada,P3002,Blender Pro,Home Appliances,120,6,85,5,Debit Card,26-35,Male,Montreal,Rep 15
+CA-100017,10/22/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,10,Mobile Payment,26-35,Female,Vancouver,Rep 18
+CA-100018,10/13/2025,Canada,P2004,Spices Pack,Grocery,9,9,4,5,Mobile Payment,18-25,Female,Vancouver,Rep 7
+CA-100019,7/29/2025,Canada,P4001,Skincare Kit,Personal Care,50,1,28,0,Mobile Payment,26-35,Female,Montreal,Rep 14
+CA-100020,9/14/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,0,Cash,18-25,Male,Vancouver,Rep 2
+CA-100021,10/16/2025,Canada,P4001,Skincare Kit,Personal Care,50,9,28,0,Cash,18-25,Male,Vancouver,Rep 16
+CA-100022,8/10/2025,Canada,P2003,Organic Honey,Grocery,15,3,9,15,Credit Card,46-55,Male,Toronto,Rep 10
+CA-100023,10/16/2025,Canada,P2004,Spices Pack,Grocery,9,4,4,10,Debit Card,26-35,Female,Toronto,Rep 18
+CA-100024,10/13/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,10,Cash,46-55,Female,Montreal,Rep 8
+CA-100025,11/17/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,0,Mobile Payment,26-35,Female,Vancouver,Rep 7
+CA-100026,9/24/2025,Canada,P1003,Wireless Earbuds,Electronics,150,9,95,0,Cash,18-25,Male,Vancouver,Rep 5
+CA-100027,12/21/2025,Canada,P2004,Spices Pack,Grocery,9,5,4,0,Cash,46-55,Female,Toronto,Rep 18
+CA-100028,10/22/2025,Canada,P1002,Laptop Air,Electronics,1100,2,880,10,Mobile Payment,18-25,Female,Montreal,Rep 4
+CA-100029,9/8/2025,Canada,P3001,Microwave Oven,Home Appliances,220,5,165,15,Cash,46-55,Female,Vancouver,Rep 1
+CA-100030,8/11/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,15,Credit Card,26-35,Female,Montreal,Rep 11
+CA-100031,7/28/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,10,Mobile Payment,46-55,Male,Montreal,Rep 9
+CA-100032,4/28/2025,Canada,P1003,Wireless Earbuds,Electronics,150,9,95,15,Cash,36-45,Female,Montreal,Rep 7
+CA-100033,1/7/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,15,Cash,26-35,Male,Vancouver,Rep 19
+CA-100034,5/14/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,5,Credit Card,46-55,Female,Montreal,Rep 5
+CA-100035,12/31/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,15,Mobile Payment,26-35,Male,Montreal,Rep 8
+CA-100036,4/4/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,5,Cash,46-55,Male,Vancouver,Rep 2
+CA-100037,2/15/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,10,Debit Card,46-55,Male,Toronto,Rep 16
+CA-100038,8/10/2025,Canada,P1002,Laptop Air,Electronics,1100,1,880,0,Cash,36-45,Male,Vancouver,Rep 16
+CA-100039,6/15/2025,Canada,P1003,Wireless Earbuds,Electronics,150,10,95,10,Debit Card,18-25,Female,Vancouver,Rep 18
+CA-100040,1/26/2025,Canada,P4001,Skincare Kit,Personal Care,50,7,28,5,Mobile Payment,46-55,Male,Toronto,Rep 19
+CA-100041,8/7/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,15,Cash,36-45,Male,Montreal,Rep 18
+CA-100042,12/27/2025,Canada,P3002,Blender Pro,Home Appliances,120,10,85,5,Credit Card,18-25,Male,Montreal,Rep 2
+CA-100043,12/10/2025,Canada,P1002,Laptop Air,Electronics,1100,7,880,0,Cash,46-55,Male,Montreal,Rep 5
+CA-100044,2/17/2025,Canada,P1001,Smartphone X,Electronics,800,7,620,0,Mobile Payment,46-55,Male,Toronto,Rep 4
+CA-100045,3/5/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,0,Cash,46-55,Female,Montreal,Rep 19
+CA-100046,4/8/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,10,Mobile Payment,18-25,Male,Vancouver,Rep 14
+CA-100047,11/15/2025,Canada,P1002,Laptop Air,Electronics,1100,4,880,5,Debit Card,46-55,Female,Vancouver,Rep 12
+CA-100048,9/29/2025,Canada,P1002,Laptop Air,Electronics,1100,2,880,10,Debit Card,18-25,Female,Vancouver,Rep 13
+CA-100049,5/30/2025,Canada,P4001,Skincare Kit,Personal Care,50,7,28,15,Mobile Payment,46-55,Male,Toronto,Rep 1
+CA-100050,3/6/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,0,Credit Card,46-55,Male,Toronto,Rep 4
+CA-100051,3/11/2025,Canada,P4002,Hair Trimmer,Personal Care,35,7,20,0,Cash,36-45,Male,Montreal,Rep 2
+CA-100052,10/29/2025,Canada,P2004,Spices Pack,Grocery,9,1,4,15,Credit Card,46-55,Male,Toronto,Rep 9
+CA-100053,12/28/2025,Canada,P1001,Smartphone X,Electronics,800,1,620,10,Mobile Payment,26-35,Male,Toronto,Rep 19
+CA-100054,1/5/2025,Canada,P3001,Microwave Oven,Home Appliances,220,6,165,10,Mobile Payment,46-55,Female,Toronto,Rep 7
+CA-100055,11/5/2025,Canada,P1003,Wireless Earbuds,Electronics,150,10,95,5,Debit Card,26-35,Male,Toronto,Rep 7
+CA-100056,2/23/2025,Canada,P3001,Microwave Oven,Home Appliances,220,9,165,10,Mobile Payment,26-35,Male,Toronto,Rep 9
+CA-100057,11/18/2025,Canada,P1003,Wireless Earbuds,Electronics,150,7,95,5,Cash,36-45,Female,Vancouver,Rep 7
+CA-100058,9/13/2025,Canada,P1002,Laptop Air,Electronics,1100,7,880,0,Mobile Payment,36-45,Male,Vancouver,Rep 15
+CA-100059,7/27/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,0,Credit Card,36-45,Male,Toronto,Rep 15
+CA-100060,7/22/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,15,Credit Card,26-35,Female,Toronto,Rep 8
+CA-100061,5/19/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,10,Credit Card,46-55,Male,Toronto,Rep 10
+CA-100062,1/27/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,0,Mobile Payment,18-25,Female,Toronto,Rep 16
+CA-100063,8/24/2025,Canada,P4002,Hair Trimmer,Personal Care,35,5,20,10,Mobile Payment,46-55,Female,Montreal,Rep 8
+CA-100064,8/31/2025,Canada,P3002,Blender Pro,Home Appliances,120,10,85,10,Credit Card,18-25,Male,Vancouver,Rep 17
+CA-100065,4/1/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,10,Credit Card,18-25,Female,Vancouver,Rep 5
+CA-100066,5/26/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,5,Credit Card,26-35,Female,Toronto,Rep 20
+CA-100067,7/3/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,15,Credit Card,26-35,Female,Toronto,Rep 4
+CA-100068,1/2/2025,Canada,P2004,Spices Pack,Grocery,9,9,4,5,Cash,46-55,Female,Toronto,Rep 11
+CA-100069,3/12/2025,Canada,P4001,Skincare Kit,Personal Care,50,4,28,10,Cash,26-35,Male,Vancouver,Rep 5
+CA-100070,7/22/2025,Canada,P1001,Smartphone X,Electronics,800,9,620,10,Cash,18-25,Male,Toronto,Rep 12
+CA-100071,4/26/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,0,Cash,18-25,Male,Vancouver,Rep 9
+CA-100072,7/19/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,0,Cash,26-35,Female,Toronto,Rep 2
+CA-100073,11/8/2025,Canada,P1001,Smartphone X,Electronics,800,10,620,0,Credit Card,46-55,Female,Montreal,Rep 15
+CA-100074,7/28/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,10,Mobile Payment,26-35,Female,Montreal,Rep 7
+CA-100075,3/9/2025,Canada,P3001,Microwave Oven,Home Appliances,220,6,165,10,Cash,36-45,Female,Montreal,Rep 15
+CA-100076,3/4/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,5,Cash,26-35,Female,Vancouver,Rep 16
+CA-100077,2/11/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,0,Credit Card,26-35,Female,Vancouver,Rep 10
+CA-100078,9/13/2025,Canada,P1003,Wireless Earbuds,Electronics,150,4,95,0,Cash,36-45,Male,Toronto,Rep 3
+CA-100079,5/15/2025,Canada,P3002,Blender Pro,Home Appliances,120,1,85,15,Credit Card,46-55,Male,Montreal,Rep 11
+CA-100080,5/12/2025,Canada,P1003,Wireless Earbuds,Electronics,150,7,95,10,Cash,26-35,Male,Toronto,Rep 9
+CA-100081,9/25/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,5,Mobile Payment,36-45,Male,Montreal,Rep 9
+CA-100082,9/5/2025,Canada,P1002,Laptop Air,Electronics,1100,6,880,10,Cash,36-45,Female,Vancouver,Rep 8
+CA-100083,6/10/2025,Canada,P1002,Laptop Air,Electronics,1100,8,880,0,Cash,46-55,Female,Toronto,Rep 17
+CA-100084,1/4/2025,Canada,P4002,Hair Trimmer,Personal Care,35,4,20,0,Debit Card,18-25,Male,Toronto,Rep 17
+CA-100085,4/11/2025,Canada,P4001,Skincare Kit,Personal Care,50,4,28,0,Cash,36-45,Female,Montreal,Rep 4
+CA-100086,9/12/2025,Canada,P1003,Wireless Earbuds,Electronics,150,8,95,5,Credit Card,26-35,Female,Toronto,Rep 15
+CA-100087,7/3/2025,Canada,P3002,Blender Pro,Home Appliances,120,3,85,15,Cash,36-45,Male,Montreal,Rep 17
+CA-100088,3/14/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,0,Debit Card,46-55,Male,Toronto,Rep 4
+CA-100089,9/5/2025,Canada,P4001,Skincare Kit,Personal Care,50,7,28,5,Debit Card,18-25,Female,Vancouver,Rep 4
+CA-100090,12/18/2025,Canada,P1003,Wireless Earbuds,Electronics,150,1,95,0,Credit Card,46-55,Male,Vancouver,Rep 8
+CA-100091,3/17/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,5,Cash,18-25,Male,Vancouver,Rep 6
+CA-100092,10/6/2025,Canada,P1003,Wireless Earbuds,Electronics,150,2,95,15,Cash,18-25,Male,Toronto,Rep 7
+CA-100093,12/19/2025,Canada,P3001,Microwave Oven,Home Appliances,220,1,165,0,Credit Card,26-35,Male,Montreal,Rep 8
+CA-100094,9/21/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,15,Debit Card,18-25,Female,Montreal,Rep 2
+CA-100095,5/28/2025,Canada,P4002,Hair Trimmer,Personal Care,35,7,20,15,Mobile Payment,26-35,Female,Vancouver,Rep 1
+CA-100096,8/25/2025,Canada,P1002,Laptop Air,Electronics,1100,4,880,15,Cash,18-25,Female,Vancouver,Rep 18
+CA-100097,12/5/2025,Canada,P2003,Organic Honey,Grocery,15,7,9,10,Debit Card,36-45,Male,Toronto,Rep 4
+CA-100098,3/8/2025,Canada,P1002,Laptop Air,Electronics,1100,10,880,10,Cash,36-45,Male,Toronto,Rep 9
+CA-100099,5/14/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,10,Mobile Payment,26-35,Female,Vancouver,Rep 16
+CA-100100,7/3/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,5,Cash,26-35,Female,Toronto,Rep 1
+CA-100101,12/20/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,15,Credit Card,26-35,Male,Montreal,Rep 17
+CA-100102,8/20/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,15,Debit Card,36-45,Male,Vancouver,Rep 16
+CA-100103,11/9/2025,Canada,P2004,Spices Pack,Grocery,9,4,4,10,Mobile Payment,18-25,Female,Toronto,Rep 1
+CA-100104,7/25/2025,Canada,P1002,Laptop Air,Electronics,1100,5,880,15,Debit Card,46-55,Male,Montreal,Rep 11
+CA-100105,2/17/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,10,Debit Card,26-35,Male,Vancouver,Rep 6
+CA-100106,5/27/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,0,Debit Card,18-25,Female,Vancouver,Rep 17
+CA-100107,8/11/2025,Canada,P1002,Laptop Air,Electronics,1100,10,880,0,Cash,46-55,Male,Montreal,Rep 10
+CA-100108,2/8/2025,Canada,P1001,Smartphone X,Electronics,800,10,620,10,Debit Card,46-55,Female,Vancouver,Rep 10
+CA-100109,1/11/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,5,Cash,36-45,Female,Toronto,Rep 4
+CA-100110,9/27/2025,Canada,P1002,Laptop Air,Electronics,1100,6,880,15,Mobile Payment,36-45,Male,Toronto,Rep 18
+CA-100111,8/16/2025,Canada,P1003,Wireless Earbuds,Electronics,150,8,95,15,Mobile Payment,18-25,Male,Montreal,Rep 18
+CA-100112,7/10/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,5,Mobile Payment,36-45,Female,Vancouver,Rep 8
+CA-100113,12/24/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,5,Mobile Payment,36-45,Female,Vancouver,Rep 11
+CA-100114,8/28/2025,Canada,P3002,Blender Pro,Home Appliances,120,8,85,15,Credit Card,46-55,Male,Toronto,Rep 7
+CA-100115,6/26/2025,Canada,P4001,Skincare Kit,Personal Care,50,1,28,10,Mobile Payment,18-25,Male,Vancouver,Rep 17
+CA-100116,6/30/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,0,Credit Card,18-25,Female,Vancouver,Rep 8
+CA-100117,2/11/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,15,Debit Card,36-45,Male,Toronto,Rep 2
+CA-100118,5/27/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,5,Cash,26-35,Male,Montreal,Rep 18
+CA-100119,5/20/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,10,Credit Card,26-35,Male,Vancouver,Rep 11
+CA-100120,6/19/2025,Canada,P2004,Spices Pack,Grocery,9,2,4,0,Cash,46-55,Female,Toronto,Rep 12
+CA-100121,3/13/2025,Canada,P1003,Wireless Earbuds,Electronics,150,8,95,5,Mobile Payment,18-25,Male,Montreal,Rep 1
+CA-100122,11/22/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,5,Cash,26-35,Male,Montreal,Rep 19
+CA-100123,10/23/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,5,Debit Card,46-55,Male,Montreal,Rep 8
+CA-100124,6/30/2025,Canada,P4002,Hair Trimmer,Personal Care,35,8,20,15,Mobile Payment,46-55,Male,Vancouver,Rep 10
+CA-100125,4/27/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,15,Mobile Payment,36-45,Female,Toronto,Rep 18
+CA-100126,1/31/2025,Canada,P3002,Blender Pro,Home Appliances,120,1,85,10,Cash,18-25,Female,Montreal,Rep 14
+CA-100127,6/15/2025,Canada,P2004,Spices Pack,Grocery,9,4,4,15,Debit Card,36-45,Female,Toronto,Rep 20
+CA-100128,7/28/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,15,Cash,46-55,Male,Toronto,Rep 17
+CA-100129,5/30/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,15,Cash,46-55,Male,Vancouver,Rep 7
+CA-100130,3/23/2025,Canada,P1003,Wireless Earbuds,Electronics,150,8,95,5,Debit Card,18-25,Female,Toronto,Rep 10
+CA-100131,6/22/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,10,Mobile Payment,26-35,Female,Toronto,Rep 3
+CA-100132,12/29/2025,Canada,P2003,Organic Honey,Grocery,15,6,9,10,Cash,36-45,Male,Vancouver,Rep 14
+CA-100133,4/6/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,15,Cash,18-25,Female,Vancouver,Rep 5
+CA-100134,11/7/2025,Canada,P3002,Blender Pro,Home Appliances,120,1,85,0,Debit Card,26-35,Male,Vancouver,Rep 14
+CA-100135,6/7/2025,Canada,P3001,Microwave Oven,Home Appliances,220,6,165,15,Cash,18-25,Male,Vancouver,Rep 12
+CA-100136,12/4/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,15,Cash,26-35,Female,Vancouver,Rep 10
+CA-100137,7/10/2025,Canada,P2004,Spices Pack,Grocery,9,8,4,15,Debit Card,18-25,Male,Toronto,Rep 12
+CA-100138,3/14/2025,Canada,P3001,Microwave Oven,Home Appliances,220,5,165,15,Debit Card,18-25,Male,Vancouver,Rep 16
+CA-100139,11/28/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,0,Cash,36-45,Male,Toronto,Rep 16
+CA-100140,9/2/2025,Canada,P1003,Wireless Earbuds,Electronics,150,4,95,10,Debit Card,46-55,Male,Vancouver,Rep 11
+CA-100141,3/29/2025,Canada,P3002,Blender Pro,Home Appliances,120,10,85,0,Cash,46-55,Male,Vancouver,Rep 7
+CA-100142,3/23/2025,Canada,P4001,Skincare Kit,Personal Care,50,3,28,15,Debit Card,36-45,Female,Montreal,Rep 9
+CA-100143,8/2/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,15,Mobile Payment,36-45,Male,Montreal,Rep 1
+CA-100144,11/18/2025,Canada,P1002,Laptop Air,Electronics,1100,5,880,5,Debit Card,26-35,Female,Montreal,Rep 4
+CA-100145,2/2/2025,Canada,P2004,Spices Pack,Grocery,9,3,4,15,Cash,46-55,Male,Toronto,Rep 10
+CA-100146,6/18/2025,Canada,P3002,Blender Pro,Home Appliances,120,6,85,10,Mobile Payment,36-45,Male,Toronto,Rep 16
+CA-100147,6/25/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,10,Debit Card,46-55,Female,Toronto,Rep 7
+CA-100148,7/15/2025,Canada,P4002,Hair Trimmer,Personal Care,35,3,20,10,Mobile Payment,46-55,Male,Toronto,Rep 7
+CA-100149,1/25/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,15,Credit Card,46-55,Female,Vancouver,Rep 6
+CA-100150,1/22/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,15,Cash,26-35,Female,Toronto,Rep 3
+CA-100151,10/2/2025,Canada,P1002,Laptop Air,Electronics,1100,6,880,15,Debit Card,46-55,Male,Vancouver,Rep 4
+CA-100152,2/17/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,15,Credit Card,36-45,Male,Toronto,Rep 13
+CA-100153,1/4/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,0,Credit Card,18-25,Male,Vancouver,Rep 3
+CA-100154,7/20/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,15,Mobile Payment,46-55,Female,Montreal,Rep 6
+CA-100155,12/10/2025,Canada,P1002,Laptop Air,Electronics,1100,8,880,0,Mobile Payment,36-45,Female,Toronto,Rep 17
+CA-100156,9/30/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,10,Debit Card,18-25,Male,Toronto,Rep 2
+CA-100157,5/29/2025,Canada,P1002,Laptop Air,Electronics,1100,10,880,10,Cash,18-25,Female,Toronto,Rep 1
+CA-100158,4/18/2025,Canada,P1003,Wireless Earbuds,Electronics,150,7,95,0,Cash,26-35,Male,Vancouver,Rep 19
+CA-100159,10/19/2025,Canada,P2004,Spices Pack,Grocery,9,1,4,10,Credit Card,36-45,Male,Toronto,Rep 17
+CA-100160,1/26/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,5,Mobile Payment,36-45,Male,Toronto,Rep 2
+CA-100161,1/2/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,15,Cash,36-45,Female,Vancouver,Rep 1
+CA-100162,3/24/2025,Canada,P3002,Blender Pro,Home Appliances,120,8,85,5,Credit Card,18-25,Female,Toronto,Rep 6
+CA-100163,4/25/2025,Canada,P2004,Spices Pack,Grocery,9,4,4,0,Credit Card,26-35,Female,Montreal,Rep 7
+CA-100164,10/3/2025,Canada,P2004,Spices Pack,Grocery,9,8,4,10,Cash,36-45,Female,Montreal,Rep 8
+CA-100165,11/28/2025,Canada,P1003,Wireless Earbuds,Electronics,150,10,95,10,Cash,26-35,Male,Montreal,Rep 15
+CA-100166,4/14/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,5,Mobile Payment,36-45,Female,Vancouver,Rep 19
+CA-100167,2/25/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,5,Mobile Payment,46-55,Female,Vancouver,Rep 16
+CA-100168,9/5/2025,Canada,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,36-45,Male,Toronto,Rep 6
+CA-100169,8/22/2025,Canada,P2004,Spices Pack,Grocery,9,5,4,0,Credit Card,18-25,Female,Montreal,Rep 13
+CA-100170,7/21/2025,Canada,P1002,Laptop Air,Electronics,1100,7,880,10,Credit Card,36-45,Male,Toronto,Rep 8
+CA-100171,5/3/2025,Canada,P4002,Hair Trimmer,Personal Care,35,8,20,5,Cash,36-45,Male,Montreal,Rep 8
+CA-100172,3/2/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,0,Mobile Payment,36-45,Male,Vancouver,Rep 1
+CA-100173,7/14/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,10,Cash,46-55,Male,Montreal,Rep 3
+CA-100174,4/13/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,0,Debit Card,36-45,Female,Vancouver,Rep 14
+CA-100175,9/20/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,0,Debit Card,36-45,Female,Toronto,Rep 7
+CA-100176,12/31/2025,Canada,P1003,Wireless Earbuds,Electronics,150,5,95,0,Credit Card,46-55,Female,Vancouver,Rep 6
+CA-100177,9/10/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,10,Cash,26-35,Female,Vancouver,Rep 5
+CA-100178,10/9/2025,Canada,P2004,Spices Pack,Grocery,9,4,4,15,Cash,26-35,Male,Montreal,Rep 13
+CA-100179,9/29/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,5,Debit Card,26-35,Male,Toronto,Rep 6
+CA-100180,1/9/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,0,Mobile Payment,46-55,Male,Montreal,Rep 4
+CA-100181,1/13/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,10,Credit Card,46-55,Male,Vancouver,Rep 4
+CA-100182,3/19/2025,Canada,P2003,Organic Honey,Grocery,15,6,9,15,Mobile Payment,46-55,Male,Toronto,Rep 15
+CA-100183,12/6/2025,Canada,P2003,Organic Honey,Grocery,15,5,9,10,Debit Card,18-25,Male,Vancouver,Rep 7
+CA-100184,11/23/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,15,Cash,36-45,Male,Montreal,Rep 10
+CA-100185,11/10/2025,Canada,P3002,Blender Pro,Home Appliances,120,9,85,0,Mobile Payment,36-45,Male,Montreal,Rep 4
+CA-100186,4/24/2025,Canada,P2004,Spices Pack,Grocery,9,5,4,5,Credit Card,36-45,Female,Vancouver,Rep 1
+CA-100187,10/5/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,0,Debit Card,26-35,Male,Toronto,Rep 10
+CA-100188,12/16/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,10,Debit Card,26-35,Female,Vancouver,Rep 16
+CA-100189,9/4/2025,Canada,P1002,Laptop Air,Electronics,1100,6,880,10,Credit Card,36-45,Male,Montreal,Rep 19
+CA-100190,3/20/2025,Canada,P2004,Spices Pack,Grocery,9,3,4,5,Mobile Payment,36-45,Female,Toronto,Rep 19
+CA-100191,10/29/2025,Canada,P3002,Blender Pro,Home Appliances,120,1,85,5,Cash,26-35,Male,Montreal,Rep 5
+CA-100192,5/20/2025,Canada,P4002,Hair Trimmer,Personal Care,35,3,20,5,Cash,36-45,Male,Vancouver,Rep 13
+CA-100193,9/3/2025,Canada,P4002,Hair Trimmer,Personal Care,35,4,20,10,Cash,26-35,Male,Montreal,Rep 2
+CA-100194,4/19/2025,Canada,P4001,Skincare Kit,Personal Care,50,1,28,0,Cash,18-25,Female,Montreal,Rep 2
+CA-100195,7/30/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,10,Debit Card,36-45,Male,Vancouver,Rep 5
+CA-100196,11/24/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,10,Credit Card,46-55,Female,Montreal,Rep 14
+CA-100197,11/23/2025,Canada,P3001,Microwave Oven,Home Appliances,220,4,165,5,Debit Card,36-45,Female,Toronto,Rep 13
+CA-100198,8/1/2025,Canada,P1002,Laptop Air,Electronics,1100,9,880,10,Credit Card,46-55,Male,Toronto,Rep 3
+CA-100199,12/4/2025,Canada,P2004,Spices Pack,Grocery,9,6,4,15,Mobile Payment,46-55,Male,Vancouver,Rep 8
+CA-100200,5/12/2025,Canada,P1002,Laptop Air,Electronics,1100,7,880,10,Debit Card,46-55,Male,Toronto,Rep 1
+CA-100201,5/30/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,10,Debit Card,18-25,Female,Vancouver,Rep 8
+CA-100202,5/6/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,15,Credit Card,46-55,Female,Toronto,Rep 7
+CA-100203,1/16/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,10,Cash,36-45,Male,Vancouver,Rep 2
+CA-100204,3/1/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,15,Cash,36-45,Male,Toronto,Rep 18
+CA-100205,8/26/2025,Canada,P2003,Organic Honey,Grocery,15,6,9,5,Debit Card,26-35,Male,Toronto,Rep 7
+CA-100206,3/29/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,15,Credit Card,26-35,Male,Montreal,Rep 11
+CA-100207,12/27/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,10,Credit Card,18-25,Female,Montreal,Rep 15
+CA-100208,3/4/2025,Canada,P2003,Organic Honey,Grocery,15,5,9,5,Mobile Payment,18-25,Female,Montreal,Rep 2
+CA-100209,12/23/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,0,Credit Card,46-55,Male,Vancouver,Rep 9
+CA-100210,1/12/2025,Canada,P4002,Hair Trimmer,Personal Care,35,2,20,5,Cash,18-25,Male,Montreal,Rep 18
+CA-100211,9/1/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,15,Credit Card,26-35,Female,Montreal,Rep 3
+CA-100212,1/9/2025,Canada,P3002,Blender Pro,Home Appliances,120,6,85,0,Credit Card,26-35,Male,Toronto,Rep 8
+CA-100213,3/22/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,5,Cash,36-45,Male,Toronto,Rep 8
+CA-100214,3/15/2025,Canada,P4001,Skincare Kit,Personal Care,50,1,28,5,Cash,36-45,Female,Vancouver,Rep 16
+CA-100215,9/4/2025,Canada,P1001,Smartphone X,Electronics,800,7,620,15,Mobile Payment,36-45,Female,Toronto,Rep 13
+CA-100216,3/24/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,5,Mobile Payment,26-35,Female,Vancouver,Rep 10
+CA-100217,12/28/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,0,Cash,46-55,Female,Toronto,Rep 15
+CA-100218,11/3/2025,Canada,P1003,Wireless Earbuds,Electronics,150,2,95,5,Mobile Payment,46-55,Female,Toronto,Rep 12
+CA-100219,12/12/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,15,Debit Card,18-25,Female,Vancouver,Rep 9
+CA-100220,2/8/2025,Canada,P1003,Wireless Earbuds,Electronics,150,1,95,0,Debit Card,18-25,Male,Toronto,Rep 11
+CA-100221,1/1/2025,Canada,P3002,Blender Pro,Home Appliances,120,6,85,10,Credit Card,18-25,Female,Toronto,Rep 5
+CA-100222,10/15/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,0,Debit Card,46-55,Male,Toronto,Rep 14
+CA-100223,5/3/2025,Canada,P1003,Wireless Earbuds,Electronics,150,9,95,10,Debit Card,46-55,Female,Toronto,Rep 6
+CA-100224,7/20/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,5,Mobile Payment,36-45,Male,Toronto,Rep 5
+CA-100225,11/14/2025,Canada,P2003,Organic Honey,Grocery,15,1,9,10,Debit Card,46-55,Male,Vancouver,Rep 9
+CA-100226,8/13/2025,Canada,P2003,Organic Honey,Grocery,15,1,9,10,Debit Card,26-35,Female,Vancouver,Rep 10
+CA-100227,12/28/2025,Canada,P1003,Wireless Earbuds,Electronics,150,10,95,10,Credit Card,36-45,Female,Toronto,Rep 14
+CA-100228,5/8/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,0,Debit Card,46-55,Male,Montreal,Rep 7
+CA-100229,3/22/2025,Canada,P1001,Smartphone X,Electronics,800,4,620,15,Debit Card,18-25,Female,Vancouver,Rep 6
+CA-100230,2/27/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,15,Debit Card,26-35,Male,Toronto,Rep 12
+CA-100231,9/30/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,10,Mobile Payment,18-25,Female,Vancouver,Rep 10
+CA-100232,8/9/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,5,Mobile Payment,46-55,Male,Montreal,Rep 18
+CA-100233,8/24/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,15,Credit Card,36-45,Male,Toronto,Rep 19
+CA-100234,6/25/2025,Canada,P1001,Smartphone X,Electronics,800,9,620,0,Mobile Payment,18-25,Male,Vancouver,Rep 2
+CA-100235,6/11/2025,Canada,P2004,Spices Pack,Grocery,9,5,4,0,Debit Card,46-55,Female,Vancouver,Rep 6
+CA-100236,3/7/2025,Canada,P2004,Spices Pack,Grocery,9,2,4,10,Cash,18-25,Male,Toronto,Rep 11
+CA-100237,8/22/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,15,Credit Card,26-35,Male,Vancouver,Rep 4
+CA-100238,11/13/2025,Canada,P1001,Smartphone X,Electronics,800,1,620,15,Mobile Payment,18-25,Male,Vancouver,Rep 14
+CA-100239,5/10/2025,Canada,P1003,Wireless Earbuds,Electronics,150,4,95,5,Mobile Payment,46-55,Male,Toronto,Rep 17
+CA-100240,4/10/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,15,Credit Card,36-45,Female,Toronto,Rep 5
+CA-100241,4/8/2025,Canada,P3002,Blender Pro,Home Appliances,120,9,85,15,Mobile Payment,46-55,Male,Vancouver,Rep 3
+CA-100242,3/1/2025,Canada,P4001,Skincare Kit,Personal Care,50,3,28,10,Cash,36-45,Male,Montreal,Rep 18
+CA-100243,11/18/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,0,Mobile Payment,36-45,Male,Vancouver,Rep 7
+CA-100244,12/19/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,10,Debit Card,26-35,Female,Montreal,Rep 14
+CA-100245,10/28/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,10,Mobile Payment,26-35,Male,Toronto,Rep 7
+CA-100246,12/4/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,15,Credit Card,18-25,Male,Montreal,Rep 14
+CA-100247,8/10/2025,Canada,P2004,Spices Pack,Grocery,9,2,4,0,Cash,18-25,Male,Toronto,Rep 11
+CA-100248,12/2/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,0,Mobile Payment,18-25,Female,Vancouver,Rep 6
+CA-100249,9/13/2025,Canada,P3001,Microwave Oven,Home Appliances,220,5,165,0,Mobile Payment,46-55,Male,Montreal,Rep 6
+CA-100250,2/23/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,5,Mobile Payment,18-25,Female,Montreal,Rep 5
+CA-100251,1/25/2025,Canada,P4001,Skincare Kit,Personal Care,50,6,28,0,Cash,46-55,Female,Montreal,Rep 8
+CA-100252,2/10/2025,Canada,P2004,Spices Pack,Grocery,9,10,4,15,Debit Card,46-55,Female,Vancouver,Rep 11
+CA-100253,3/14/2025,Canada,P3001,Microwave Oven,Home Appliances,220,1,165,0,Cash,46-55,Male,Toronto,Rep 20
+CA-100254,9/18/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,5,Debit Card,26-35,Male,Toronto,Rep 5
+CA-100255,6/12/2025,Canada,P2004,Spices Pack,Grocery,9,7,4,0,Mobile Payment,18-25,Female,Toronto,Rep 8
+CA-100256,11/7/2025,Canada,P1002,Laptop Air,Electronics,1100,8,880,5,Cash,36-45,Male,Toronto,Rep 4
+CA-100257,4/25/2025,Canada,P2003,Organic Honey,Grocery,15,5,9,0,Debit Card,18-25,Female,Toronto,Rep 12
+CA-100258,3/4/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,5,Mobile Payment,36-45,Female,Montreal,Rep 11
+CA-100259,9/26/2025,Canada,P2004,Spices Pack,Grocery,9,7,4,10,Credit Card,26-35,Male,Montreal,Rep 11
+CA-100260,5/29/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,5,Credit Card,46-55,Male,Toronto,Rep 3
+CA-100261,5/9/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,0,Debit Card,18-25,Male,Vancouver,Rep 13
+CA-100262,9/13/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,5,Mobile Payment,18-25,Male,Vancouver,Rep 17
+CA-100263,7/15/2025,Canada,P2003,Organic Honey,Grocery,15,1,9,15,Debit Card,36-45,Male,Vancouver,Rep 14
+CA-100264,11/11/2025,Canada,P3002,Blender Pro,Home Appliances,120,6,85,15,Credit Card,18-25,Male,Toronto,Rep 13
+CA-100265,6/22/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,10,Debit Card,26-35,Female,Toronto,Rep 18
+CA-100266,3/2/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,10,Cash,36-45,Female,Toronto,Rep 5
+CA-100267,11/29/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,5,Debit Card,26-35,Male,Montreal,Rep 5
+CA-100268,1/26/2025,Canada,P3002,Blender Pro,Home Appliances,120,8,85,5,Credit Card,36-45,Male,Montreal,Rep 8
+CA-100269,9/21/2025,Canada,P1001,Smartphone X,Electronics,800,9,620,5,Cash,46-55,Female,Vancouver,Rep 7
+CA-100270,11/3/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,15,Debit Card,18-25,Male,Montreal,Rep 18
+CA-100271,7/23/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,15,Cash,36-45,Female,Vancouver,Rep 18
+CA-100272,12/17/2025,Canada,P1003,Wireless Earbuds,Electronics,150,7,95,0,Credit Card,26-35,Male,Toronto,Rep 17
+CA-100273,8/24/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,15,Cash,36-45,Male,Montreal,Rep 19
+CA-100274,7/12/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,0,Mobile Payment,36-45,Female,Montreal,Rep 17
+CA-100275,7/27/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,5,Credit Card,26-35,Female,Vancouver,Rep 17
+CA-100276,12/1/2025,Canada,P4002,Hair Trimmer,Personal Care,35,7,20,5,Debit Card,36-45,Male,Montreal,Rep 12
+CA-100277,4/8/2025,Canada,P1001,Smartphone X,Electronics,800,6,620,0,Credit Card,36-45,Female,Montreal,Rep 15
+CA-100278,9/27/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,15,Mobile Payment,26-35,Male,Montreal,Rep 7
+CA-100279,6/5/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,15,Cash,18-25,Male,Vancouver,Rep 11
+CA-100280,2/20/2025,Canada,P3001,Microwave Oven,Home Appliances,220,9,165,0,Debit Card,36-45,Female,Montreal,Rep 7
+CA-100281,7/31/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,0,Credit Card,36-45,Female,Toronto,Rep 7
+CA-100282,9/29/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,10,Cash,36-45,Female,Montreal,Rep 3
+CA-100283,5/3/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,5,Credit Card,36-45,Male,Vancouver,Rep 18
+CA-100284,1/19/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,10,Cash,46-55,Male,Vancouver,Rep 10
+CA-100285,9/11/2025,Canada,P4002,Hair Trimmer,Personal Care,35,4,20,15,Mobile Payment,46-55,Female,Toronto,Rep 18
+CA-100286,8/26/2025,Canada,P4001,Skincare Kit,Personal Care,50,4,28,15,Cash,36-45,Female,Montreal,Rep 19
+CA-100287,9/23/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,10,Mobile Payment,18-25,Female,Vancouver,Rep 4
+CA-100288,6/4/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,15,Mobile Payment,36-45,Female,Vancouver,Rep 16
+CA-100289,10/14/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,5,Cash,18-25,Female,Vancouver,Rep 3
+CA-100290,11/18/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,10,Credit Card,18-25,Male,Vancouver,Rep 9
+CA-100291,7/18/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,10,Debit Card,18-25,Male,Toronto,Rep 1
+CA-100292,11/27/2025,Canada,P4002,Hair Trimmer,Personal Care,35,5,20,0,Credit Card,26-35,Male,Vancouver,Rep 1
+CA-100293,2/27/2025,Canada,P3001,Microwave Oven,Home Appliances,220,1,165,0,Mobile Payment,26-35,Male,Toronto,Rep 12
+CA-100294,5/30/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,5,Credit Card,26-35,Female,Montreal,Rep 11
+CA-100295,4/18/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,0,Cash,36-45,Female,Toronto,Rep 4
+CA-100296,1/20/2025,Canada,P1001,Smartphone X,Electronics,800,9,620,15,Debit Card,26-35,Female,Vancouver,Rep 16
+CA-100297,9/12/2025,Canada,P4001,Skincare Kit,Personal Care,50,1,28,15,Credit Card,18-25,Male,Toronto,Rep 14
+CA-100298,1/20/2025,Canada,P1003,Wireless Earbuds,Electronics,150,1,95,5,Credit Card,36-45,Male,Montreal,Rep 7
+CA-100299,9/26/2025,Canada,P3001,Microwave Oven,Home Appliances,220,6,165,10,Credit Card,26-35,Male,Montreal,Rep 18
+CA-100300,8/13/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,15,Cash,26-35,Male,Vancouver,Rep 20
+CA-100301,10/2/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,10,Debit Card,18-25,Male,Toronto,Rep 15
+CA-100302,10/24/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,10,Mobile Payment,36-45,Male,Vancouver,Rep 8
+CA-100303,6/27/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,15,Debit Card,46-55,Female,Vancouver,Rep 4
+CA-100304,8/21/2025,Canada,P2004,Spices Pack,Grocery,9,2,4,0,Cash,36-45,Male,Vancouver,Rep 7
+CA-100305,2/11/2025,Canada,P3002,Blender Pro,Home Appliances,120,9,85,0,Debit Card,26-35,Male,Montreal,Rep 19
+CA-100306,3/31/2025,Canada,P3001,Microwave Oven,Home Appliances,220,7,165,5,Mobile Payment,18-25,Male,Montreal,Rep 7
+CA-100307,8/1/2025,Canada,P2004,Spices Pack,Grocery,9,3,4,10,Cash,26-35,Male,Vancouver,Rep 6
+CA-100308,11/14/2025,Canada,P1002,Laptop Air,Electronics,1100,2,880,10,Mobile Payment,18-25,Female,Toronto,Rep 4
+CA-100309,4/14/2025,Canada,P1002,Laptop Air,Electronics,1100,1,880,0,Mobile Payment,46-55,Female,Vancouver,Rep 4
+CA-100310,9/15/2025,Canada,P1002,Laptop Air,Electronics,1100,7,880,10,Cash,18-25,Male,Toronto,Rep 19
+CA-100311,9/8/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,0,Debit Card,26-35,Male,Toronto,Rep 12
+CA-100312,4/25/2025,Canada,P4001,Skincare Kit,Personal Care,50,7,28,15,Cash,26-35,Male,Montreal,Rep 16
+CA-100313,3/2/2025,Canada,P1002,Laptop Air,Electronics,1100,1,880,5,Debit Card,18-25,Male,Toronto,Rep 2
+CA-100314,7/29/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,15,Debit Card,36-45,Male,Vancouver,Rep 3
+CA-100315,6/27/2025,Canada,P2003,Organic Honey,Grocery,15,1,9,5,Credit Card,26-35,Male,Vancouver,Rep 17
+CA-100316,11/25/2025,Canada,P3001,Microwave Oven,Home Appliances,220,8,165,5,Credit Card,46-55,Female,Vancouver,Rep 5
+CA-100317,11/22/2025,Canada,P1003,Wireless Earbuds,Electronics,150,7,95,10,Cash,46-55,Female,Toronto,Rep 19
+CA-100318,7/16/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,5,Mobile Payment,46-55,Male,Montreal,Rep 13
+CA-100319,12/6/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,0,Cash,36-45,Male,Toronto,Rep 18
+CA-100320,6/14/2025,Canada,P4002,Hair Trimmer,Personal Care,35,8,20,10,Credit Card,36-45,Female,Toronto,Rep 6
+CA-100321,4/29/2025,Canada,P1001,Smartphone X,Electronics,800,10,620,5,Mobile Payment,18-25,Male,Toronto,Rep 14
+CA-100322,10/3/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,15,Mobile Payment,18-25,Female,Vancouver,Rep 4
+CA-100323,12/12/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,10,Cash,18-25,Female,Vancouver,Rep 17
+CA-100324,3/4/2025,Canada,P1002,Laptop Air,Electronics,1100,4,880,5,Mobile Payment,36-45,Male,Vancouver,Rep 16
+CA-100325,3/15/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,0,Cash,18-25,Male,Vancouver,Rep 2
+CA-100326,5/7/2025,Canada,P4002,Hair Trimmer,Personal Care,35,3,20,15,Debit Card,46-55,Male,Vancouver,Rep 7
+CA-100327,10/13/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,5,Mobile Payment,18-25,Male,Toronto,Rep 9
+CA-100328,1/12/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,15,Debit Card,46-55,Female,Montreal,Rep 14
+CA-100329,6/7/2025,Canada,P4001,Skincare Kit,Personal Care,50,3,28,10,Mobile Payment,46-55,Male,Montreal,Rep 15
+CA-100330,12/10/2025,Canada,P3002,Blender Pro,Home Appliances,120,6,85,5,Mobile Payment,26-35,Male,Toronto,Rep 9
+CA-100331,12/18/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,10,Cash,46-55,Male,Montreal,Rep 16
+CA-100332,5/5/2025,Canada,P1001,Smartphone X,Electronics,800,9,620,0,Debit Card,18-25,Female,Vancouver,Rep 13
+CA-100333,1/25/2025,Canada,P4002,Hair Trimmer,Personal Care,35,2,20,10,Credit Card,18-25,Male,Vancouver,Rep 3
+CA-100334,11/1/2025,Canada,P3001,Microwave Oven,Home Appliances,220,9,165,0,Credit Card,46-55,Male,Montreal,Rep 12
+CA-100335,5/14/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,10,Credit Card,46-55,Male,Toronto,Rep 20
+CA-100336,7/6/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,15,Credit Card,18-25,Male,Montreal,Rep 14
+CA-100337,5/9/2025,Canada,P4001,Skincare Kit,Personal Care,50,9,28,15,Debit Card,26-35,Male,Vancouver,Rep 20
+CA-100338,6/30/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,26-35,Male,Toronto,Rep 1
+CA-100339,8/27/2025,Canada,P2004,Spices Pack,Grocery,9,3,4,10,Credit Card,46-55,Female,Vancouver,Rep 7
+CA-100340,4/5/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,5,Credit Card,18-25,Male,Vancouver,Rep 4
+CA-100341,7/3/2025,Canada,P3002,Blender Pro,Home Appliances,120,7,85,15,Cash,36-45,Male,Vancouver,Rep 7
+CA-100342,12/11/2025,Canada,P3002,Blender Pro,Home Appliances,120,3,85,0,Debit Card,36-45,Male,Toronto,Rep 18
+CA-100343,9/19/2025,Canada,P1002,Laptop Air,Electronics,1100,2,880,5,Cash,26-35,Male,Vancouver,Rep 3
+CA-100344,6/25/2025,Canada,P3001,Microwave Oven,Home Appliances,220,3,165,10,Debit Card,26-35,Female,Vancouver,Rep 8
+CA-100345,1/9/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,15,Mobile Payment,36-45,Female,Montreal,Rep 8
+CA-100346,6/2/2025,Canada,P4002,Hair Trimmer,Personal Care,35,3,20,5,Credit Card,18-25,Male,Montreal,Rep 3
+CA-100347,7/8/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,5,Credit Card,26-35,Male,Montreal,Rep 5
+CA-100348,1/30/2025,Canada,P1001,Smartphone X,Electronics,800,10,620,10,Cash,46-55,Male,Vancouver,Rep 6
+CA-100349,8/25/2025,Canada,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,18-25,Male,Vancouver,Rep 12
+CA-100350,12/18/2025,Canada,P1002,Laptop Air,Electronics,1100,7,880,15,Debit Card,36-45,Male,Vancouver,Rep 12
+CA-100351,12/25/2025,Canada,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,26-35,Female,Toronto,Rep 2
+CA-100352,5/23/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,0,Credit Card,46-55,Female,Vancouver,Rep 2
+CA-100353,1/28/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,10,Mobile Payment,26-35,Female,Montreal,Rep 5
+CA-100354,11/24/2025,Canada,P3001,Microwave Oven,Home Appliances,220,1,165,15,Debit Card,26-35,Male,Vancouver,Rep 14
+CA-100355,4/1/2025,Canada,P2004,Spices Pack,Grocery,9,8,4,5,Credit Card,46-55,Male,Toronto,Rep 7
+CA-100356,4/12/2025,Canada,P3001,Microwave Oven,Home Appliances,220,9,165,0,Credit Card,46-55,Male,Vancouver,Rep 6
+CA-100357,11/22/2025,Canada,P2003,Organic Honey,Grocery,15,7,9,5,Credit Card,46-55,Female,Vancouver,Rep 14
+CA-100358,1/8/2025,Canada,P1003,Wireless Earbuds,Electronics,150,2,95,0,Mobile Payment,26-35,Female,Vancouver,Rep 5
+CA-100359,12/7/2025,Canada,P1001,Smartphone X,Electronics,800,1,620,10,Cash,46-55,Female,Vancouver,Rep 19
+CA-100360,10/2/2025,Canada,P3001,Microwave Oven,Home Appliances,220,8,165,15,Mobile Payment,26-35,Male,Toronto,Rep 4
+CA-100361,6/14/2025,Canada,P1002,Laptop Air,Electronics,1100,4,880,10,Debit Card,26-35,Female,Toronto,Rep 1
+CA-100362,7/19/2025,Canada,P2004,Spices Pack,Grocery,9,10,4,15,Cash,18-25,Male,Montreal,Rep 19
+CA-100363,12/1/2025,Canada,P2003,Organic Honey,Grocery,15,6,9,5,Cash,46-55,Female,Montreal,Rep 13
+CA-100364,4/12/2025,Canada,P2004,Spices Pack,Grocery,9,6,4,10,Mobile Payment,26-35,Male,Vancouver,Rep 17
+CA-100365,5/13/2025,Canada,P2003,Organic Honey,Grocery,15,3,9,5,Mobile Payment,46-55,Male,Toronto,Rep 17
+CA-100366,12/13/2025,Canada,P1003,Wireless Earbuds,Electronics,150,2,95,15,Cash,36-45,Female,Toronto,Rep 3
+CA-100367,9/3/2025,Canada,P1002,Laptop Air,Electronics,1100,10,880,5,Mobile Payment,36-45,Female,Montreal,Rep 14
+CA-100368,7/2/2025,Canada,P1003,Wireless Earbuds,Electronics,150,5,95,15,Cash,26-35,Male,Vancouver,Rep 14
+CA-100369,10/2/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,15,Credit Card,18-25,Female,Vancouver,Rep 3
+CA-100370,7/21/2025,Canada,P3001,Microwave Oven,Home Appliances,220,9,165,5,Cash,18-25,Female,Toronto,Rep 15
+CA-100371,2/24/2025,Canada,P3001,Microwave Oven,Home Appliances,220,8,165,5,Debit Card,36-45,Male,Vancouver,Rep 15
+CA-100372,3/1/2025,Canada,P3002,Blender Pro,Home Appliances,120,1,85,0,Debit Card,18-25,Female,Vancouver,Rep 14
+CA-100373,7/13/2025,Canada,P3001,Microwave Oven,Home Appliances,220,1,165,5,Cash,18-25,Female,Toronto,Rep 1
+CA-100374,4/5/2025,Canada,P1003,Wireless Earbuds,Electronics,150,5,95,10,Debit Card,46-55,Female,Toronto,Rep 19
+CA-100375,11/23/2025,Canada,P3001,Microwave Oven,Home Appliances,220,8,165,0,Mobile Payment,36-45,Male,Montreal,Rep 3
+CA-100376,5/15/2025,Canada,P2004,Spices Pack,Grocery,9,3,4,15,Credit Card,18-25,Male,Toronto,Rep 4
+CA-100377,7/21/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,0,Mobile Payment,26-35,Female,Vancouver,Rep 18
+CA-100378,3/30/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,10,Credit Card,36-45,Female,Toronto,Rep 9
+CA-100379,12/23/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,10,Debit Card,36-45,Male,Vancouver,Rep 6
+CA-100380,11/18/2025,Canada,P3002,Blender Pro,Home Appliances,120,1,85,0,Debit Card,18-25,Female,Toronto,Rep 11
+CA-100381,10/9/2025,Canada,P2004,Spices Pack,Grocery,9,4,4,5,Mobile Payment,18-25,Male,Vancouver,Rep 17
+CA-100382,8/23/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,0,Cash,46-55,Male,Montreal,Rep 14
+CA-100383,12/8/2025,Canada,P2004,Spices Pack,Grocery,9,6,4,5,Credit Card,18-25,Female,Vancouver,Rep 19
+CA-100384,6/7/2025,Canada,P2004,Spices Pack,Grocery,9,7,4,10,Mobile Payment,18-25,Female,Toronto,Rep 20
+CA-100385,11/4/2025,Canada,P3001,Microwave Oven,Home Appliances,220,3,165,0,Credit Card,36-45,Female,Toronto,Rep 19
+CA-100386,9/4/2025,Canada,P2004,Spices Pack,Grocery,9,6,4,10,Credit Card,36-45,Male,Montreal,Rep 6
+CA-100387,3/23/2025,Canada,P2004,Spices Pack,Grocery,9,10,4,10,Cash,36-45,Male,Vancouver,Rep 15
+CA-100388,10/23/2025,Canada,P4002,Hair Trimmer,Personal Care,35,5,20,5,Debit Card,26-35,Female,Vancouver,Rep 20
+CA-100389,11/13/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,5,Mobile Payment,36-45,Male,Vancouver,Rep 7
+CA-100390,8/10/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,15,Credit Card,26-35,Female,Vancouver,Rep 2
+CA-100391,7/1/2025,Canada,P1003,Wireless Earbuds,Electronics,150,7,95,0,Credit Card,26-35,Male,Vancouver,Rep 11
+CA-100392,8/4/2025,Canada,P1001,Smartphone X,Electronics,800,3,620,5,Credit Card,36-45,Female,Toronto,Rep 9
+CA-100393,10/7/2025,Canada,P1003,Wireless Earbuds,Electronics,150,9,95,15,Credit Card,36-45,Female,Vancouver,Rep 10
+CA-100394,12/31/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,10,Credit Card,46-55,Male,Montreal,Rep 16
+CA-100395,1/5/2025,Canada,P4002,Hair Trimmer,Personal Care,35,6,20,10,Mobile Payment,26-35,Female,Vancouver,Rep 4
+CA-100396,3/13/2025,Canada,P2003,Organic Honey,Grocery,15,2,9,5,Mobile Payment,26-35,Female,Toronto,Rep 17
+CA-100397,7/18/2025,Canada,P1001,Smartphone X,Electronics,800,4,620,15,Debit Card,26-35,Male,Vancouver,Rep 18
+CA-100398,10/20/2025,Canada,P3001,Microwave Oven,Home Appliances,220,3,165,10,Credit Card,36-45,Male,Vancouver,Rep 2
+CA-100399,4/7/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,0,Mobile Payment,46-55,Male,Toronto,Rep 10
+CA-100400,4/20/2025,Canada,P4001,Skincare Kit,Personal Care,50,6,28,15,Debit Card,18-25,Female,Vancouver,Rep 7
+CA-100401,2/6/2025,Canada,P1002,Laptop Air,Electronics,1100,2,880,5,Debit Card,18-25,Male,Montreal,Rep 20
+CA-100402,6/14/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,5,Mobile Payment,46-55,Male,Montreal,Rep 3
+CA-100403,5/19/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,0,Mobile Payment,46-55,Male,Toronto,Rep 6
+CA-100404,5/8/2025,Canada,P4001,Skincare Kit,Personal Care,50,8,28,15,Mobile Payment,18-25,Female,Vancouver,Rep 9
+CA-100405,11/14/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,10,Credit Card,46-55,Female,Toronto,Rep 15
+CA-100406,7/23/2025,Canada,P4001,Skincare Kit,Personal Care,50,7,28,15,Credit Card,18-25,Female,Toronto,Rep 18
+CA-100407,6/7/2025,Canada,P3001,Microwave Oven,Home Appliances,220,4,165,5,Credit Card,36-45,Male,Vancouver,Rep 16
+CA-100408,11/28/2025,Canada,P2003,Organic Honey,Grocery,15,7,9,5,Credit Card,26-35,Female,Montreal,Rep 3
+CA-100409,3/5/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,5,Credit Card,46-55,Male,Vancouver,Rep 3
+CA-100410,9/7/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,10,Cash,46-55,Male,Toronto,Rep 6
+CA-100411,6/19/2025,Canada,P4002,Hair Trimmer,Personal Care,35,4,20,10,Credit Card,36-45,Male,Montreal,Rep 11
+CA-100412,7/26/2025,Canada,P1002,Laptop Air,Electronics,1100,8,880,15,Cash,26-35,Female,Montreal,Rep 16
+CA-100413,8/2/2025,Canada,P2004,Spices Pack,Grocery,9,9,4,0,Debit Card,26-35,Female,Toronto,Rep 10
+CA-100414,8/3/2025,Canada,P3001,Microwave Oven,Home Appliances,220,3,165,0,Credit Card,46-55,Female,Toronto,Rep 17
+CA-100415,6/15/2025,Canada,P2004,Spices Pack,Grocery,9,7,4,15,Mobile Payment,36-45,Male,Montreal,Rep 12
+CA-100416,7/7/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,10,Credit Card,46-55,Male,Toronto,Rep 20
+CA-100417,5/27/2025,Canada,P3002,Blender Pro,Home Appliances,120,5,85,0,Credit Card,36-45,Female,Toronto,Rep 1
+CA-100418,10/11/2025,Canada,P3001,Microwave Oven,Home Appliances,220,7,165,15,Credit Card,36-45,Male,Vancouver,Rep 14
+CA-100419,9/12/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,10,Credit Card,36-45,Female,Toronto,Rep 10
+CA-100420,7/11/2025,Canada,P1003,Wireless Earbuds,Electronics,150,3,95,10,Cash,18-25,Male,Toronto,Rep 1
+CA-100421,10/16/2025,Canada,P1003,Wireless Earbuds,Electronics,150,6,95,15,Mobile Payment,18-25,Male,Vancouver,Rep 4
+CA-100422,12/25/2025,Canada,P2003,Organic Honey,Grocery,15,3,9,10,Credit Card,36-45,Male,Vancouver,Rep 13
+CA-100423,3/24/2025,Canada,P1002,Laptop Air,Electronics,1100,5,880,15,Cash,36-45,Male,Montreal,Rep 7
+CA-100424,10/25/2025,Canada,P2004,Spices Pack,Grocery,9,6,4,15,Credit Card,36-45,Female,Montreal,Rep 20
+CA-100425,3/13/2025,Canada,P4001,Skincare Kit,Personal Care,50,10,28,0,Debit Card,36-45,Female,Vancouver,Rep 17
+CA-100426,1/7/2025,Canada,P1003,Wireless Earbuds,Electronics,150,1,95,10,Credit Card,36-45,Male,Montreal,Rep 16
+CA-100427,8/12/2025,Canada,P4001,Skincare Kit,Personal Care,50,5,28,15,Mobile Payment,36-45,Female,Toronto,Rep 20
+CA-100428,3/19/2025,Canada,P2003,Organic Honey,Grocery,15,4,9,10,Debit Card,46-55,Female,Vancouver,Rep 20
+CA-100429,8/1/2025,Canada,P3001,Microwave Oven,Home Appliances,220,4,165,10,Mobile Payment,46-55,Female,Vancouver,Rep 4
+CA-100430,10/31/2025,Canada,P2004,Spices Pack,Grocery,9,1,4,0,Debit Card,46-55,Female,Toronto,Rep 5
+CA-100431,8/23/2025,Canada,P2003,Organic Honey,Grocery,15,5,9,15,Cash,36-45,Male,Toronto,Rep 15
+CA-100432,10/19/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,10,Cash,46-55,Male,Toronto,Rep 7
+CA-100433,7/17/2025,Canada,P3001,Microwave Oven,Home Appliances,220,2,165,0,Mobile Payment,36-45,Female,Montreal,Rep 15
+CA-100434,2/25/2025,Canada,P2004,Spices Pack,Grocery,9,6,4,15,Mobile Payment,18-25,Female,Montreal,Rep 19
+CA-100435,1/23/2025,Canada,P1003,Wireless Earbuds,Electronics,150,2,95,5,Cash,46-55,Male,Vancouver,Rep 14
+CA-100436,11/3/2025,Canada,P3002,Blender Pro,Home Appliances,120,3,85,0,Mobile Payment,46-55,Female,Vancouver,Rep 1
+CA-100437,2/15/2025,Canada,P3001,Microwave Oven,Home Appliances,220,7,165,5,Credit Card,26-35,Female,Toronto,Rep 13
+CA-100438,10/29/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,10,Debit Card,36-45,Male,Toronto,Rep 11
+CA-100439,12/13/2025,Canada,P1003,Wireless Earbuds,Electronics,150,10,95,10,Cash,46-55,Female,Montreal,Rep 15
+CA-100440,11/26/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,0,Credit Card,36-45,Male,Toronto,Rep 18
+CA-100441,3/1/2025,Canada,P4002,Hair Trimmer,Personal Care,35,8,20,15,Debit Card,46-55,Male,Vancouver,Rep 15
+CA-100442,2/6/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,10,Cash,46-55,Male,Toronto,Rep 16
+CA-100443,5/29/2025,Canada,P2004,Spices Pack,Grocery,9,1,4,15,Mobile Payment,46-55,Female,Montreal,Rep 10
+CA-100444,4/9/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,5,Cash,36-45,Female,Montreal,Rep 16
+CA-100445,2/25/2025,Canada,P3001,Microwave Oven,Home Appliances,220,3,165,10,Debit Card,18-25,Female,Toronto,Rep 18
+CA-100446,8/12/2025,Canada,P2003,Organic Honey,Grocery,15,10,9,0,Mobile Payment,46-55,Male,Toronto,Rep 5
+CA-100447,11/8/2025,Canada,P1001,Smartphone X,Electronics,800,7,620,15,Mobile Payment,36-45,Female,Vancouver,Rep 1
+CA-100448,2/22/2025,Canada,P4001,Skincare Kit,Personal Care,50,6,28,5,Debit Card,26-35,Female,Vancouver,Rep 5
+CA-100449,10/6/2025,Canada,P1001,Smartphone X,Electronics,800,10,620,0,Debit Card,18-25,Female,Montreal,Rep 8
+CA-100450,8/13/2025,Canada,P4001,Skincare Kit,Personal Care,50,1,28,15,Cash,36-45,Female,Vancouver,Rep 3
+CA-100451,3/25/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,0,Debit Card,18-25,Female,Vancouver,Rep 7
+CA-100452,4/16/2025,Canada,P2004,Spices Pack,Grocery,9,1,4,5,Credit Card,46-55,Male,Montreal,Rep 9
+CA-100453,4/3/2025,Canada,P4001,Skincare Kit,Personal Care,50,4,28,5,Debit Card,46-55,Male,Vancouver,Rep 11
+CA-100454,12/6/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,15,Cash,26-35,Male,Montreal,Rep 4
+CA-100455,12/24/2025,Canada,P1002,Laptop Air,Electronics,1100,10,880,5,Credit Card,18-25,Male,Vancouver,Rep 5
+CA-100456,3/3/2025,Canada,P3002,Blender Pro,Home Appliances,120,9,85,0,Cash,26-35,Female,Montreal,Rep 15
+CA-100457,7/12/2025,Canada,P4001,Skincare Kit,Personal Care,50,3,28,10,Credit Card,46-55,Female,Toronto,Rep 6
+CA-100458,6/15/2025,Canada,P1002,Laptop Air,Electronics,1100,5,880,15,Mobile Payment,46-55,Female,Toronto,Rep 1
+CA-100459,6/5/2025,Canada,P3001,Microwave Oven,Home Appliances,220,5,165,5,Credit Card,46-55,Female,Vancouver,Rep 2
+CA-100460,10/8/2025,Canada,P3002,Blender Pro,Home Appliances,120,9,85,0,Credit Card,46-55,Female,Montreal,Rep 14
+CA-100461,2/19/2025,Canada,P4001,Skincare Kit,Personal Care,50,2,28,15,Mobile Payment,18-25,Male,Vancouver,Rep 20
+CA-100462,6/29/2025,Canada,P2003,Organic Honey,Grocery,15,8,9,15,Mobile Payment,18-25,Female,Vancouver,Rep 20
+CA-100463,2/18/2025,Canada,P4002,Hair Trimmer,Personal Care,35,1,20,0,Mobile Payment,18-25,Female,Montreal,Rep 8
+CA-100464,12/8/2025,Canada,P4001,Skincare Kit,Personal Care,50,3,28,15,Mobile Payment,26-35,Female,Vancouver,Rep 14
+CA-100465,6/18/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,15,Debit Card,18-25,Male,Vancouver,Rep 11
+CA-100466,11/23/2025,Canada,P1002,Laptop Air,Electronics,1100,3,880,10,Cash,46-55,Male,Vancouver,Rep 4
+CA-100467,1/10/2025,Canada,P2004,Spices Pack,Grocery,9,9,4,0,Cash,18-25,Male,Montreal,Rep 20
+CA-100468,12/13/2025,Canada,P4002,Hair Trimmer,Personal Care,35,2,20,10,Mobile Payment,26-35,Male,Toronto,Rep 4
+CA-100469,3/15/2025,Canada,P2003,Organic Honey,Grocery,15,7,9,5,Cash,26-35,Female,Toronto,Rep 2
+CA-100470,9/28/2025,Canada,P3001,Microwave Oven,Home Appliances,220,7,165,0,Credit Card,36-45,Female,Montreal,Rep 4
+CA-100471,3/13/2025,Canada,P3001,Microwave Oven,Home Appliances,220,6,165,0,Debit Card,26-35,Male,Toronto,Rep 20
+CA-100472,3/6/2025,Canada,P3001,Microwave Oven,Home Appliances,220,8,165,5,Debit Card,26-35,Male,Montreal,Rep 7
+CA-100473,10/12/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,0,Debit Card,36-45,Female,Toronto,Rep 7
+CA-100474,11/30/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,10,Cash,18-25,Female,Toronto,Rep 15
+CA-100475,11/28/2025,Canada,P1001,Smartphone X,Electronics,800,1,620,5,Mobile Payment,18-25,Female,Toronto,Rep 10
+CA-100476,7/17/2025,Canada,P4002,Hair Trimmer,Personal Care,35,5,20,10,Debit Card,26-35,Male,Montreal,Rep 19
+CA-100477,12/31/2025,Canada,P3001,Microwave Oven,Home Appliances,220,8,165,0,Credit Card,36-45,Female,Vancouver,Rep 6
+CA-100478,3/16/2025,Canada,P4002,Hair Trimmer,Personal Care,35,10,20,15,Debit Card,36-45,Male,Vancouver,Rep 3
+CA-100479,8/8/2025,Canada,P1003,Wireless Earbuds,Electronics,150,4,95,10,Mobile Payment,46-55,Male,Montreal,Rep 6
+CA-100480,6/10/2025,Canada,P3001,Microwave Oven,Home Appliances,220,6,165,10,Debit Card,26-35,Female,Toronto,Rep 18
+CA-100481,10/28/2025,Canada,P3002,Blender Pro,Home Appliances,120,4,85,0,Mobile Payment,18-25,Male,Toronto,Rep 3
+CA-100482,10/28/2025,Canada,P4002,Hair Trimmer,Personal Care,35,9,20,5,Debit Card,46-55,Male,Toronto,Rep 2
+CA-100483,8/3/2025,Canada,P1002,Laptop Air,Electronics,1100,8,880,15,Debit Card,18-25,Male,Toronto,Rep 13
+CA-100484,11/15/2025,Canada,P3001,Microwave Oven,Home Appliances,220,10,165,15,Mobile Payment,36-45,Female,Toronto,Rep 6
+CA-100485,4/26/2025,Canada,P1001,Smartphone X,Electronics,800,8,620,0,Cash,18-25,Female,Toronto,Rep 14
+CA-100486,12/14/2025,Canada,P1001,Smartphone X,Electronics,800,5,620,0,Debit Card,26-35,Female,Vancouver,Rep 20
+CA-100487,6/28/2025,Canada,P4002,Hair Trimmer,Personal Care,35,3,20,15,Cash,18-25,Female,Toronto,Rep 1
+CA-100488,2/23/2025,Canada,P1001,Smartphone X,Electronics,800,2,620,10,Debit Card,18-25,Female,Toronto,Rep 16
+CA-100489,11/14/2025,Canada,P1003,Wireless Earbuds,Electronics,150,9,95,5,Credit Card,46-55,Female,Toronto,Rep 1
+CA-100490,9/10/2025,Canada,P1003,Wireless Earbuds,Electronics,150,10,95,5,Credit Card,36-45,Male,Toronto,Rep 9
+CA-100491,10/20/2025,Canada,P2003,Organic Honey,Grocery,15,9,9,0,Debit Card,36-45,Male,Montreal,Rep 4
+CA-100492,6/18/2025,Canada,P2003,Organic Honey,Grocery,15,6,9,10,Cash,36-45,Female,Toronto,Rep 19
+CA-100493,2/22/2025,Canada,P2004,Spices Pack,Grocery,9,8,4,15,Mobile Payment,18-25,Female,Vancouver,Rep 12
+CA-100494,9/19/2025,Canada,P3001,Microwave Oven,Home Appliances,220,7,165,5,Cash,36-45,Female,Montreal,Rep 6
+CA-100495,1/5/2025,Canada,P1001,Smartphone X,Electronics,800,4,620,10,Cash,18-25,Male,Vancouver,Rep 4
+CA-100496,11/22/2025,Canada,P3002,Blender Pro,Home Appliances,120,2,85,0,Cash,46-55,Male,Montreal,Rep 19
+CA-100497,10/28/2025,Canada,P1003,Wireless Earbuds,Electronics,150,4,95,15,Cash,18-25,Female,Toronto,Rep 15
+CA-100498,3/8/2025,Canada,P2003,Organic Honey,Grocery,15,7,9,10,Credit Card,46-55,Female,Toronto,Rep 7
+CA-100499,6/3/2025,Canada,P1001,Smartphone X,Electronics,800,6,620,10,Cash,18-25,Male,Montreal,Rep 15

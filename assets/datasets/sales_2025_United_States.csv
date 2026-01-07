@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_Per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+UN-100000,2/7/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,15,Mobile Payment,36-45,Female,California,Rep 4
+UN-100001,4/29/2025,United States,P4001,Skincare Kit,Personal Care,50,3,28,5,Mobile Payment,26-35,Female,California,Rep 7
+UN-100002,11/11/2025,United States,P2004,Spices Pack,Grocery,9,5,4,15,Credit Card,46-55,Female,Texas,Rep 12
+UN-100003,8/29/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,5,Credit Card,26-35,Female,California,Rep 18
+UN-100004,12/6/2025,United States,P1001,Smartphone X,Electronics,800,6,620,0,Debit Card,18-25,Female,New York,Rep 16
+UN-100005,3/25/2025,United States,P1001,Smartphone X,Electronics,800,3,620,15,Credit Card,26-35,Male,Texas,Rep 9
+UN-100006,12/4/2025,United States,P3002,Blender Pro,Home Appliances,120,3,85,0,Credit Card,26-35,Female,New York,Rep 4
+UN-100007,4/19/2025,United States,P3001,Microwave Oven,Home Appliances,220,5,165,10,Debit Card,46-55,Male,New York,Rep 13
+UN-100008,8/20/2025,United States,P4002,Hair Trimmer,Personal Care,35,3,20,15,Credit Card,18-25,Male,California,Rep 15
+UN-100009,10/22/2025,United States,P2004,Spices Pack,Grocery,9,7,4,0,Debit Card,26-35,Female,California,Rep 16
+UN-100010,1/20/2025,United States,P1003,Wireless Earbuds,Electronics,150,7,95,5,Credit Card,18-25,Male,Texas,Rep 8
+UN-100011,12/17/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,0,Mobile Payment,18-25,Female,Texas,Rep 15
+UN-100012,2/5/2025,United States,P2004,Spices Pack,Grocery,9,7,4,5,Credit Card,46-55,Female,New York,Rep 18
+UN-100013,2/9/2025,United States,P1002,Laptop Air,Electronics,1100,9,880,5,Credit Card,36-45,Female,Texas,Rep 12
+UN-100014,8/19/2025,United States,P2004,Spices Pack,Grocery,9,4,4,5,Cash,26-35,Male,California,Rep 8
+UN-100015,4/19/2025,United States,P2004,Spices Pack,Grocery,9,4,4,5,Cash,26-35,Female,New York,Rep 10
+UN-100016,10/1/2025,United States,P3001,Microwave Oven,Home Appliances,220,7,165,0,Cash,18-25,Female,California,Rep 10
+UN-100017,4/29/2025,United States,P2004,Spices Pack,Grocery,9,2,4,15,Mobile Payment,18-25,Female,Texas,Rep 4
+UN-100018,9/11/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,15,Debit Card,46-55,Female,New York,Rep 14
+UN-100019,8/24/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,5,Credit Card,36-45,Female,California,Rep 17
+UN-100020,1/6/2025,United States,P3002,Blender Pro,Home Appliances,120,9,85,10,Credit Card,36-45,Male,New York,Rep 6
+UN-100021,9/2/2025,United States,P2004,Spices Pack,Grocery,9,9,4,15,Cash,26-35,Male,Texas,Rep 16
+UN-100022,5/4/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,15,Cash,46-55,Male,New York,Rep 4
+UN-100023,6/28/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,10,Debit Card,46-55,Female,New York,Rep 4
+UN-100024,2/4/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,10,Cash,36-45,Female,New York,Rep 1
+UN-100025,10/28/2025,United States,P2003,Organic Honey,Grocery,15,1,9,10,Mobile Payment,46-55,Female,California,Rep 7
+UN-100026,6/12/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,15,Debit Card,46-55,Female,New York,Rep 20
+UN-100027,3/1/2025,United States,P2004,Spices Pack,Grocery,9,10,4,0,Mobile Payment,36-45,Female,California,Rep 20
+UN-100028,3/22/2025,United States,P1002,Laptop Air,Electronics,1100,4,880,0,Cash,36-45,Male,New York,Rep 15
+UN-100029,5/22/2025,United States,P1002,Laptop Air,Electronics,1100,4,880,0,Cash,36-45,Female,California,Rep 5
+UN-100030,2/3/2025,United States,P1001,Smartphone X,Electronics,800,5,620,5,Debit Card,18-25,Male,Texas,Rep 13
+UN-100031,11/2/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,5,Cash,36-45,Male,California,Rep 8
+UN-100032,6/7/2025,United States,P1002,Laptop Air,Electronics,1100,5,880,15,Credit Card,18-25,Female,Texas,Rep 18
+UN-100033,10/27/2025,United States,P2003,Organic Honey,Grocery,15,8,9,5,Mobile Payment,18-25,Male,Texas,Rep 8
+UN-100034,1/16/2025,United States,P1001,Smartphone X,Electronics,800,8,620,0,Mobile Payment,36-45,Male,New York,Rep 7
+UN-100035,3/7/2025,United States,P2004,Spices Pack,Grocery,9,6,4,5,Credit Card,36-45,Male,New York,Rep 9
+UN-100036,10/17/2025,United States,P2003,Organic Honey,Grocery,15,5,9,5,Cash,18-25,Male,Texas,Rep 4
+UN-100037,8/15/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,10,Credit Card,36-45,Male,New York,Rep 20
+UN-100038,7/29/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,5,Cash,18-25,Female,California,Rep 12
+UN-100039,10/21/2025,United States,P3002,Blender Pro,Home Appliances,120,4,85,5,Cash,36-45,Female,New York,Rep 15
+UN-100040,7/22/2025,United States,P4002,Hair Trimmer,Personal Care,35,2,20,15,Debit Card,18-25,Female,New York,Rep 5
+UN-100041,1/8/2025,United States,P2003,Organic Honey,Grocery,15,4,9,15,Credit Card,36-45,Female,Texas,Rep 3
+UN-100042,12/24/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,10,Credit Card,26-35,Female,Texas,Rep 14
+UN-100043,12/18/2025,United States,P1001,Smartphone X,Electronics,800,1,620,10,Debit Card,18-25,Male,New York,Rep 18
+UN-100044,8/29/2025,United States,P4001,Skincare Kit,Personal Care,50,2,28,5,Debit Card,36-45,Male,California,Rep 1
+UN-100045,9/22/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,5,Debit Card,18-25,Female,Texas,Rep 17
+UN-100046,9/2/2025,United States,P3001,Microwave Oven,Home Appliances,220,5,165,0,Mobile Payment,36-45,Female,Texas,Rep 6
+UN-100047,9/7/2025,United States,P1003,Wireless Earbuds,Electronics,150,7,95,0,Mobile Payment,46-55,Female,Texas,Rep 10
+UN-100048,11/25/2025,United States,P1001,Smartphone X,Electronics,800,4,620,15,Debit Card,26-35,Female,Texas,Rep 19
+UN-100049,7/12/2025,United States,P1001,Smartphone X,Electronics,800,1,620,0,Cash,36-45,Female,California,Rep 6
+UN-100050,5/21/2025,United States,P1002,Laptop Air,Electronics,1100,9,880,10,Mobile Payment,36-45,Male,California,Rep 19
+UN-100051,12/27/2025,United States,P2003,Organic Honey,Grocery,15,8,9,0,Mobile Payment,46-55,Male,California,Rep 15
+UN-100052,11/9/2025,United States,P2004,Spices Pack,Grocery,9,7,4,10,Debit Card,18-25,Female,California,Rep 14
+UN-100053,1/14/2025,United States,P1002,Laptop Air,Electronics,1100,1,880,5,Credit Card,36-45,Male,Texas,Rep 12
+UN-100054,1/22/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,5,Credit Card,36-45,Male,New York,Rep 10
+UN-100055,11/19/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,0,Mobile Payment,36-45,Female,Texas,Rep 3
+UN-100056,3/1/2025,United States,P4001,Skincare Kit,Personal Care,50,3,28,0,Mobile Payment,18-25,Male,California,Rep 7
+UN-100057,11/30/2025,United States,P1001,Smartphone X,Electronics,800,10,620,10,Credit Card,18-25,Male,Texas,Rep 13
+UN-100058,2/15/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,5,Credit Card,46-55,Male,New York,Rep 11
+UN-100059,11/27/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,15,Credit Card,36-45,Male,California,Rep 16
+UN-100060,9/25/2025,United States,P1003,Wireless Earbuds,Electronics,150,7,95,5,Credit Card,46-55,Female,California,Rep 3
+UN-100061,11/6/2025,United States,P1003,Wireless Earbuds,Electronics,150,10,95,5,Mobile Payment,18-25,Male,Texas,Rep 19
+UN-100062,10/26/2025,United States,P2004,Spices Pack,Grocery,9,8,4,0,Mobile Payment,18-25,Male,Texas,Rep 15
+UN-100063,12/22/2025,United States,P2003,Organic Honey,Grocery,15,2,9,0,Debit Card,36-45,Male,Texas,Rep 20
+UN-100064,7/26/2025,United States,P1001,Smartphone X,Electronics,800,10,620,5,Cash,18-25,Male,Texas,Rep 17
+UN-100065,5/17/2025,United States,P1001,Smartphone X,Electronics,800,6,620,5,Debit Card,36-45,Male,New York,Rep 2
+UN-100066,8/15/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,15,Debit Card,26-35,Female,Texas,Rep 15
+UN-100067,10/20/2025,United States,P2003,Organic Honey,Grocery,15,1,9,5,Mobile Payment,18-25,Male,California,Rep 17
+UN-100068,4/29/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,0,Cash,26-35,Female,New York,Rep 4
+UN-100069,11/7/2025,United States,P1003,Wireless Earbuds,Electronics,150,9,95,0,Credit Card,26-35,Male,California,Rep 11
+UN-100070,1/3/2025,United States,P1002,Laptop Air,Electronics,1100,2,880,10,Cash,36-45,Female,Texas,Rep 18
+UN-100071,3/11/2025,United States,P2004,Spices Pack,Grocery,9,7,4,15,Credit Card,18-25,Female,California,Rep 15
+UN-100072,3/4/2025,United States,P1003,Wireless Earbuds,Electronics,150,9,95,0,Mobile Payment,18-25,Male,New York,Rep 19
+UN-100073,3/15/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,15,Debit Card,46-55,Male,Texas,Rep 2
+UN-100074,4/8/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,0,Credit Card,46-55,Female,New York,Rep 19
+UN-100075,12/6/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,10,Credit Card,26-35,Female,Texas,Rep 7
+UN-100076,7/21/2025,United States,P4001,Skincare Kit,Personal Care,50,10,28,10,Debit Card,18-25,Female,California,Rep 18
+UN-100077,7/18/2025,United States,P4001,Skincare Kit,Personal Care,50,7,28,0,Mobile Payment,36-45,Male,California,Rep 2
+UN-100078,8/1/2025,United States,P2004,Spices Pack,Grocery,9,7,4,0,Cash,46-55,Female,New York,Rep 15
+UN-100079,11/10/2025,United States,P2004,Spices Pack,Grocery,9,3,4,10,Cash,26-35,Female,Texas,Rep 18
+UN-100080,6/14/2025,United States,P4002,Hair Trimmer,Personal Care,35,4,20,0,Cash,36-45,Female,New York,Rep 17
+UN-100081,3/12/2025,United States,P2004,Spices Pack,Grocery,9,1,4,10,Mobile Payment,26-35,Male,Texas,Rep 12
+UN-100082,1/31/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,0,Debit Card,26-35,Male,New York,Rep 3
+UN-100083,12/4/2025,United States,P1002,Laptop Air,Electronics,1100,2,880,10,Debit Card,26-35,Male,New York,Rep 3
+UN-100084,11/16/2025,United States,P2003,Organic Honey,Grocery,15,10,9,15,Debit Card,26-35,Male,Texas,Rep 15
+UN-100085,5/13/2025,United States,P3001,Microwave Oven,Home Appliances,220,8,165,0,Debit Card,36-45,Female,California,Rep 1
+UN-100086,4/1/2025,United States,P2003,Organic Honey,Grocery,15,9,9,10,Cash,36-45,Female,Texas,Rep 8
+UN-100087,7/24/2025,United States,P3001,Microwave Oven,Home Appliances,220,2,165,15,Debit Card,26-35,Female,New York,Rep 4
+UN-100088,3/24/2025,United States,P4002,Hair Trimmer,Personal Care,35,6,20,0,Cash,18-25,Male,California,Rep 11
+UN-100089,5/5/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,0,Debit Card,26-35,Male,Texas,Rep 1
+UN-100090,11/5/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,5,Debit Card,46-55,Female,California,Rep 20
+UN-100091,9/12/2025,United States,P2004,Spices Pack,Grocery,9,1,4,0,Cash,36-45,Male,Texas,Rep 15
+UN-100092,1/18/2025,United States,P4001,Skincare Kit,Personal Care,50,1,28,5,Credit Card,46-55,Female,New York,Rep 1
+UN-100093,7/15/2025,United States,P3002,Blender Pro,Home Appliances,120,10,85,5,Debit Card,36-45,Female,California,Rep 2
+UN-100094,10/19/2025,United States,P1001,Smartphone X,Electronics,800,10,620,5,Mobile Payment,26-35,Female,Texas,Rep 10
+UN-100095,6/8/2025,United States,P3001,Microwave Oven,Home Appliances,220,5,165,10,Credit Card,26-35,Male,California,Rep 15
+UN-100096,7/27/2025,United States,P3001,Microwave Oven,Home Appliances,220,6,165,10,Credit Card,36-45,Female,California,Rep 2
+UN-100097,12/7/2025,United States,P1002,Laptop Air,Electronics,1100,2,880,10,Mobile Payment,46-55,Male,California,Rep 20
+UN-100098,1/1/2025,United States,P2004,Spices Pack,Grocery,9,5,4,0,Credit Card,46-55,Female,New York,Rep 19
+UN-100099,7/20/2025,United States,P1002,Laptop Air,Electronics,1100,7,880,5,Debit Card,18-25,Female,California,Rep 15
+UN-100100,1/8/2025,United States,P3002,Blender Pro,Home Appliances,120,1,85,5,Mobile Payment,26-35,Male,Texas,Rep 17
+UN-100101,11/16/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,15,Mobile Payment,26-35,Male,New York,Rep 19
+UN-100102,5/15/2025,United States,P2003,Organic Honey,Grocery,15,10,9,15,Cash,36-45,Female,California,Rep 16
+UN-100103,11/24/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,10,Credit Card,18-25,Female,California,Rep 8
+UN-100104,5/10/2025,United States,P4001,Skincare Kit,Personal Care,50,2,28,15,Cash,18-25,Female,New York,Rep 19
+UN-100105,3/25/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,15,Cash,26-35,Male,New York,Rep 4
+UN-100106,12/4/2025,United States,P1002,Laptop Air,Electronics,1100,1,880,5,Credit Card,18-25,Male,California,Rep 13
+UN-100107,9/25/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,5,Credit Card,36-45,Female,California,Rep 15
+UN-100108,12/7/2025,United States,P3002,Blender Pro,Home Appliances,120,3,85,5,Mobile Payment,18-25,Female,Texas,Rep 16
+UN-100109,4/16/2025,United States,P1001,Smartphone X,Electronics,800,6,620,0,Mobile Payment,18-25,Male,California,Rep 13
+UN-100110,4/18/2025,United States,P2004,Spices Pack,Grocery,9,7,4,5,Debit Card,46-55,Male,New York,Rep 9
+UN-100111,2/21/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,15,Cash,36-45,Male,Texas,Rep 13
+UN-100112,2/23/2025,United States,P1001,Smartphone X,Electronics,800,10,620,15,Mobile Payment,26-35,Female,California,Rep 3
+UN-100113,11/21/2025,United States,P1001,Smartphone X,Electronics,800,8,620,5,Debit Card,36-45,Female,Texas,Rep 19
+UN-100114,3/27/2025,United States,P4001,Skincare Kit,Personal Care,50,3,28,0,Cash,36-45,Female,California,Rep 1
+UN-100115,11/26/2025,United States,P3002,Blender Pro,Home Appliances,120,9,85,15,Debit Card,46-55,Female,Texas,Rep 12
+UN-100116,5/3/2025,United States,P1001,Smartphone X,Electronics,800,7,620,10,Mobile Payment,36-45,Male,Texas,Rep 12
+UN-100117,2/26/2025,United States,P2003,Organic Honey,Grocery,15,8,9,0,Cash,18-25,Female,Texas,Rep 19
+UN-100118,2/22/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,15,Debit Card,36-45,Female,California,Rep 19
+UN-100119,3/3/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,0,Mobile Payment,36-45,Female,New York,Rep 18
+UN-100120,9/19/2025,United States,P1002,Laptop Air,Electronics,1100,5,880,10,Debit Card,26-35,Male,Texas,Rep 8
+UN-100121,1/22/2025,United States,P1001,Smartphone X,Electronics,800,1,620,0,Mobile Payment,46-55,Male,California,Rep 17
+UN-100122,4/12/2025,United States,P2004,Spices Pack,Grocery,9,7,4,5,Credit Card,46-55,Female,New York,Rep 13
+UN-100123,6/18/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,0,Cash,18-25,Male,Texas,Rep 5
+UN-100124,4/29/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,0,Cash,36-45,Male,New York,Rep 6
+UN-100125,6/15/2025,United States,P4002,Hair Trimmer,Personal Care,35,5,20,0,Mobile Payment,26-35,Female,Texas,Rep 6
+UN-100126,1/14/2025,United States,P1001,Smartphone X,Electronics,800,6,620,0,Credit Card,46-55,Female,New York,Rep 15
+UN-100127,9/24/2025,United States,P2003,Organic Honey,Grocery,15,4,9,5,Cash,26-35,Male,New York,Rep 16
+UN-100128,12/28/2025,United States,P4002,Hair Trimmer,Personal Care,35,5,20,5,Credit Card,36-45,Male,Texas,Rep 8
+UN-100129,6/27/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,10,Debit Card,36-45,Female,New York,Rep 12
+UN-100130,9/27/2025,United States,P2004,Spices Pack,Grocery,9,9,4,15,Mobile Payment,18-25,Male,New York,Rep 11
+UN-100131,4/26/2025,United States,P4001,Skincare Kit,Personal Care,50,5,28,0,Credit Card,46-55,Female,California,Rep 11
+UN-100132,6/11/2025,United States,P4001,Skincare Kit,Personal Care,50,5,28,0,Debit Card,26-35,Female,New York,Rep 13
+UN-100133,12/12/2025,United States,P2003,Organic Honey,Grocery,15,1,9,10,Credit Card,36-45,Male,New York,Rep 13
+UN-100134,8/13/2025,United States,P2004,Spices Pack,Grocery,9,3,4,0,Credit Card,18-25,Male,New York,Rep 14
+UN-100135,5/7/2025,United States,P4002,Hair Trimmer,Personal Care,35,7,20,5,Cash,36-45,Female,New York,Rep 12
+UN-100136,6/27/2025,United States,P1001,Smartphone X,Electronics,800,4,620,0,Credit Card,26-35,Male,New York,Rep 16
+UN-100137,2/2/2025,United States,P4002,Hair Trimmer,Personal Care,35,6,20,5,Debit Card,36-45,Female,California,Rep 14
+UN-100138,3/6/2025,United States,P3002,Blender Pro,Home Appliances,120,1,85,10,Credit Card,18-25,Male,Texas,Rep 20
+UN-100139,8/13/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,5,Debit Card,18-25,Male,New York,Rep 19
+UN-100140,7/15/2025,United States,P4002,Hair Trimmer,Personal Care,35,3,20,5,Cash,26-35,Male,California,Rep 12
+UN-100141,3/26/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,5,Debit Card,46-55,Male,Texas,Rep 10
+UN-100142,12/19/2025,United States,P4001,Skincare Kit,Personal Care,50,7,28,0,Cash,46-55,Male,New York,Rep 4
+UN-100143,5/21/2025,United States,P3001,Microwave Oven,Home Appliances,220,10,165,10,Mobile Payment,36-45,Male,New York,Rep 11
+UN-100144,7/23/2025,United States,P2004,Spices Pack,Grocery,9,3,4,10,Cash,18-25,Female,California,Rep 17
+UN-100145,7/29/2025,United States,P4001,Skincare Kit,Personal Care,50,2,28,10,Mobile Payment,46-55,Female,Texas,Rep 2
+UN-100146,6/9/2025,United States,P2003,Organic Honey,Grocery,15,8,9,5,Debit Card,36-45,Female,California,Rep 16
+UN-100147,7/10/2025,United States,P1001,Smartphone X,Electronics,800,9,620,5,Debit Card,36-45,Male,New York,Rep 13
+UN-100148,5/9/2025,United States,P2004,Spices Pack,Grocery,9,6,4,5,Credit Card,46-55,Female,Texas,Rep 19
+UN-100149,2/22/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,15,Mobile Payment,36-45,Female,Texas,Rep 13
+UN-100150,11/4/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,0,Debit Card,46-55,Male,New York,Rep 9
+UN-100151,11/26/2025,United States,P1001,Smartphone X,Electronics,800,4,620,10,Credit Card,26-35,Female,California,Rep 14
+UN-100152,1/13/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,0,Debit Card,36-45,Male,California,Rep 17
+UN-100153,7/30/2025,United States,P1002,Laptop Air,Electronics,1100,7,880,0,Mobile Payment,36-45,Female,California,Rep 14
+UN-100154,12/16/2025,United States,P1001,Smartphone X,Electronics,800,7,620,0,Credit Card,26-35,Male,California,Rep 11
+UN-100155,3/10/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,15,Credit Card,26-35,Female,California,Rep 7
+UN-100156,6/11/2025,United States,P4001,Skincare Kit,Personal Care,50,2,28,0,Credit Card,46-55,Female,California,Rep 9
+UN-100157,11/10/2025,United States,P2003,Organic Honey,Grocery,15,8,9,15,Debit Card,26-35,Female,California,Rep 5
+UN-100158,11/19/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,15,Mobile Payment,46-55,Male,California,Rep 4
+UN-100159,3/13/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,10,Cash,36-45,Male,Texas,Rep 12
+UN-100160,9/10/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,0,Debit Card,46-55,Female,Texas,Rep 16
+UN-100161,4/17/2025,United States,P4001,Skincare Kit,Personal Care,50,2,28,15,Cash,36-45,Male,California,Rep 19
+UN-100162,11/25/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,0,Mobile Payment,46-55,Female,New York,Rep 20
+UN-100163,5/1/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,15,Cash,18-25,Female,Texas,Rep 3
+UN-100164,12/15/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,5,Mobile Payment,18-25,Male,New York,Rep 6
+UN-100165,8/3/2025,United States,P4002,Hair Trimmer,Personal Care,35,5,20,5,Credit Card,46-55,Male,California,Rep 1
+UN-100166,3/22/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,15,Mobile Payment,36-45,Male,California,Rep 7
+UN-100167,6/4/2025,United States,P4001,Skincare Kit,Personal Care,50,5,28,5,Cash,18-25,Male,California,Rep 5
+UN-100168,11/7/2025,United States,P2004,Spices Pack,Grocery,9,5,4,10,Mobile Payment,26-35,Female,California,Rep 7
+UN-100169,7/28/2025,United States,P2003,Organic Honey,Grocery,15,4,9,15,Cash,46-55,Male,California,Rep 15
+UN-100170,4/26/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,5,Credit Card,46-55,Male,Texas,Rep 10
+UN-100171,4/3/2025,United States,P3001,Microwave Oven,Home Appliances,220,5,165,15,Mobile Payment,36-45,Male,New York,Rep 7
+UN-100172,5/9/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,5,Cash,36-45,Female,New York,Rep 15
+UN-100173,9/5/2025,United States,P2003,Organic Honey,Grocery,15,1,9,5,Debit Card,18-25,Female,Texas,Rep 15
+UN-100174,7/14/2025,United States,P1001,Smartphone X,Electronics,800,3,620,5,Debit Card,46-55,Female,New York,Rep 20
+UN-100175,9/28/2025,United States,P1003,Wireless Earbuds,Electronics,150,2,95,10,Debit Card,18-25,Female,New York,Rep 17
+UN-100176,9/27/2025,United States,P4001,Skincare Kit,Personal Care,50,1,28,15,Cash,26-35,Female,Texas,Rep 8
+UN-100177,2/12/2025,United States,P3002,Blender Pro,Home Appliances,120,1,85,0,Debit Card,18-25,Female,New York,Rep 14
+UN-100178,2/17/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,15,Cash,36-45,Male,California,Rep 12
+UN-100179,10/31/2025,United States,P2003,Organic Honey,Grocery,15,3,9,0,Mobile Payment,18-25,Female,Texas,Rep 17
+UN-100180,3/15/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,10,Credit Card,36-45,Female,Texas,Rep 15
+UN-100181,9/19/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,15,Debit Card,46-55,Male,New York,Rep 6
+UN-100182,10/11/2025,United States,P2003,Organic Honey,Grocery,15,3,9,15,Cash,36-45,Female,New York,Rep 20
+UN-100183,2/2/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,5,Cash,26-35,Male,California,Rep 15
+UN-100184,7/11/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,0,Cash,46-55,Male,Texas,Rep 13
+UN-100185,9/21/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,15,Credit Card,36-45,Male,New York,Rep 8
+UN-100186,2/1/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,0,Credit Card,36-45,Male,New York,Rep 1
+UN-100187,5/8/2025,United States,P2004,Spices Pack,Grocery,9,9,4,15,Debit Card,26-35,Male,New York,Rep 6
+UN-100188,6/11/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,10,Cash,36-45,Female,New York,Rep 20
+UN-100189,9/19/2025,United States,P4001,Skincare Kit,Personal Care,50,1,28,10,Debit Card,26-35,Male,New York,Rep 7
+UN-100190,8/14/2025,United States,P1003,Wireless Earbuds,Electronics,150,9,95,15,Mobile Payment,26-35,Male,California,Rep 19
+UN-100191,9/7/2025,United States,P4001,Skincare Kit,Personal Care,50,10,28,10,Mobile Payment,36-45,Female,California,Rep 12
+UN-100192,11/13/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,5,Credit Card,36-45,Female,Texas,Rep 9
+UN-100193,3/4/2025,United States,P2003,Organic Honey,Grocery,15,4,9,10,Debit Card,46-55,Female,New York,Rep 4
+UN-100194,5/18/2025,United States,P2004,Spices Pack,Grocery,9,7,4,10,Cash,46-55,Male,California,Rep 7
+UN-100195,7/16/2025,United States,P3001,Microwave Oven,Home Appliances,220,6,165,10,Mobile Payment,26-35,Male,California,Rep 5
+UN-100196,3/29/2025,United States,P4002,Hair Trimmer,Personal Care,35,4,20,5,Mobile Payment,46-55,Male,Texas,Rep 16
+UN-100197,4/26/2025,United States,P3001,Microwave Oven,Home Appliances,220,10,165,0,Cash,18-25,Male,Texas,Rep 20
+UN-100198,2/25/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,0,Credit Card,26-35,Female,California,Rep 4
+UN-100199,6/26/2025,United States,P1001,Smartphone X,Electronics,800,6,620,15,Mobile Payment,18-25,Male,New York,Rep 12
+UN-100200,5/29/2025,United States,P4002,Hair Trimmer,Personal Care,35,4,20,10,Debit Card,46-55,Female,Texas,Rep 16
+UN-100201,5/1/2025,United States,P1002,Laptop Air,Electronics,1100,9,880,5,Cash,46-55,Female,California,Rep 1
+UN-100202,4/4/2025,United States,P3002,Blender Pro,Home Appliances,120,10,85,0,Cash,46-55,Male,California,Rep 12
+UN-100203,5/28/2025,United States,P2003,Organic Honey,Grocery,15,9,9,10,Credit Card,46-55,Male,California,Rep 16
+UN-100204,9/22/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,10,Mobile Payment,46-55,Female,Texas,Rep 8
+UN-100205,11/9/2025,United States,P2004,Spices Pack,Grocery,9,9,4,5,Mobile Payment,36-45,Male,New York,Rep 10
+UN-100206,7/1/2025,United States,P3002,Blender Pro,Home Appliances,120,4,85,5,Cash,46-55,Female,New York,Rep 9
+UN-100207,8/24/2025,United States,P4001,Skincare Kit,Personal Care,50,10,28,15,Credit Card,36-45,Male,New York,Rep 19
+UN-100208,2/10/2025,United States,P2003,Organic Honey,Grocery,15,8,9,5,Credit Card,18-25,Male,New York,Rep 9
+UN-100209,12/14/2025,United States,P4002,Hair Trimmer,Personal Care,35,2,20,10,Credit Card,26-35,Female,Texas,Rep 12
+UN-100210,11/6/2025,United States,P2004,Spices Pack,Grocery,9,5,4,10,Mobile Payment,18-25,Male,Texas,Rep 1
+UN-100211,6/24/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,5,Mobile Payment,26-35,Female,Texas,Rep 10
+UN-100212,6/20/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,15,Mobile Payment,26-35,Female,California,Rep 12
+UN-100213,11/8/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,0,Mobile Payment,18-25,Male,New York,Rep 5
+UN-100214,10/28/2025,United States,P4002,Hair Trimmer,Personal Care,35,5,20,10,Debit Card,46-55,Male,New York,Rep 10
+UN-100215,9/5/2025,United States,P1002,Laptop Air,Electronics,1100,9,880,5,Cash,36-45,Female,New York,Rep 12
+UN-100216,3/16/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,0,Debit Card,36-45,Female,Texas,Rep 17
+UN-100217,2/3/2025,United States,P3001,Microwave Oven,Home Appliances,220,6,165,5,Cash,46-55,Male,New York,Rep 8
+UN-100218,2/12/2025,United States,P3001,Microwave Oven,Home Appliances,220,7,165,0,Credit Card,36-45,Male,New York,Rep 13
+UN-100219,6/28/2025,United States,P2003,Organic Honey,Grocery,15,4,9,0,Mobile Payment,18-25,Female,New York,Rep 2
+UN-100220,10/9/2025,United States,P2003,Organic Honey,Grocery,15,3,9,15,Cash,36-45,Female,Texas,Rep 13
+UN-100221,5/21/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,5,Cash,46-55,Male,New York,Rep 7
+UN-100222,12/4/2025,United States,P2003,Organic Honey,Grocery,15,2,9,15,Mobile Payment,36-45,Male,California,Rep 5
+UN-100223,11/14/2025,United States,P2003,Organic Honey,Grocery,15,4,9,15,Cash,18-25,Male,New York,Rep 11
+UN-100224,6/8/2025,United States,P3002,Blender Pro,Home Appliances,120,7,85,5,Mobile Payment,18-25,Male,New York,Rep 12
+UN-100225,10/13/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,5,Credit Card,26-35,Female,New York,Rep 1
+UN-100226,2/12/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,10,Credit Card,26-35,Male,New York,Rep 3
+UN-100227,12/29/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,15,Mobile Payment,46-55,Male,California,Rep 19
+UN-100228,8/7/2025,United States,P1003,Wireless Earbuds,Electronics,150,2,95,15,Debit Card,46-55,Female,New York,Rep 5
+UN-100229,8/30/2025,United States,P1001,Smartphone X,Electronics,800,7,620,15,Credit Card,46-55,Male,California,Rep 7
+UN-100230,5/16/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,10,Mobile Payment,46-55,Female,Texas,Rep 19
+UN-100231,8/30/2025,United States,P4001,Skincare Kit,Personal Care,50,2,28,5,Cash,18-25,Male,Texas,Rep 8
+UN-100232,1/29/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,0,Credit Card,26-35,Male,Texas,Rep 15
+UN-100233,6/22/2025,United States,P2004,Spices Pack,Grocery,9,2,4,0,Credit Card,26-35,Male,Texas,Rep 15
+UN-100234,11/30/2025,United States,P3001,Microwave Oven,Home Appliances,220,8,165,10,Credit Card,46-55,Male,Texas,Rep 2
+UN-100235,2/18/2025,United States,P1002,Laptop Air,Electronics,1100,8,880,5,Debit Card,36-45,Male,New York,Rep 3
+UN-100236,4/9/2025,United States,P1001,Smartphone X,Electronics,800,3,620,10,Mobile Payment,36-45,Female,California,Rep 16
+UN-100237,6/29/2025,United States,P2003,Organic Honey,Grocery,15,4,9,5,Mobile Payment,46-55,Male,New York,Rep 15
+UN-100238,10/4/2025,United States,P2003,Organic Honey,Grocery,15,7,9,5,Credit Card,36-45,Male,New York,Rep 8
+UN-100239,9/23/2025,United States,P1001,Smartphone X,Electronics,800,8,620,0,Debit Card,26-35,Male,Texas,Rep 8
+UN-100240,6/28/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,10,Credit Card,36-45,Female,Texas,Rep 11
+UN-100241,1/23/2025,United States,P1001,Smartphone X,Electronics,800,6,620,5,Mobile Payment,18-25,Female,California,Rep 13
+UN-100242,1/21/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,10,Cash,46-55,Female,California,Rep 7
+UN-100243,2/13/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,0,Mobile Payment,18-25,Male,California,Rep 5
+UN-100244,5/12/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,5,Debit Card,26-35,Male,Texas,Rep 11
+UN-100245,5/16/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,0,Credit Card,26-35,Male,California,Rep 5
+UN-100246,9/23/2025,United States,P2004,Spices Pack,Grocery,9,4,4,15,Cash,36-45,Female,Texas,Rep 13
+UN-100247,7/16/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,15,Cash,46-55,Male,Texas,Rep 19
+UN-100248,2/13/2025,United States,P2003,Organic Honey,Grocery,15,8,9,15,Cash,18-25,Female,Texas,Rep 2
+UN-100249,2/22/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,15,Mobile Payment,18-25,Male,California,Rep 4
+UN-100250,12/2/2025,United States,P3001,Microwave Oven,Home Appliances,220,7,165,5,Mobile Payment,46-55,Male,California,Rep 9
+UN-100251,8/8/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,5,Credit Card,18-25,Female,California,Rep 9
+UN-100252,5/11/2025,United States,P3001,Microwave Oven,Home Appliances,220,5,165,5,Credit Card,46-55,Male,California,Rep 2
+UN-100253,12/23/2025,United States,P3002,Blender Pro,Home Appliances,120,4,85,15,Credit Card,46-55,Male,New York,Rep 17
+UN-100254,6/17/2025,United States,P2003,Organic Honey,Grocery,15,8,9,15,Cash,46-55,Male,New York,Rep 12
+UN-100255,9/9/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,10,Cash,18-25,Female,New York,Rep 3
+UN-100256,10/10/2025,United States,P1001,Smartphone X,Electronics,800,8,620,5,Credit Card,36-45,Male,New York,Rep 7
+UN-100257,11/14/2025,United States,P2003,Organic Honey,Grocery,15,1,9,15,Credit Card,46-55,Female,Texas,Rep 2
+UN-100258,11/17/2025,United States,P2004,Spices Pack,Grocery,9,1,4,5,Cash,46-55,Male,New York,Rep 2
+UN-100259,4/17/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,10,Mobile Payment,46-55,Male,New York,Rep 13
+UN-100260,8/26/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,5,Credit Card,36-45,Male,New York,Rep 16
+UN-100261,6/26/2025,United States,P1001,Smartphone X,Electronics,800,7,620,15,Mobile Payment,18-25,Female,California,Rep 12
+UN-100262,5/23/2025,United States,P2004,Spices Pack,Grocery,9,4,4,10,Mobile Payment,18-25,Female,Texas,Rep 3
+UN-100263,5/20/2025,United States,P1002,Laptop Air,Electronics,1100,7,880,15,Debit Card,26-35,Female,California,Rep 3
+UN-100264,8/8/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,5,Debit Card,46-55,Male,California,Rep 7
+UN-100265,10/9/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,0,Mobile Payment,46-55,Male,California,Rep 3
+UN-100266,6/21/2025,United States,P1002,Laptop Air,Electronics,1100,2,880,15,Debit Card,18-25,Male,New York,Rep 1
+UN-100267,9/27/2025,United States,P1002,Laptop Air,Electronics,1100,1,880,15,Mobile Payment,46-55,Male,Texas,Rep 17
+UN-100268,9/19/2025,United States,P3002,Blender Pro,Home Appliances,120,1,85,0,Mobile Payment,26-35,Female,California,Rep 20
+UN-100269,12/27/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,0,Mobile Payment,46-55,Male,California,Rep 9
+UN-100270,8/4/2025,United States,P1003,Wireless Earbuds,Electronics,150,7,95,15,Debit Card,26-35,Male,California,Rep 15
+UN-100271,3/26/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,5,Debit Card,36-45,Male,California,Rep 7
+UN-100272,5/10/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,0,Mobile Payment,46-55,Female,New York,Rep 10
+UN-100273,8/17/2025,United States,P1002,Laptop Air,Electronics,1100,9,880,5,Debit Card,18-25,Female,California,Rep 14
+UN-100274,3/12/2025,United States,P2003,Organic Honey,Grocery,15,7,9,10,Debit Card,36-45,Female,New York,Rep 18
+UN-100275,12/4/2025,United States,P4002,Hair Trimmer,Personal Care,35,8,20,15,Credit Card,36-45,Female,Texas,Rep 3
+UN-100276,5/28/2025,United States,P1002,Laptop Air,Electronics,1100,1,880,5,Cash,18-25,Female,Texas,Rep 15
+UN-100277,7/2/2025,United States,P3002,Blender Pro,Home Appliances,120,3,85,10,Credit Card,36-45,Male,New York,Rep 10
+UN-100278,10/22/2025,United States,P1002,Laptop Air,Electronics,1100,4,880,10,Debit Card,18-25,Male,California,Rep 8
+UN-100279,9/24/2025,United States,P1001,Smartphone X,Electronics,800,1,620,10,Cash,46-55,Female,California,Rep 2
+UN-100280,1/16/2025,United States,P1003,Wireless Earbuds,Electronics,150,9,95,0,Mobile Payment,36-45,Female,Texas,Rep 7
+UN-100281,9/11/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,36-45,Male,New York,Rep 16
+UN-100282,3/29/2025,United States,P4002,Hair Trimmer,Personal Care,35,5,20,10,Cash,46-55,Female,New York,Rep 3
+UN-100283,4/15/2025,United States,P4001,Skincare Kit,Personal Care,50,3,28,5,Debit Card,46-55,Female,California,Rep 4
+UN-100284,1/17/2025,United States,P4002,Hair Trimmer,Personal Care,35,8,20,5,Mobile Payment,18-25,Male,Texas,Rep 20
+UN-100285,5/27/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,15,Cash,36-45,Female,New York,Rep 8
+UN-100286,6/29/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,5,Cash,36-45,Female,New York,Rep 4
+UN-100287,12/18/2025,United States,P4002,Hair Trimmer,Personal Care,35,7,20,10,Credit Card,26-35,Female,New York,Rep 6
+UN-100288,1/6/2025,United States,P3002,Blender Pro,Home Appliances,120,9,85,5,Credit Card,26-35,Female,Texas,Rep 17
+UN-100289,1/8/2025,United States,P1001,Smartphone X,Electronics,800,3,620,10,Mobile Payment,36-45,Female,California,Rep 18
+UN-100290,7/18/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,5,Debit Card,46-55,Female,California,Rep 19
+UN-100291,8/20/2025,United States,P3002,Blender Pro,Home Appliances,120,4,85,10,Debit Card,36-45,Male,Texas,Rep 9
+UN-100292,7/17/2025,United States,P1003,Wireless Earbuds,Electronics,150,1,95,0,Cash,18-25,Male,Texas,Rep 20
+UN-100293,1/26/2025,United States,P1001,Smartphone X,Electronics,800,9,620,0,Debit Card,46-55,Female,California,Rep 2
+UN-100294,11/26/2025,United States,P2003,Organic Honey,Grocery,15,7,9,15,Debit Card,18-25,Male,Texas,Rep 18
+UN-100295,11/17/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,5,Mobile Payment,46-55,Female,California,Rep 14
+UN-100296,9/9/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,5,Credit Card,36-45,Female,Texas,Rep 8
+UN-100297,3/21/2025,United States,P3001,Microwave Oven,Home Appliances,220,10,165,5,Debit Card,26-35,Female,New York,Rep 16
+UN-100298,12/31/2025,United States,P1003,Wireless Earbuds,Electronics,150,6,95,5,Cash,18-25,Male,Texas,Rep 16
+UN-100299,7/28/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,5,Credit Card,46-55,Male,Texas,Rep 13
+UN-100300,9/6/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,10,Debit Card,18-25,Female,Texas,Rep 15
+UN-100301,12/1/2025,United States,P3001,Microwave Oven,Home Appliances,220,6,165,0,Cash,26-35,Female,California,Rep 10
+UN-100302,1/16/2025,United States,P2004,Spices Pack,Grocery,9,4,4,10,Cash,26-35,Male,Texas,Rep 19
+UN-100303,2/6/2025,United States,P2003,Organic Honey,Grocery,15,2,9,10,Cash,46-55,Female,California,Rep 18
+UN-100304,1/27/2025,United States,P2003,Organic Honey,Grocery,15,6,9,15,Debit Card,46-55,Male,New York,Rep 5
+UN-100305,9/20/2025,United States,P4002,Hair Trimmer,Personal Care,35,2,20,15,Mobile Payment,46-55,Male,California,Rep 1
+UN-100306,7/31/2025,United States,P2003,Organic Honey,Grocery,15,1,9,10,Debit Card,36-45,Male,New York,Rep 3
+UN-100307,3/8/2025,United States,P2004,Spices Pack,Grocery,9,3,4,0,Credit Card,26-35,Male,Texas,Rep 12
+UN-100308,7/8/2025,United States,P3002,Blender Pro,Home Appliances,120,9,85,15,Credit Card,18-25,Male,California,Rep 19
+UN-100309,11/10/2025,United States,P1001,Smartphone X,Electronics,800,6,620,5,Cash,36-45,Female,Texas,Rep 14
+UN-100310,2/27/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,0,Mobile Payment,18-25,Female,New York,Rep 18
+UN-100311,2/10/2025,United States,P2004,Spices Pack,Grocery,9,3,4,10,Mobile Payment,46-55,Male,California,Rep 11
+UN-100312,2/4/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,0,Credit Card,18-25,Male,California,Rep 7
+UN-100313,9/3/2025,United States,P2003,Organic Honey,Grocery,15,3,9,0,Cash,18-25,Male,New York,Rep 16
+UN-100314,5/12/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,0,Mobile Payment,18-25,Male,Texas,Rep 8
+UN-100315,8/10/2025,United States,P2003,Organic Honey,Grocery,15,8,9,15,Mobile Payment,18-25,Female,New York,Rep 13
+UN-100316,5/26/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,0,Mobile Payment,36-45,Male,California,Rep 11
+UN-100317,6/27/2025,United States,P2004,Spices Pack,Grocery,9,5,4,5,Credit Card,26-35,Male,New York,Rep 4
+UN-100318,2/7/2025,United States,P2003,Organic Honey,Grocery,15,4,9,5,Cash,18-25,Male,New York,Rep 18
+UN-100319,6/21/2025,United States,P4002,Hair Trimmer,Personal Care,35,2,20,0,Mobile Payment,36-45,Male,New York,Rep 10
+UN-100320,9/8/2025,United States,P4001,Skincare Kit,Personal Care,50,1,28,10,Cash,18-25,Female,Texas,Rep 19
+UN-100321,7/25/2025,United States,P2004,Spices Pack,Grocery,9,1,4,10,Credit Card,18-25,Male,Texas,Rep 8
+UN-100322,8/31/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,10,Cash,26-35,Female,California,Rep 11
+UN-100323,3/1/2025,United States,P1001,Smartphone X,Electronics,800,10,620,15,Debit Card,36-45,Male,Texas,Rep 11
+UN-100324,9/15/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,5,Credit Card,26-35,Male,New York,Rep 10
+UN-100325,1/13/2025,United States,P1002,Laptop Air,Electronics,1100,7,880,15,Cash,26-35,Male,New York,Rep 7
+UN-100326,7/19/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,5,Credit Card,18-25,Male,California,Rep 16
+UN-100327,2/12/2025,United States,P3002,Blender Pro,Home Appliances,120,8,85,15,Debit Card,26-35,Female,Texas,Rep 17
+UN-100328,12/27/2025,United States,P3001,Microwave Oven,Home Appliances,220,7,165,5,Cash,36-45,Female,Texas,Rep 9
+UN-100329,3/3/2025,United States,P4002,Hair Trimmer,Personal Care,35,4,20,10,Credit Card,46-55,Female,Texas,Rep 16
+UN-100330,2/21/2025,United States,P2004,Spices Pack,Grocery,9,3,4,0,Credit Card,46-55,Male,Texas,Rep 7
+UN-100331,1/3/2025,United States,P1003,Wireless Earbuds,Electronics,150,7,95,15,Debit Card,46-55,Female,California,Rep 5
+UN-100332,3/6/2025,United States,P3001,Microwave Oven,Home Appliances,220,4,165,15,Mobile Payment,18-25,Male,California,Rep 6
+UN-100333,8/19/2025,United States,P1001,Smartphone X,Electronics,800,7,620,15,Cash,18-25,Female,California,Rep 17
+UN-100334,8/30/2025,United States,P3001,Microwave Oven,Home Appliances,220,9,165,10,Mobile Payment,26-35,Male,Texas,Rep 9
+UN-100335,3/11/2025,United States,P4001,Skincare Kit,Personal Care,50,1,28,15,Credit Card,26-35,Male,New York,Rep 8
+UN-100336,3/31/2025,United States,P2004,Spices Pack,Grocery,9,2,4,0,Credit Card,26-35,Male,Texas,Rep 7
+UN-100337,8/10/2025,United States,P2004,Spices Pack,Grocery,9,1,4,5,Cash,46-55,Female,Texas,Rep 19
+UN-100338,3/14/2025,United States,P2004,Spices Pack,Grocery,9,2,4,10,Debit Card,26-35,Male,California,Rep 19
+UN-100339,2/6/2025,United States,P1002,Laptop Air,Electronics,1100,5,880,0,Mobile Payment,18-25,Male,Texas,Rep 3
+UN-100340,2/10/2025,United States,P2003,Organic Honey,Grocery,15,1,9,0,Mobile Payment,26-35,Male,New York,Rep 2
+UN-100341,3/20/2025,United States,P2003,Organic Honey,Grocery,15,3,9,0,Credit Card,46-55,Male,Texas,Rep 12
+UN-100342,3/10/2025,United States,P4002,Hair Trimmer,Personal Care,35,5,20,5,Debit Card,36-45,Male,New York,Rep 12
+UN-100343,6/16/2025,United States,P2004,Spices Pack,Grocery,9,8,4,5,Mobile Payment,46-55,Female,Texas,Rep 17
+UN-100344,7/4/2025,United States,P3002,Blender Pro,Home Appliances,120,8,85,15,Cash,18-25,Female,California,Rep 14
+UN-100345,12/29/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,0,Debit Card,46-55,Male,California,Rep 6
+UN-100346,5/19/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,10,Debit Card,46-55,Male,New York,Rep 3
+UN-100347,4/12/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,5,Cash,46-55,Female,Texas,Rep 1
+UN-100348,6/19/2025,United States,P4001,Skincare Kit,Personal Care,50,10,28,0,Mobile Payment,36-45,Female,New York,Rep 2
+UN-100349,4/14/2025,United States,P2003,Organic Honey,Grocery,15,3,9,10,Credit Card,18-25,Female,California,Rep 20
+UN-100350,4/28/2025,United States,P1002,Laptop Air,Electronics,1100,9,880,15,Cash,46-55,Female,California,Rep 3
+UN-100351,6/5/2025,United States,P1003,Wireless Earbuds,Electronics,150,2,95,0,Debit Card,18-25,Female,Texas,Rep 18
+UN-100352,12/16/2025,United States,P1003,Wireless Earbuds,Electronics,150,6,95,0,Credit Card,26-35,Female,Texas,Rep 13
+UN-100353,4/26/2025,United States,P2003,Organic Honey,Grocery,15,2,9,5,Debit Card,18-25,Male,California,Rep 18
+UN-100354,3/18/2025,United States,P4002,Hair Trimmer,Personal Care,35,6,20,15,Cash,46-55,Male,California,Rep 20
+UN-100355,11/17/2025,United States,P4002,Hair Trimmer,Personal Care,35,3,20,15,Mobile Payment,46-55,Male,California,Rep 19
+UN-100356,8/25/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,10,Mobile Payment,26-35,Female,California,Rep 7
+UN-100357,6/18/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,15,Mobile Payment,36-45,Female,New York,Rep 2
+UN-100358,11/5/2025,United States,P1003,Wireless Earbuds,Electronics,150,3,95,0,Cash,46-55,Female,Texas,Rep 6
+UN-100359,11/11/2025,United States,P1001,Smartphone X,Electronics,800,6,620,15,Debit Card,26-35,Female,Texas,Rep 10
+UN-100360,8/22/2025,United States,P3001,Microwave Oven,Home Appliances,220,3,165,0,Cash,46-55,Female,California,Rep 10
+UN-100361,1/20/2025,United States,P4001,Skincare Kit,Personal Care,50,10,28,0,Credit Card,46-55,Male,Texas,Rep 16
+UN-100362,2/10/2025,United States,P1003,Wireless Earbuds,Electronics,150,9,95,0,Credit Card,36-45,Female,New York,Rep 7
+UN-100363,2/17/2025,United States,P3001,Microwave Oven,Home Appliances,220,10,165,0,Cash,46-55,Male,New York,Rep 9
+UN-100364,10/19/2025,United States,P3001,Microwave Oven,Home Appliances,220,7,165,5,Credit Card,26-35,Female,Texas,Rep 10
+UN-100365,3/31/2025,United States,P2004,Spices Pack,Grocery,9,2,4,5,Mobile Payment,26-35,Female,Texas,Rep 16
+UN-100366,1/10/2025,United States,P4002,Hair Trimmer,Personal Care,35,7,20,10,Cash,26-35,Male,California,Rep 13
+UN-100367,4/16/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,0,Mobile Payment,46-55,Male,New York,Rep 20
+UN-100368,4/26/2025,United States,P1001,Smartphone X,Electronics,800,6,620,10,Cash,36-45,Male,New York,Rep 16
+UN-100369,8/16/2025,United States,P1003,Wireless Earbuds,Electronics,150,6,95,10,Cash,26-35,Female,New York,Rep 2
+UN-100370,11/11/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,15,Debit Card,36-45,Female,Texas,Rep 3
+UN-100371,5/7/2025,United States,P3002,Blender Pro,Home Appliances,120,5,85,0,Cash,46-55,Female,California,Rep 6
+UN-100372,5/2/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,5,Cash,46-55,Male,Texas,Rep 5
+UN-100373,7/26/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,5,Cash,18-25,Female,New York,Rep 17
+UN-100374,12/20/2025,United States,P2003,Organic Honey,Grocery,15,10,9,10,Credit Card,26-35,Male,California,Rep 1
+UN-100375,5/26/2025,United States,P2004,Spices Pack,Grocery,9,8,4,15,Cash,18-25,Female,California,Rep 8
+UN-100376,8/27/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,10,Cash,26-35,Male,New York,Rep 6
+UN-100377,4/23/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,10,Cash,46-55,Female,California,Rep 9
+UN-100378,4/21/2025,United States,P2004,Spices Pack,Grocery,9,9,4,5,Debit Card,36-45,Female,Texas,Rep 4
+UN-100379,11/11/2025,United States,P4002,Hair Trimmer,Personal Care,35,8,20,10,Debit Card,26-35,Male,California,Rep 2
+UN-100380,6/20/2025,United States,P2003,Organic Honey,Grocery,15,8,9,10,Credit Card,46-55,Male,New York,Rep 7
+UN-100381,12/11/2025,United States,P1001,Smartphone X,Electronics,800,3,620,5,Mobile Payment,46-55,Female,Texas,Rep 4
+UN-100382,3/29/2025,United States,P2004,Spices Pack,Grocery,9,1,4,10,Mobile Payment,46-55,Male,New York,Rep 3
+UN-100383,1/10/2025,United States,P1003,Wireless Earbuds,Electronics,150,9,95,0,Cash,26-35,Female,New York,Rep 9
+UN-100384,6/6/2025,United States,P1003,Wireless Earbuds,Electronics,150,6,95,15,Mobile Payment,18-25,Female,New York,Rep 3
+UN-100385,1/25/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,15,Credit Card,18-25,Male,Texas,Rep 20
+UN-100386,3/7/2025,United States,P1001,Smartphone X,Electronics,800,1,620,0,Cash,46-55,Male,California,Rep 15
+UN-100387,1/4/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,5,Debit Card,18-25,Female,New York,Rep 18
+UN-100388,8/26/2025,United States,P1001,Smartphone X,Electronics,800,7,620,0,Credit Card,26-35,Male,California,Rep 3
+UN-100389,12/5/2025,United States,P2003,Organic Honey,Grocery,15,7,9,10,Mobile Payment,26-35,Female,New York,Rep 16
+UN-100390,12/25/2025,United States,P1001,Smartphone X,Electronics,800,2,620,15,Cash,36-45,Female,Texas,Rep 10
+UN-100391,7/13/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,15,Mobile Payment,36-45,Female,California,Rep 17
+UN-100392,2/27/2025,United States,P1002,Laptop Air,Electronics,1100,5,880,10,Credit Card,26-35,Female,New York,Rep 13
+UN-100393,1/14/2025,United States,P2004,Spices Pack,Grocery,9,7,4,10,Mobile Payment,18-25,Male,New York,Rep 1
+UN-100394,3/3/2025,United States,P1003,Wireless Earbuds,Electronics,150,10,95,5,Cash,46-55,Male,California,Rep 19
+UN-100395,7/7/2025,United States,P3002,Blender Pro,Home Appliances,120,3,85,5,Credit Card,46-55,Male,New York,Rep 4
+UN-100396,11/14/2025,United States,P2003,Organic Honey,Grocery,15,7,9,0,Debit Card,46-55,Female,New York,Rep 10
+UN-100397,11/9/2025,United States,P2004,Spices Pack,Grocery,9,10,4,10,Cash,18-25,Male,New York,Rep 6
+UN-100398,3/20/2025,United States,P1001,Smartphone X,Electronics,800,9,620,5,Debit Card,46-55,Female,Texas,Rep 8
+UN-100399,11/19/2025,United States,P2003,Organic Honey,Grocery,15,1,9,10,Mobile Payment,36-45,Male,California,Rep 9
+UN-100400,8/24/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,0,Debit Card,36-45,Female,New York,Rep 4
+UN-100401,6/22/2025,United States,P2004,Spices Pack,Grocery,9,3,4,10,Cash,36-45,Female,New York,Rep 17
+UN-100402,7/28/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,15,Cash,18-25,Female,New York,Rep 10
+UN-100403,12/6/2025,United States,P4002,Hair Trimmer,Personal Care,35,9,20,0,Cash,26-35,Male,New York,Rep 10
+UN-100404,12/30/2025,United States,P3001,Microwave Oven,Home Appliances,220,3,165,5,Cash,26-35,Male,New York,Rep 6
+UN-100405,5/18/2025,United States,P1002,Laptop Air,Electronics,1100,2,880,0,Debit Card,18-25,Female,New York,Rep 4
+UN-100406,3/28/2025,United States,P4002,Hair Trimmer,Personal Care,35,10,20,5,Debit Card,26-35,Female,New York,Rep 17
+UN-100407,10/13/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,5,Cash,36-45,Male,California,Rep 18
+UN-100408,9/24/2025,United States,P2004,Spices Pack,Grocery,9,3,4,5,Cash,18-25,Female,California,Rep 2
+UN-100409,7/14/2025,United States,P1003,Wireless Earbuds,Electronics,150,10,95,0,Credit Card,26-35,Male,Texas,Rep 1
+UN-100410,6/1/2025,United States,P2004,Spices Pack,Grocery,9,3,4,5,Mobile Payment,26-35,Female,California,Rep 9
+UN-100411,1/17/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,10,Debit Card,46-55,Female,California,Rep 17
+UN-100412,5/12/2025,United States,P3002,Blender Pro,Home Appliances,120,1,85,0,Mobile Payment,18-25,Female,California,Rep 5
+UN-100413,3/16/2025,United States,P4001,Skincare Kit,Personal Care,50,5,28,5,Credit Card,36-45,Male,California,Rep 1
+UN-100414,3/24/2025,United States,P2003,Organic Honey,Grocery,15,1,9,0,Cash,36-45,Female,California,Rep 20
+UN-100415,12/13/2025,United States,P3002,Blender Pro,Home Appliances,120,4,85,0,Cash,46-55,Female,California,Rep 16
+UN-100416,3/2/2025,United States,P3001,Microwave Oven,Home Appliances,220,9,165,5,Cash,36-45,Female,New York,Rep 4
+UN-100417,8/28/2025,United States,P1001,Smartphone X,Electronics,800,7,620,15,Mobile Payment,18-25,Female,New York,Rep 16
+UN-100418,6/8/2025,United States,P3001,Microwave Oven,Home Appliances,220,10,165,0,Debit Card,18-25,Female,New York,Rep 16
+UN-100419,11/20/2025,United States,P2003,Organic Honey,Grocery,15,9,9,5,Cash,46-55,Male,California,Rep 4
+UN-100420,7/2/2025,United States,P4002,Hair Trimmer,Personal Care,35,6,20,0,Mobile Payment,46-55,Male,Texas,Rep 6
+UN-100421,12/28/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,15,Cash,36-45,Male,New York,Rep 1
+UN-100422,12/31/2025,United States,P1003,Wireless Earbuds,Electronics,150,7,95,0,Cash,36-45,Male,Texas,Rep 13
+UN-100423,2/14/2025,United States,P1001,Smartphone X,Electronics,800,7,620,0,Credit Card,46-55,Male,Texas,Rep 15
+UN-100424,3/2/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,10,Credit Card,46-55,Male,California,Rep 7
+UN-100425,10/25/2025,United States,P1002,Laptop Air,Electronics,1100,8,880,5,Debit Card,36-45,Female,California,Rep 8
+UN-100426,10/4/2025,United States,P1001,Smartphone X,Electronics,800,4,620,10,Credit Card,36-45,Female,California,Rep 5
+UN-100427,4/5/2025,United States,P1001,Smartphone X,Electronics,800,10,620,0,Credit Card,18-25,Female,California,Rep 3
+UN-100428,2/28/2025,United States,P1003,Wireless Earbuds,Electronics,150,2,95,10,Mobile Payment,18-25,Male,Texas,Rep 1
+UN-100429,12/15/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,15,Credit Card,26-35,Female,New York,Rep 12
+UN-100430,12/31/2025,United States,P1002,Laptop Air,Electronics,1100,10,880,0,Debit Card,36-45,Female,Texas,Rep 11
+UN-100431,8/11/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,15,Cash,26-35,Female,Texas,Rep 3
+UN-100432,7/20/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,0,Credit Card,18-25,Male,California,Rep 11
+UN-100433,8/9/2025,United States,P3002,Blender Pro,Home Appliances,120,6,85,15,Credit Card,26-35,Male,New York,Rep 20
+UN-100434,8/25/2025,United States,P2004,Spices Pack,Grocery,9,8,4,0,Debit Card,36-45,Female,California,Rep 19
+UN-100435,5/11/2025,United States,P1003,Wireless Earbuds,Electronics,150,4,95,0,Cash,36-45,Female,Texas,Rep 5
+UN-100436,1/23/2025,United States,P3001,Microwave Oven,Home Appliances,220,10,165,5,Credit Card,26-35,Male,New York,Rep 17
+UN-100437,10/24/2025,United States,P2004,Spices Pack,Grocery,9,6,4,0,Credit Card,46-55,Female,California,Rep 9
+UN-100438,8/9/2025,United States,P4001,Skincare Kit,Personal Care,50,7,28,0,Credit Card,18-25,Female,Texas,Rep 9
+UN-100439,5/6/2025,United States,P1003,Wireless Earbuds,Electronics,150,3,95,10,Cash,18-25,Male,California,Rep 18
+UN-100440,4/29/2025,United States,P1003,Wireless Earbuds,Electronics,150,10,95,10,Debit Card,36-45,Female,New York,Rep 5
+UN-100441,12/18/2025,United States,P1003,Wireless Earbuds,Electronics,150,8,95,10,Debit Card,18-25,Female,California,Rep 18
+UN-100442,9/18/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,0,Credit Card,46-55,Male,New York,Rep 18
+UN-100443,9/24/2025,United States,P4001,Skincare Kit,Personal Care,50,3,28,0,Cash,26-35,Female,California,Rep 6
+UN-100444,3/8/2025,United States,P2004,Spices Pack,Grocery,9,1,4,0,Mobile Payment,18-25,Female,California,Rep 15
+UN-100445,8/7/2025,United States,P2004,Spices Pack,Grocery,9,10,4,15,Cash,26-35,Male,Texas,Rep 18
+UN-100446,10/27/2025,United States,P4001,Skincare Kit,Personal Care,50,8,28,5,Cash,18-25,Female,Texas,Rep 11
+UN-100447,7/16/2025,United States,P3002,Blender Pro,Home Appliances,120,8,85,10,Cash,46-55,Male,Texas,Rep 7
+UN-100448,8/4/2025,United States,P2003,Organic Honey,Grocery,15,8,9,10,Mobile Payment,26-35,Male,New York,Rep 12
+UN-100449,5/8/2025,United States,P1002,Laptop Air,Electronics,1100,2,880,0,Cash,46-55,Female,Texas,Rep 9
+UN-100450,9/1/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,15,Debit Card,18-25,Female,Texas,Rep 12
+UN-100451,11/4/2025,United States,P1001,Smartphone X,Electronics,800,5,620,15,Credit Card,46-55,Female,Texas,Rep 3
+UN-100452,10/14/2025,United States,P2003,Organic Honey,Grocery,15,9,9,0,Credit Card,26-35,Male,California,Rep 19
+UN-100453,3/13/2025,United States,P2003,Organic Honey,Grocery,15,2,9,15,Mobile Payment,36-45,Female,Texas,Rep 10
+UN-100454,4/22/2025,United States,P4002,Hair Trimmer,Personal Care,35,7,20,5,Credit Card,18-25,Female,California,Rep 13
+UN-100455,8/17/2025,United States,P2003,Organic Honey,Grocery,15,9,9,0,Cash,26-35,Female,Texas,Rep 7
+UN-100456,10/10/2025,United States,P1001,Smartphone X,Electronics,800,10,620,10,Credit Card,46-55,Female,New York,Rep 5
+UN-100457,8/19/2025,United States,P4001,Skincare Kit,Personal Care,50,1,28,0,Mobile Payment,36-45,Female,California,Rep 5
+UN-100458,7/1/2025,United States,P3001,Microwave Oven,Home Appliances,220,6,165,10,Mobile Payment,18-25,Female,Texas,Rep 14
+UN-100459,4/15/2025,United States,P4001,Skincare Kit,Personal Care,50,10,28,10,Credit Card,26-35,Male,Texas,Rep 6
+UN-100460,9/21/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,0,Credit Card,26-35,Female,New York,Rep 16
+UN-100461,8/26/2025,United States,P1002,Laptop Air,Electronics,1100,7,880,5,Mobile Payment,26-35,Male,California,Rep 8
+UN-100462,5/24/2025,United States,P1003,Wireless Earbuds,Electronics,150,6,95,15,Credit Card,46-55,Female,New York,Rep 10
+UN-100463,1/23/2025,United States,P3001,Microwave Oven,Home Appliances,220,9,165,0,Cash,36-45,Male,New York,Rep 4
+UN-100464,2/17/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,0,Mobile Payment,18-25,Female,California,Rep 11
+UN-100465,1/22/2025,United States,P1003,Wireless Earbuds,Electronics,150,5,95,0,Cash,18-25,Male,Texas,Rep 5
+UN-100466,2/4/2025,United States,P3002,Blender Pro,Home Appliances,120,10,85,10,Debit Card,36-45,Male,Texas,Rep 8
+UN-100467,2/4/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,15,Cash,36-45,Female,New York,Rep 7
+UN-100468,2/18/2025,United States,P2004,Spices Pack,Grocery,9,2,4,5,Debit Card,18-25,Male,California,Rep 13
+UN-100469,6/27/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,10,Cash,46-55,Female,Texas,Rep 2
+UN-100470,12/14/2025,United States,P2004,Spices Pack,Grocery,9,10,4,5,Cash,18-25,Male,California,Rep 3
+UN-100471,10/7/2025,United States,P1001,Smartphone X,Electronics,800,1,620,10,Credit Card,46-55,Male,New York,Rep 9
+UN-100472,3/22/2025,United States,P2003,Organic Honey,Grocery,15,7,9,5,Cash,46-55,Male,New York,Rep 4
+UN-100473,1/1/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,5,Debit Card,46-55,Female,California,Rep 8
+UN-100474,1/14/2025,United States,P2004,Spices Pack,Grocery,9,7,4,5,Credit Card,26-35,Female,Texas,Rep 1
+UN-100475,11/9/2025,United States,P1002,Laptop Air,Electronics,1100,6,880,5,Debit Card,36-45,Female,Texas,Rep 1
+UN-100476,9/30/2025,United States,P1001,Smartphone X,Electronics,800,6,620,10,Debit Card,18-25,Female,New York,Rep 2
+UN-100477,10/7/2025,United States,P4001,Skincare Kit,Personal Care,50,3,28,10,Cash,26-35,Female,New York,Rep 11
+UN-100478,12/30/2025,United States,P4002,Hair Trimmer,Personal Care,35,6,20,0,Credit Card,36-45,Female,Texas,Rep 19
+UN-100479,3/1/2025,United States,P1002,Laptop Air,Electronics,1100,8,880,10,Cash,46-55,Female,California,Rep 1
+UN-100480,7/2/2025,United States,P3002,Blender Pro,Home Appliances,120,2,85,10,Credit Card,46-55,Male,California,Rep 15
+UN-100481,12/4/2025,United States,P4002,Hair Trimmer,Personal Care,35,6,20,15,Credit Card,36-45,Male,Texas,Rep 20
+UN-100482,5/18/2025,United States,P2003,Organic Honey,Grocery,15,8,9,15,Mobile Payment,18-25,Male,California,Rep 3
+UN-100483,12/5/2025,United States,P4001,Skincare Kit,Personal Care,50,6,28,15,Cash,36-45,Female,California,Rep 2
+UN-100484,6/26/2025,United States,P3002,Blender Pro,Home Appliances,120,7,85,10,Debit Card,26-35,Female,California,Rep 4
+UN-100485,8/4/2025,United States,P1002,Laptop Air,Electronics,1100,3,880,10,Credit Card,18-25,Female,New York,Rep 4
+UN-100486,7/31/2025,United States,P3001,Microwave Oven,Home Appliances,220,7,165,15,Credit Card,18-25,Female,New York,Rep 8
+UN-100487,6/22/2025,United States,P3002,Blender Pro,Home Appliances,120,4,85,10,Mobile Payment,18-25,Female,California,Rep 14
+UN-100488,7/22/2025,United States,P2004,Spices Pack,Grocery,9,5,4,5,Credit Card,46-55,Male,Texas,Rep 13
+UN-100489,9/7/2025,United States,P4001,Skincare Kit,Personal Care,50,9,28,5,Credit Card,46-55,Female,New York,Rep 2
+UN-100490,3/16/2025,United States,P4002,Hair Trimmer,Personal Care,35,1,20,0,Cash,26-35,Male,New York,Rep 18
+UN-100491,12/26/2025,United States,P2004,Spices Pack,Grocery,9,8,4,5,Credit Card,18-25,Male,Texas,Rep 20
+UN-100492,10/21/2025,United States,P2004,Spices Pack,Grocery,9,1,4,5,Debit Card,46-55,Male,New York,Rep 10
+UN-100493,11/2/2025,United States,P2003,Organic Honey,Grocery,15,2,9,0,Credit Card,26-35,Female,Texas,Rep 5
+UN-100494,8/22/2025,United States,P2004,Spices Pack,Grocery,9,6,4,5,Cash,46-55,Male,New York,Rep 2
+UN-100495,3/28/2025,United States,P3001,Microwave Oven,Home Appliances,220,1,165,10,Cash,18-25,Male,Texas,Rep 19
+UN-100496,7/25/2025,United States,P4001,Skincare Kit,Personal Care,50,4,28,5,Mobile Payment,18-25,Female,Texas,Rep 8
+UN-100497,3/30/2025,United States,P3002,Blender Pro,Home Appliances,120,7,85,5,Mobile Payment,46-55,Female,New York,Rep 14
+UN-100498,6/13/2025,United States,P2004,Spices Pack,Grocery,9,4,4,15,Debit Card,36-45,Female,New York,Rep 17
+UN-100499,8/23/2025,United States,P3001,Microwave Oven,Home Appliances,220,3,165,15,Credit Card,46-55,Male,California,Rep 9

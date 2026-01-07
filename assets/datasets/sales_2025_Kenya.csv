@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_Per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+KE-100000,7/1/2025,Kenya,P4001,Skincare Kit,Personal Care,50,2,28,15,Debit Card,26-35,Male,Nairobi,Rep 18
+KE-100001,9/12/2025,Kenya,P3002,Blender Pro,Home Appliances,120,5,85,0,Credit Card,18-25,Male,Nakuru,Rep 19
+KE-100002,8/8/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,10,Cash,46-55,Female,Nairobi,Rep 2
+KE-100003,10/12/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,5,Mobile Payment,26-35,Female,Kisumu,Rep 11
+KE-100004,6/3/2025,Kenya,P2003,Organic Honey,Grocery,15,2,9,0,Debit Card,18-25,Female,Kisumu,Rep 12
+KE-100005,11/22/2025,Kenya,P2004,Spices Pack,Grocery,9,4,4,10,Cash,26-35,Female,Nakuru,Rep 8
+KE-100006,10/28/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,15,Cash,36-45,Male,Kisumu,Rep 13
+KE-100007,12/22/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,9,165,10,Mobile Payment,26-35,Male,Nakuru,Rep 16
+KE-100008,6/23/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,0,Debit Card,26-35,Male,Nairobi,Rep 14
+KE-100009,7/17/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,5,Debit Card,36-45,Female,Nakuru,Rep 12
+KE-100010,7/16/2025,Kenya,P1002,Laptop Air,Electronics,1100,2,880,5,Debit Card,46-55,Female,Kisumu,Rep 8
+KE-100011,7/18/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,0,Cash,46-55,Female,Kisumu,Rep 2
+KE-100012,3/6/2025,Kenya,P1002,Laptop Air,Electronics,1100,3,880,5,Credit Card,36-45,Female,Nairobi,Rep 2
+KE-100013,11/26/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,5,Debit Card,26-35,Male,Kisumu,Rep 5
+KE-100014,10/28/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,5,Debit Card,18-25,Female,Nairobi,Rep 10
+KE-100015,2/12/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,10,Credit Card,46-55,Male,Kisumu,Rep 2
+KE-100016,10/3/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,6,95,5,Credit Card,26-35,Female,Nairobi,Rep 4
+KE-100017,6/18/2025,Kenya,P3002,Blender Pro,Home Appliances,120,2,85,15,Debit Card,26-35,Male,Nakuru,Rep 4
+KE-100018,10/4/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,5,Cash,46-55,Male,Kisumu,Rep 14
+KE-100019,1/3/2025,Kenya,P1002,Laptop Air,Electronics,1100,8,880,15,Credit Card,26-35,Female,Kisumu,Rep 18
+KE-100020,11/14/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,5,Debit Card,26-35,Female,Nakuru,Rep 17
+KE-100021,4/7/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,0,Debit Card,18-25,Male,Nakuru,Rep 5
+KE-100022,6/26/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,0,Credit Card,46-55,Male,Nakuru,Rep 13
+KE-100023,10/21/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,10,Credit Card,36-45,Male,Nairobi,Rep 15
+KE-100024,6/27/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,5,Debit Card,26-35,Female,Nakuru,Rep 18
+KE-100025,8/3/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,0,Cash,36-45,Female,Nairobi,Rep 3
+KE-100026,9/2/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,0,Cash,26-35,Female,Nairobi,Rep 13
+KE-100027,11/24/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,5,Cash,26-35,Female,Nairobi,Rep 3
+KE-100028,9/10/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,0,Credit Card,18-25,Male,Nakuru,Rep 4
+KE-100029,9/14/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,0,Cash,46-55,Male,Kisumu,Rep 4
+KE-100030,1/14/2025,Kenya,P2004,Spices Pack,Grocery,9,2,4,10,Credit Card,46-55,Female,Kisumu,Rep 1
+KE-100031,1/11/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,5,Mobile Payment,36-45,Female,Nakuru,Rep 2
+KE-100032,2/26/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,15,Debit Card,36-45,Female,Nakuru,Rep 20
+KE-100033,7/2/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,3,20,0,Cash,46-55,Female,Kisumu,Rep 5
+KE-100034,10/31/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,0,Cash,36-45,Male,Nakuru,Rep 17
+KE-100035,9/14/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,0,Cash,36-45,Male,Nairobi,Rep 4
+KE-100036,3/24/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,10,Debit Card,46-55,Male,Nakuru,Rep 20
+KE-100037,3/27/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,10,Debit Card,18-25,Female,Nairobi,Rep 18
+KE-100038,9/1/2025,Kenya,P4001,Skincare Kit,Personal Care,50,9,28,5,Mobile Payment,26-35,Male,Nakuru,Rep 9
+KE-100039,4/17/2025,Kenya,P2003,Organic Honey,Grocery,15,10,9,0,Mobile Payment,18-25,Male,Nairobi,Rep 11
+KE-100040,3/9/2025,Kenya,P2004,Spices Pack,Grocery,9,4,4,15,Debit Card,46-55,Male,Kisumu,Rep 5
+KE-100041,6/18/2025,Kenya,P2004,Spices Pack,Grocery,9,2,4,5,Credit Card,46-55,Male,Nairobi,Rep 15
+KE-100042,12/16/2025,Kenya,P1001,Smartphone X,Electronics,800,6,620,10,Credit Card,46-55,Male,Kisumu,Rep 11
+KE-100043,12/25/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,0,Mobile Payment,46-55,Male,Nairobi,Rep 10
+KE-100044,12/7/2025,Kenya,P1001,Smartphone X,Electronics,800,10,620,5,Credit Card,26-35,Male,Nairobi,Rep 15
+KE-100045,9/7/2025,Kenya,P2003,Organic Honey,Grocery,15,10,9,5,Debit Card,18-25,Female,Kisumu,Rep 9
+KE-100046,5/16/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,10,Cash,46-55,Female,Nairobi,Rep 4
+KE-100047,4/22/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,0,Cash,36-45,Male,Nakuru,Rep 10
+KE-100048,3/21/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,0,Debit Card,46-55,Female,Kisumu,Rep 20
+KE-100049,3/12/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,15,Cash,46-55,Male,Nakuru,Rep 15
+KE-100050,6/3/2025,Kenya,P1002,Laptop Air,Electronics,1100,10,880,0,Debit Card,46-55,Female,Nakuru,Rep 4
+KE-100051,11/8/2025,Kenya,P3002,Blender Pro,Home Appliances,120,1,85,15,Debit Card,18-25,Male,Kisumu,Rep 9
+KE-100052,7/24/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,5,Credit Card,36-45,Male,Kisumu,Rep 1
+KE-100053,9/17/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,0,Debit Card,26-35,Female,Kisumu,Rep 16
+KE-100054,12/4/2025,Kenya,P3002,Blender Pro,Home Appliances,120,6,85,5,Mobile Payment,36-45,Male,Nairobi,Rep 15
+KE-100055,6/14/2025,Kenya,P4001,Skincare Kit,Personal Care,50,10,28,15,Cash,46-55,Female,Nairobi,Rep 5
+KE-100056,11/28/2025,Kenya,P1001,Smartphone X,Electronics,800,9,620,15,Mobile Payment,18-25,Female,Nairobi,Rep 4
+KE-100057,1/2/2025,Kenya,P1002,Laptop Air,Electronics,1100,4,880,15,Mobile Payment,36-45,Female,Nairobi,Rep 16
+KE-100058,5/1/2025,Kenya,P2003,Organic Honey,Grocery,15,7,9,15,Credit Card,36-45,Male,Nairobi,Rep 6
+KE-100059,7/8/2025,Kenya,P2003,Organic Honey,Grocery,15,5,9,15,Credit Card,36-45,Female,Kisumu,Rep 19
+KE-100060,10/23/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,15,Mobile Payment,26-35,Female,Kisumu,Rep 17
+KE-100061,10/24/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,8,95,0,Debit Card,36-45,Female,Nakuru,Rep 9
+KE-100062,11/18/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,5,Cash,18-25,Male,Kisumu,Rep 3
+KE-100063,5/11/2025,Kenya,P1001,Smartphone X,Electronics,800,2,620,15,Mobile Payment,36-45,Female,Nairobi,Rep 17
+KE-100064,1/19/2025,Kenya,P1002,Laptop Air,Electronics,1100,2,880,10,Debit Card,18-25,Female,Nakuru,Rep 19
+KE-100065,6/29/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,5,Cash,36-45,Male,Kisumu,Rep 7
+KE-100066,5/25/2025,Kenya,P2004,Spices Pack,Grocery,9,10,4,5,Debit Card,18-25,Male,Nairobi,Rep 7
+KE-100067,9/16/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,5,Credit Card,36-45,Male,Nairobi,Rep 19
+KE-100068,2/3/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,15,Cash,36-45,Male,Kisumu,Rep 8
+KE-100069,1/16/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,5,Credit Card,26-35,Male,Kisumu,Rep 18
+KE-100070,6/15/2025,Kenya,P1001,Smartphone X,Electronics,800,6,620,0,Mobile Payment,18-25,Female,Kisumu,Rep 7
+KE-100071,2/6/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,15,Credit Card,46-55,Female,Kisumu,Rep 17
+KE-100072,2/25/2025,Kenya,P3002,Blender Pro,Home Appliances,120,4,85,15,Cash,18-25,Male,Nairobi,Rep 9
+KE-100073,2/27/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,8,165,5,Mobile Payment,46-55,Female,Nakuru,Rep 7
+KE-100074,12/16/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,10,Credit Card,46-55,Female,Nakuru,Rep 19
+KE-100075,1/30/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,5,Mobile Payment,36-45,Male,Nakuru,Rep 8
+KE-100076,6/7/2025,Kenya,P1002,Laptop Air,Electronics,1100,2,880,0,Credit Card,36-45,Male,Nakuru,Rep 15
+KE-100077,7/6/2025,Kenya,P1002,Laptop Air,Electronics,1100,8,880,15,Credit Card,26-35,Female,Kisumu,Rep 2
+KE-100078,1/20/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,10,Mobile Payment,18-25,Female,Nairobi,Rep 2
+KE-100079,10/16/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,10,Mobile Payment,46-55,Male,Kisumu,Rep 12
+KE-100080,7/4/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,1,95,0,Mobile Payment,36-45,Female,Nairobi,Rep 19
+KE-100081,10/4/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,5,Debit Card,36-45,Male,Nakuru,Rep 13
+KE-100082,2/4/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,15,Credit Card,46-55,Male,Nairobi,Rep 16
+KE-100083,3/28/2025,Kenya,P4001,Skincare Kit,Personal Care,50,4,28,15,Credit Card,46-55,Male,Nakuru,Rep 13
+KE-100084,9/4/2025,Kenya,P4001,Skincare Kit,Personal Care,50,2,28,0,Debit Card,46-55,Male,Nairobi,Rep 11
+KE-100085,1/2/2025,Kenya,P3002,Blender Pro,Home Appliances,120,4,85,5,Credit Card,26-35,Male,Nairobi,Rep 10
+KE-100086,6/10/2025,Kenya,P1002,Laptop Air,Electronics,1100,4,880,10,Debit Card,26-35,Female,Nairobi,Rep 5
+KE-100087,7/22/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,15,Cash,36-45,Female,Nairobi,Rep 7
+KE-100088,3/1/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,4,165,0,Debit Card,46-55,Female,Kisumu,Rep 11
+KE-100089,10/27/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,5,Mobile Payment,26-35,Female,Nakuru,Rep 7
+KE-100090,1/10/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,1,20,0,Cash,46-55,Male,Kisumu,Rep 14
+KE-100091,6/24/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,1,165,0,Cash,18-25,Male,Kisumu,Rep 15
+KE-100092,3/24/2025,Kenya,P1001,Smartphone X,Electronics,800,8,620,15,Credit Card,18-25,Male,Kisumu,Rep 17
+KE-100093,11/28/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,0,Mobile Payment,26-35,Female,Nairobi,Rep 18
+KE-100094,8/21/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,5,Cash,46-55,Male,Nakuru,Rep 9
+KE-100095,10/29/2025,Kenya,P1001,Smartphone X,Electronics,800,8,620,5,Debit Card,36-45,Female,Nairobi,Rep 8
+KE-100096,11/11/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,10,Credit Card,36-45,Female,Nairobi,Rep 5
+KE-100097,5/19/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,10,Debit Card,18-25,Female,Nairobi,Rep 18
+KE-100098,10/30/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,10,Credit Card,36-45,Female,Nairobi,Rep 9
+KE-100099,5/9/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,15,Debit Card,26-35,Female,Nairobi,Rep 1
+KE-100100,4/10/2025,Kenya,P2003,Organic Honey,Grocery,15,6,9,10,Credit Card,36-45,Female,Nairobi,Rep 15
+KE-100101,8/23/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,15,Credit Card,46-55,Male,Kisumu,Rep 1
+KE-100102,4/2/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,0,Cash,36-45,Male,Nairobi,Rep 6
+KE-100103,6/11/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,10,Credit Card,18-25,Male,Kisumu,Rep 8
+KE-100104,7/6/2025,Kenya,P1001,Smartphone X,Electronics,800,3,620,10,Debit Card,36-45,Female,Kisumu,Rep 18
+KE-100105,7/19/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,5,Credit Card,36-45,Female,Nairobi,Rep 2
+KE-100106,8/31/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,15,Mobile Payment,46-55,Male,Kisumu,Rep 17
+KE-100107,2/22/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,15,Debit Card,18-25,Male,Nairobi,Rep 4
+KE-100108,5/30/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,15,Credit Card,26-35,Female,Nakuru,Rep 12
+KE-100109,10/21/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,4,20,0,Cash,18-25,Male,Kisumu,Rep 1
+KE-100110,3/9/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,5,Cash,18-25,Male,Kisumu,Rep 3
+KE-100111,12/7/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,15,Mobile Payment,18-25,Male,Nairobi,Rep 12
+KE-100112,7/15/2025,Kenya,P4001,Skincare Kit,Personal Care,50,7,28,0,Cash,18-25,Male,Nakuru,Rep 2
+KE-100113,1/6/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,5,Mobile Payment,36-45,Male,Nairobi,Rep 14
+KE-100114,1/23/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,10,Debit Card,26-35,Male,Kisumu,Rep 4
+KE-100115,7/23/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,5,Credit Card,46-55,Female,Nairobi,Rep 12
+KE-100116,1/18/2025,Kenya,P3002,Blender Pro,Home Appliances,120,4,85,15,Mobile Payment,46-55,Female,Nairobi,Rep 18
+KE-100117,12/10/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,2,95,5,Credit Card,18-25,Male,Nakuru,Rep 1
+KE-100118,3/15/2025,Kenya,P1002,Laptop Air,Electronics,1100,6,880,10,Mobile Payment,36-45,Male,Nairobi,Rep 1
+KE-100119,2/10/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,10,Credit Card,36-45,Female,Kisumu,Rep 7
+KE-100120,3/8/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,15,Debit Card,18-25,Male,Nairobi,Rep 10
+KE-100121,3/29/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,4,20,10,Mobile Payment,46-55,Male,Nakuru,Rep 4
+KE-100122,1/29/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,10,Cash,36-45,Male,Nakuru,Rep 13
+KE-100123,2/21/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,15,Cash,46-55,Female,Nakuru,Rep 9
+KE-100124,11/6/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,5,Credit Card,46-55,Female,Nakuru,Rep 6
+KE-100125,8/26/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,10,Credit Card,36-45,Male,Kisumu,Rep 18
+KE-100126,4/28/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,10,Debit Card,46-55,Male,Nakuru,Rep 13
+KE-100127,5/1/2025,Kenya,P2003,Organic Honey,Grocery,15,7,9,0,Mobile Payment,46-55,Male,Nakuru,Rep 2
+KE-100128,3/27/2025,Kenya,P3002,Blender Pro,Home Appliances,120,2,85,0,Mobile Payment,46-55,Female,Kisumu,Rep 17
+KE-100129,6/28/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,10,Credit Card,18-25,Male,Kisumu,Rep 8
+KE-100130,11/7/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,5,Credit Card,36-45,Male,Nairobi,Rep 1
+KE-100131,1/3/2025,Kenya,P2004,Spices Pack,Grocery,9,7,4,5,Cash,46-55,Female,Kisumu,Rep 10
+KE-100132,6/29/2025,Kenya,P2004,Spices Pack,Grocery,9,6,4,10,Mobile Payment,46-55,Female,Kisumu,Rep 15
+KE-100133,12/7/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,15,Debit Card,26-35,Male,Nairobi,Rep 17
+KE-100134,3/30/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,15,Credit Card,36-45,Female,Kisumu,Rep 5
+KE-100135,4/28/2025,Kenya,P2004,Spices Pack,Grocery,9,10,4,10,Debit Card,36-45,Female,Nairobi,Rep 14
+KE-100136,8/10/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,15,Cash,36-45,Male,Kisumu,Rep 10
+KE-100137,2/21/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,15,Cash,18-25,Female,Nakuru,Rep 16
+KE-100138,3/26/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,5,Cash,46-55,Male,Kisumu,Rep 18
+KE-100139,12/29/2025,Kenya,P1001,Smartphone X,Electronics,800,3,620,5,Debit Card,46-55,Female,Kisumu,Rep 18
+KE-100140,2/12/2025,Kenya,P1001,Smartphone X,Electronics,800,10,620,10,Mobile Payment,46-55,Male,Nairobi,Rep 2
+KE-100141,9/9/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,3,20,5,Mobile Payment,26-35,Female,Nakuru,Rep 19
+KE-100142,8/20/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,5,Cash,36-45,Male,Nairobi,Rep 3
+KE-100143,7/12/2025,Kenya,P1001,Smartphone X,Electronics,800,8,620,5,Cash,36-45,Female,Nakuru,Rep 4
+KE-100144,7/30/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,0,Credit Card,36-45,Male,Kisumu,Rep 3
+KE-100145,12/3/2025,Kenya,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,46-55,Male,Kisumu,Rep 11
+KE-100146,10/1/2025,Kenya,P3002,Blender Pro,Home Appliances,120,9,85,10,Debit Card,46-55,Female,Nakuru,Rep 7
+KE-100147,9/17/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,0,Cash,18-25,Female,Kisumu,Rep 17
+KE-100148,8/6/2025,Kenya,P1001,Smartphone X,Electronics,800,2,620,0,Credit Card,36-45,Male,Nairobi,Rep 7
+KE-100149,7/19/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,15,Debit Card,26-35,Male,Nairobi,Rep 14
+KE-100150,1/22/2025,Kenya,P1001,Smartphone X,Electronics,800,6,620,10,Credit Card,46-55,Male,Nairobi,Rep 5
+KE-100151,6/24/2025,Kenya,P2003,Organic Honey,Grocery,15,6,9,5,Mobile Payment,36-45,Male,Kisumu,Rep 4
+KE-100152,4/8/2025,Kenya,P1001,Smartphone X,Electronics,800,10,620,5,Credit Card,46-55,Female,Kisumu,Rep 19
+KE-100153,6/12/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,10,Cash,36-45,Male,Nakuru,Rep 7
+KE-100154,1/23/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,3,165,5,Cash,18-25,Female,Nakuru,Rep 1
+KE-100155,6/6/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,10,Mobile Payment,26-35,Male,Kisumu,Rep 14
+KE-100156,9/16/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,9,165,15,Credit Card,18-25,Female,Kisumu,Rep 4
+KE-100157,6/3/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,4,165,0,Credit Card,36-45,Male,Nakuru,Rep 15
+KE-100158,1/13/2025,Kenya,P2003,Organic Honey,Grocery,15,6,9,10,Credit Card,36-45,Female,Nakuru,Rep 16
+KE-100159,6/11/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,10,Debit Card,18-25,Female,Nairobi,Rep 5
+KE-100160,2/3/2025,Kenya,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,18-25,Male,Kisumu,Rep 10
+KE-100161,7/22/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,5,95,10,Credit Card,36-45,Female,Nakuru,Rep 19
+KE-100162,6/18/2025,Kenya,P1001,Smartphone X,Electronics,800,2,620,10,Credit Card,36-45,Female,Kisumu,Rep 19
+KE-100163,6/22/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,2,95,0,Cash,36-45,Male,Nakuru,Rep 12
+KE-100164,10/4/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,0,Debit Card,26-35,Male,Nakuru,Rep 2
+KE-100165,7/16/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,15,Mobile Payment,46-55,Male,Nairobi,Rep 16
+KE-100166,3/13/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,10,165,15,Debit Card,18-25,Male,Kisumu,Rep 20
+KE-100167,6/22/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,1,165,15,Cash,46-55,Male,Kisumu,Rep 5
+KE-100168,7/30/2025,Kenya,P3002,Blender Pro,Home Appliances,120,5,85,5,Cash,46-55,Female,Kisumu,Rep 12
+KE-100169,2/3/2025,Kenya,P4001,Skincare Kit,Personal Care,50,1,28,10,Credit Card,46-55,Male,Kisumu,Rep 8
+KE-100170,4/21/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,10,165,10,Debit Card,46-55,Male,Nakuru,Rep 16
+KE-100171,7/5/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,3,165,0,Credit Card,18-25,Male,Kisumu,Rep 20
+KE-100172,2/21/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,1,95,10,Credit Card,18-25,Female,Nakuru,Rep 19
+KE-100173,1/19/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,0,Cash,36-45,Male,Nakuru,Rep 15
+KE-100174,8/29/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,0,Credit Card,36-45,Male,Kisumu,Rep 13
+KE-100175,3/31/2025,Kenya,P4001,Skincare Kit,Personal Care,50,6,28,15,Debit Card,18-25,Female,Nairobi,Rep 19
+KE-100176,5/28/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,0,Debit Card,26-35,Male,Nairobi,Rep 17
+KE-100177,5/20/2025,Kenya,P2004,Spices Pack,Grocery,9,10,4,5,Credit Card,36-45,Male,Nakuru,Rep 8
+KE-100178,10/4/2025,Kenya,P4001,Skincare Kit,Personal Care,50,10,28,10,Cash,36-45,Female,Kisumu,Rep 12
+KE-100179,1/1/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,0,Cash,36-45,Male,Kisumu,Rep 9
+KE-100180,3/26/2025,Kenya,P4001,Skincare Kit,Personal Care,50,7,28,0,Debit Card,26-35,Male,Nairobi,Rep 2
+KE-100181,2/16/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,5,Cash,26-35,Female,Kisumu,Rep 2
+KE-100182,12/18/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,15,Debit Card,36-45,Female,Kisumu,Rep 5
+KE-100183,12/2/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,5,Credit Card,18-25,Male,Kisumu,Rep 12
+KE-100184,8/17/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,10,Mobile Payment,46-55,Male,Nakuru,Rep 3
+KE-100185,7/27/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,6,20,15,Mobile Payment,46-55,Male,Kisumu,Rep 9
+KE-100186,9/17/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,15,Cash,36-45,Male,Nakuru,Rep 11
+KE-100187,6/22/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,5,Mobile Payment,18-25,Male,Nakuru,Rep 4
+KE-100188,10/22/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,8,165,10,Credit Card,26-35,Female,Nairobi,Rep 17
+KE-100189,12/19/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,4,20,15,Debit Card,36-45,Male,Kisumu,Rep 8
+KE-100190,1/5/2025,Kenya,P3002,Blender Pro,Home Appliances,120,2,85,0,Debit Card,46-55,Male,Kisumu,Rep 17
+KE-100191,8/14/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,10,Debit Card,36-45,Male,Nairobi,Rep 2
+KE-100192,1/17/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,4,20,5,Mobile Payment,26-35,Male,Kisumu,Rep 8
+KE-100193,5/16/2025,Kenya,P2003,Organic Honey,Grocery,15,2,9,5,Credit Card,36-45,Female,Nakuru,Rep 12
+KE-100194,7/2/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,5,Mobile Payment,26-35,Female,Nairobi,Rep 1
+KE-100195,7/28/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,10,Credit Card,26-35,Male,Nakuru,Rep 12
+KE-100196,12/12/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,8,95,15,Mobile Payment,36-45,Male,Nakuru,Rep 17
+KE-100197,4/1/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,2,95,15,Credit Card,18-25,Female,Kisumu,Rep 1
+KE-100198,5/23/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,1,95,15,Debit Card,18-25,Male,Nakuru,Rep 12
+KE-100199,7/13/2025,Kenya,P1001,Smartphone X,Electronics,800,3,620,10,Cash,36-45,Female,Kisumu,Rep 8
+KE-100200,5/17/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,5,Credit Card,18-25,Male,Nakuru,Rep 5
+KE-100201,11/5/2025,Kenya,P4001,Skincare Kit,Personal Care,50,7,28,10,Mobile Payment,36-45,Female,Nakuru,Rep 13
+KE-100202,7/27/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,1,20,10,Mobile Payment,26-35,Female,Nairobi,Rep 13
+KE-100203,3/10/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,15,Credit Card,18-25,Female,Kisumu,Rep 4
+KE-100204,1/1/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,0,Debit Card,26-35,Female,Nakuru,Rep 16
+KE-100205,5/14/2025,Kenya,P2003,Organic Honey,Grocery,15,5,9,5,Cash,18-25,Male,Nakuru,Rep 13
+KE-100206,4/8/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,0,Cash,36-45,Male,Nairobi,Rep 17
+KE-100207,10/9/2025,Kenya,P3002,Blender Pro,Home Appliances,120,10,85,10,Debit Card,18-25,Male,Nairobi,Rep 7
+KE-100208,6/18/2025,Kenya,P3002,Blender Pro,Home Appliances,120,2,85,5,Credit Card,18-25,Female,Nairobi,Rep 16
+KE-100209,4/10/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,5,95,15,Mobile Payment,18-25,Male,Nakuru,Rep 10
+KE-100210,8/12/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,15,Debit Card,36-45,Female,Nairobi,Rep 7
+KE-100211,11/16/2025,Kenya,P3002,Blender Pro,Home Appliances,120,10,85,5,Credit Card,36-45,Male,Kisumu,Rep 13
+KE-100212,8/16/2025,Kenya,P1002,Laptop Air,Electronics,1100,6,880,15,Debit Card,36-45,Male,Nakuru,Rep 12
+KE-100213,12/14/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,5,20,0,Mobile Payment,18-25,Female,Kisumu,Rep 10
+KE-100214,8/3/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,9,20,15,Cash,36-45,Female,Nakuru,Rep 1
+KE-100215,10/5/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,0,Credit Card,46-55,Male,Nakuru,Rep 14
+KE-100216,11/13/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,5,Credit Card,26-35,Female,Kisumu,Rep 9
+KE-100217,1/12/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,0,Mobile Payment,26-35,Female,Kisumu,Rep 19
+KE-100218,6/28/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,15,Mobile Payment,46-55,Female,Nairobi,Rep 8
+KE-100219,1/6/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,0,Debit Card,46-55,Male,Kisumu,Rep 18
+KE-100220,11/4/2025,Kenya,P4001,Skincare Kit,Personal Care,50,10,28,15,Cash,18-25,Male,Nakuru,Rep 5
+KE-100221,5/6/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,10,Credit Card,26-35,Male,Kisumu,Rep 19
+KE-100222,11/28/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,1,20,5,Debit Card,36-45,Female,Kisumu,Rep 16
+KE-100223,3/2/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,10,Cash,26-35,Female,Nakuru,Rep 12
+KE-100224,3/18/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,10,Mobile Payment,46-55,Female,Kisumu,Rep 19
+KE-100225,4/27/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,0,Credit Card,36-45,Male,Nairobi,Rep 18
+KE-100226,5/10/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,15,Debit Card,26-35,Female,Kisumu,Rep 10
+KE-100227,10/1/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,8,95,0,Credit Card,36-45,Male,Nakuru,Rep 13
+KE-100228,3/9/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,15,Debit Card,46-55,Male,Nakuru,Rep 19
+KE-100229,5/12/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,5,95,0,Credit Card,18-25,Female,Kisumu,Rep 4
+KE-100230,9/3/2025,Kenya,P2003,Organic Honey,Grocery,15,6,9,5,Mobile Payment,18-25,Male,Nakuru,Rep 2
+KE-100231,12/29/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,15,Cash,46-55,Male,Kisumu,Rep 11
+KE-100232,7/3/2025,Kenya,P2004,Spices Pack,Grocery,9,2,4,0,Mobile Payment,36-45,Female,Kisumu,Rep 9
+KE-100233,6/16/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,10,Cash,26-35,Female,Kisumu,Rep 6
+KE-100234,9/26/2025,Kenya,P3002,Blender Pro,Home Appliances,120,9,85,0,Cash,26-35,Male,Nakuru,Rep 1
+KE-100235,10/15/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,0,Debit Card,18-25,Male,Kisumu,Rep 16
+KE-100236,12/27/2025,Kenya,P3002,Blender Pro,Home Appliances,120,4,85,10,Credit Card,18-25,Male,Nairobi,Rep 17
+KE-100237,7/14/2025,Kenya,P1002,Laptop Air,Electronics,1100,10,880,10,Mobile Payment,46-55,Male,Nairobi,Rep 2
+KE-100238,2/4/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,15,Debit Card,46-55,Female,Nakuru,Rep 20
+KE-100239,2/4/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,15,Credit Card,36-45,Male,Nairobi,Rep 3
+KE-100240,5/29/2025,Kenya,P2004,Spices Pack,Grocery,9,6,4,15,Cash,46-55,Female,Nakuru,Rep 10
+KE-100241,4/3/2025,Kenya,P2003,Organic Honey,Grocery,15,2,9,10,Debit Card,18-25,Female,Nakuru,Rep 9
+KE-100242,12/22/2025,Kenya,P3002,Blender Pro,Home Appliances,120,2,85,5,Debit Card,36-45,Female,Nairobi,Rep 5
+KE-100243,6/10/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,15,Mobile Payment,18-25,Male,Nakuru,Rep 10
+KE-100244,5/31/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,10,Debit Card,36-45,Male,Nairobi,Rep 2
+KE-100245,10/28/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,5,Debit Card,36-45,Female,Nakuru,Rep 5
+KE-100246,4/1/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,5,Mobile Payment,46-55,Female,Kisumu,Rep 18
+KE-100247,4/21/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,0,Cash,46-55,Male,Nakuru,Rep 10
+KE-100248,7/14/2025,Kenya,P2003,Organic Honey,Grocery,15,1,9,10,Debit Card,26-35,Female,Kisumu,Rep 6
+KE-100249,8/15/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,2,165,15,Mobile Payment,26-35,Male,Nakuru,Rep 16
+KE-100250,8/28/2025,Kenya,P2003,Organic Honey,Grocery,15,6,9,15,Credit Card,46-55,Male,Nairobi,Rep 9
+KE-100251,5/22/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,2,95,15,Debit Card,46-55,Male,Nakuru,Rep 12
+KE-100252,3/25/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,9,20,15,Mobile Payment,26-35,Male,Nairobi,Rep 5
+KE-100253,9/25/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,5,Credit Card,46-55,Female,Nairobi,Rep 18
+KE-100254,4/11/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,5,Cash,46-55,Male,Nairobi,Rep 14
+KE-100255,7/18/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,5,Mobile Payment,26-35,Male,Nakuru,Rep 16
+KE-100256,8/29/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,5,Mobile Payment,36-45,Female,Nakuru,Rep 9
+KE-100257,9/5/2025,Kenya,P2004,Spices Pack,Grocery,9,4,4,10,Credit Card,36-45,Female,Nakuru,Rep 19
+KE-100258,5/6/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,10,Credit Card,18-25,Male,Nakuru,Rep 14
+KE-100259,6/17/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,10,Mobile Payment,26-35,Female,Nakuru,Rep 6
+KE-100260,1/21/2025,Kenya,P4001,Skincare Kit,Personal Care,50,6,28,10,Credit Card,18-25,Male,Nakuru,Rep 20
+KE-100261,10/3/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,5,20,15,Mobile Payment,36-45,Male,Nakuru,Rep 2
+KE-100262,4/23/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,0,Cash,36-45,Female,Nakuru,Rep 12
+KE-100263,5/31/2025,Kenya,P3002,Blender Pro,Home Appliances,120,9,85,5,Credit Card,18-25,Male,Nakuru,Rep 1
+KE-100264,1/28/2025,Kenya,P4001,Skincare Kit,Personal Care,50,2,28,5,Credit Card,26-35,Male,Nairobi,Rep 18
+KE-100265,7/21/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,15,Debit Card,36-45,Female,Kisumu,Rep 11
+KE-100266,1/17/2025,Kenya,P1001,Smartphone X,Electronics,800,8,620,5,Mobile Payment,46-55,Male,Nairobi,Rep 19
+KE-100267,7/23/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,15,Credit Card,18-25,Male,Kisumu,Rep 15
+KE-100268,1/6/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,1,95,10,Credit Card,46-55,Male,Kisumu,Rep 1
+KE-100269,8/25/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,0,Debit Card,36-45,Male,Nakuru,Rep 10
+KE-100270,9/10/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,15,Debit Card,18-25,Male,Kisumu,Rep 11
+KE-100271,12/10/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,8,165,15,Cash,36-45,Female,Kisumu,Rep 19
+KE-100272,7/17/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,15,Debit Card,36-45,Male,Nakuru,Rep 5
+KE-100273,4/22/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,0,Cash,18-25,Male,Nairobi,Rep 1
+KE-100274,1/4/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,0,Cash,26-35,Male,Nakuru,Rep 8
+KE-100275,8/21/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,15,Mobile Payment,36-45,Male,Nairobi,Rep 10
+KE-100276,10/1/2025,Kenya,P4001,Skincare Kit,Personal Care,50,1,28,5,Cash,46-55,Male,Nakuru,Rep 12
+KE-100277,4/1/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,5,95,10,Debit Card,46-55,Female,Nakuru,Rep 5
+KE-100278,8/17/2025,Kenya,P1001,Smartphone X,Electronics,800,2,620,15,Mobile Payment,26-35,Male,Nakuru,Rep 8
+KE-100279,3/16/2025,Kenya,P1002,Laptop Air,Electronics,1100,6,880,0,Credit Card,36-45,Male,Nairobi,Rep 14
+KE-100280,6/26/2025,Kenya,P1001,Smartphone X,Electronics,800,3,620,10,Cash,36-45,Female,Kisumu,Rep 19
+KE-100281,4/20/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,0,Mobile Payment,46-55,Female,Nairobi,Rep 10
+KE-100282,2/26/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,0,Mobile Payment,46-55,Female,Kisumu,Rep 13
+KE-100283,6/19/2025,Kenya,P2004,Spices Pack,Grocery,9,10,4,5,Mobile Payment,36-45,Female,Nakuru,Rep 19
+KE-100284,11/11/2025,Kenya,P2004,Spices Pack,Grocery,9,4,4,0,Cash,46-55,Female,Nakuru,Rep 2
+KE-100285,12/20/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,5,Credit Card,26-35,Female,Nairobi,Rep 6
+KE-100286,5/1/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,10,Credit Card,36-45,Female,Kisumu,Rep 7
+KE-100287,2/26/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,8,165,10,Cash,18-25,Female,Kisumu,Rep 4
+KE-100288,2/7/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,9,165,10,Debit Card,36-45,Female,Kisumu,Rep 8
+KE-100289,12/24/2025,Kenya,P2003,Organic Honey,Grocery,15,9,9,5,Credit Card,18-25,Female,Nairobi,Rep 12
+KE-100290,12/12/2025,Kenya,P3002,Blender Pro,Home Appliances,120,4,85,5,Cash,46-55,Male,Kisumu,Rep 3
+KE-100291,10/12/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,15,Mobile Payment,18-25,Female,Nairobi,Rep 9
+KE-100292,9/26/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,10,Credit Card,18-25,Female,Nakuru,Rep 3
+KE-100293,6/18/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,0,Mobile Payment,46-55,Male,Nairobi,Rep 8
+KE-100294,7/16/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,15,Debit Card,18-25,Female,Kisumu,Rep 6
+KE-100295,8/3/2025,Kenya,P3002,Blender Pro,Home Appliances,120,9,85,15,Mobile Payment,26-35,Male,Nakuru,Rep 3
+KE-100296,12/11/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,5,Debit Card,26-35,Female,Nairobi,Rep 11
+KE-100297,11/11/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,15,Credit Card,18-25,Female,Nakuru,Rep 4
+KE-100298,9/2/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,10,Cash,36-45,Male,Nairobi,Rep 10
+KE-100299,4/26/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,5,Credit Card,46-55,Male,Kisumu,Rep 11
+KE-100300,11/1/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,10,Debit Card,18-25,Female,Nairobi,Rep 19
+KE-100301,1/18/2025,Kenya,P2003,Organic Honey,Grocery,15,5,9,10,Cash,46-55,Male,Nakuru,Rep 15
+KE-100302,1/15/2025,Kenya,P1001,Smartphone X,Electronics,800,10,620,5,Debit Card,36-45,Female,Nakuru,Rep 20
+KE-100303,11/6/2025,Kenya,P2004,Spices Pack,Grocery,9,3,4,0,Cash,26-35,Female,Nairobi,Rep 12
+KE-100304,8/22/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,10,Mobile Payment,26-35,Female,Nairobi,Rep 5
+KE-100305,9/3/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,15,Debit Card,26-35,Female,Kisumu,Rep 13
+KE-100306,8/23/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,5,Credit Card,26-35,Female,Nakuru,Rep 14
+KE-100307,6/18/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,5,Mobile Payment,46-55,Male,Nairobi,Rep 18
+KE-100308,1/12/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,10,Credit Card,18-25,Male,Kisumu,Rep 4
+KE-100309,10/19/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,10,Credit Card,18-25,Male,Nakuru,Rep 13
+KE-100310,11/19/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,5,Mobile Payment,18-25,Female,Kisumu,Rep 11
+KE-100311,5/2/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,1,20,10,Credit Card,36-45,Male,Nairobi,Rep 6
+KE-100312,6/21/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,10,Cash,18-25,Male,Kisumu,Rep 4
+KE-100313,5/4/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,15,Mobile Payment,18-25,Female,Nakuru,Rep 7
+KE-100314,12/27/2025,Kenya,P1001,Smartphone X,Electronics,800,6,620,0,Credit Card,36-45,Male,Nakuru,Rep 16
+KE-100315,2/11/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,10,Mobile Payment,18-25,Female,Nakuru,Rep 17
+KE-100316,2/2/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,10,Mobile Payment,18-25,Female,Nairobi,Rep 20
+KE-100317,6/28/2025,Kenya,P4001,Skincare Kit,Personal Care,50,10,28,10,Credit Card,46-55,Male,Kisumu,Rep 20
+KE-100318,3/3/2025,Kenya,P3002,Blender Pro,Home Appliances,120,1,85,5,Credit Card,36-45,Male,Kisumu,Rep 3
+KE-100319,11/30/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,0,Debit Card,18-25,Male,Nairobi,Rep 2
+KE-100320,1/7/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,0,Debit Card,46-55,Female,Nairobi,Rep 18
+KE-100321,11/3/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,5,Credit Card,46-55,Female,Nairobi,Rep 9
+KE-100322,8/8/2025,Kenya,P2004,Spices Pack,Grocery,9,5,4,0,Credit Card,36-45,Female,Nairobi,Rep 8
+KE-100323,11/25/2025,Kenya,P2004,Spices Pack,Grocery,9,6,4,0,Credit Card,36-45,Male,Nairobi,Rep 13
+KE-100324,8/19/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,9,165,15,Cash,46-55,Male,Nakuru,Rep 8
+KE-100325,6/2/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,10,Mobile Payment,46-55,Female,Nakuru,Rep 20
+KE-100326,12/3/2025,Kenya,P4001,Skincare Kit,Personal Care,50,7,28,0,Debit Card,26-35,Female,Kisumu,Rep 3
+KE-100327,4/26/2025,Kenya,P1001,Smartphone X,Electronics,800,2,620,0,Mobile Payment,18-25,Female,Nairobi,Rep 14
+KE-100328,6/9/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,15,Credit Card,18-25,Male,Nairobi,Rep 4
+KE-100329,2/22/2025,Kenya,P1002,Laptop Air,Electronics,1100,8,880,10,Mobile Payment,36-45,Female,Nairobi,Rep 8
+KE-100330,6/24/2025,Kenya,P2004,Spices Pack,Grocery,9,6,4,5,Mobile Payment,46-55,Male,Kisumu,Rep 4
+KE-100331,7/25/2025,Kenya,P4001,Skincare Kit,Personal Care,50,1,28,5,Credit Card,36-45,Female,Nairobi,Rep 10
+KE-100332,1/9/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,8,95,10,Credit Card,18-25,Female,Kisumu,Rep 10
+KE-100333,8/28/2025,Kenya,P1001,Smartphone X,Electronics,800,9,620,0,Cash,18-25,Female,Nakuru,Rep 15
+KE-100334,5/27/2025,Kenya,P4001,Skincare Kit,Personal Care,50,10,28,15,Cash,18-25,Male,Nairobi,Rep 18
+KE-100335,7/22/2025,Kenya,P2004,Spices Pack,Grocery,9,7,4,5,Mobile Payment,26-35,Female,Nairobi,Rep 18
+KE-100336,9/11/2025,Kenya,P3002,Blender Pro,Home Appliances,120,9,85,15,Mobile Payment,18-25,Female,Kisumu,Rep 8
+KE-100337,2/9/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,0,Mobile Payment,36-45,Male,Nairobi,Rep 17
+KE-100338,4/2/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,15,Debit Card,26-35,Female,Nakuru,Rep 2
+KE-100339,9/27/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,0,Cash,46-55,Female,Kisumu,Rep 5
+KE-100340,2/4/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,15,Cash,46-55,Female,Nakuru,Rep 10
+KE-100341,7/18/2025,Kenya,P4001,Skincare Kit,Personal Care,50,1,28,0,Credit Card,36-45,Female,Nakuru,Rep 6
+KE-100342,4/6/2025,Kenya,P1002,Laptop Air,Electronics,1100,3,880,15,Mobile Payment,36-45,Female,Nakuru,Rep 3
+KE-100343,6/19/2025,Kenya,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,46-55,Male,Nakuru,Rep 11
+KE-100344,6/29/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,10,165,15,Debit Card,26-35,Male,Kisumu,Rep 8
+KE-100345,11/28/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,0,Debit Card,26-35,Female,Kisumu,Rep 12
+KE-100346,2/6/2025,Kenya,P3002,Blender Pro,Home Appliances,120,5,85,5,Mobile Payment,46-55,Female,Nairobi,Rep 16
+KE-100347,8/8/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,4,95,0,Cash,26-35,Female,Kisumu,Rep 14
+KE-100348,1/15/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,5,Mobile Payment,26-35,Female,Nairobi,Rep 9
+KE-100349,8/29/2025,Kenya,P1001,Smartphone X,Electronics,800,6,620,10,Cash,36-45,Female,Kisumu,Rep 10
+KE-100350,12/15/2025,Kenya,P2004,Spices Pack,Grocery,9,5,4,15,Mobile Payment,46-55,Male,Nairobi,Rep 18
+KE-100351,4/10/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,10,Cash,18-25,Male,Nakuru,Rep 16
+KE-100352,7/15/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,0,Cash,26-35,Female,Nakuru,Rep 11
+KE-100353,12/12/2025,Kenya,P1001,Smartphone X,Electronics,800,8,620,15,Debit Card,18-25,Male,Nakuru,Rep 20
+KE-100354,3/31/2025,Kenya,P2004,Spices Pack,Grocery,9,9,4,0,Cash,46-55,Male,Nairobi,Rep 20
+KE-100355,12/15/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,15,Debit Card,26-35,Female,Kisumu,Rep 8
+KE-100356,1/8/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,5,Credit Card,36-45,Male,Kisumu,Rep 19
+KE-100357,12/18/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,5,Cash,18-25,Female,Kisumu,Rep 4
+KE-100358,2/9/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,2,95,15,Cash,26-35,Female,Nakuru,Rep 2
+KE-100359,9/21/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,15,Debit Card,36-45,Female,Nakuru,Rep 8
+KE-100360,5/12/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,5,Debit Card,18-25,Female,Nairobi,Rep 6
+KE-100361,7/5/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,10,Cash,18-25,Male,Nairobi,Rep 19
+KE-100362,11/13/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,15,Mobile Payment,18-25,Male,Nairobi,Rep 17
+KE-100363,8/16/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,5,Mobile Payment,46-55,Female,Nairobi,Rep 20
+KE-100364,5/9/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,5,Cash,36-45,Female,Nairobi,Rep 5
+KE-100365,7/2/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,5,Cash,46-55,Male,Nairobi,Rep 17
+KE-100366,12/12/2025,Kenya,P1001,Smartphone X,Electronics,800,9,620,5,Credit Card,46-55,Female,Nakuru,Rep 13
+KE-100367,4/18/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,10,Cash,26-35,Male,Kisumu,Rep 5
+KE-100368,3/5/2025,Kenya,P4001,Skincare Kit,Personal Care,50,4,28,5,Credit Card,26-35,Female,Nakuru,Rep 19
+KE-100369,7/25/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,5,Debit Card,46-55,Female,Nairobi,Rep 14
+KE-100370,2/6/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,0,Mobile Payment,36-45,Male,Nakuru,Rep 15
+KE-100371,6/6/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,7,95,0,Cash,26-35,Female,Kisumu,Rep 12
+KE-100372,11/24/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,9,95,10,Cash,36-45,Male,Kisumu,Rep 5
+KE-100373,11/14/2025,Kenya,P1001,Smartphone X,Electronics,800,3,620,10,Cash,26-35,Male,Nakuru,Rep 18
+KE-100374,6/20/2025,Kenya,P2003,Organic Honey,Grocery,15,5,9,10,Credit Card,18-25,Female,Kisumu,Rep 5
+KE-100375,10/5/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,15,Mobile Payment,26-35,Male,Nakuru,Rep 20
+KE-100376,2/28/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,0,Cash,36-45,Male,Kisumu,Rep 6
+KE-100377,2/11/2025,Kenya,P2004,Spices Pack,Grocery,9,1,4,5,Mobile Payment,26-35,Male,Nakuru,Rep 12
+KE-100378,9/4/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,5,95,15,Credit Card,46-55,Male,Nairobi,Rep 10
+KE-100379,9/25/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,3,20,5,Mobile Payment,36-45,Male,Nakuru,Rep 17
+KE-100380,4/7/2025,Kenya,P2003,Organic Honey,Grocery,15,9,9,5,Credit Card,26-35,Male,Nairobi,Rep 2
+KE-100381,6/28/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,0,Credit Card,26-35,Male,Nairobi,Rep 20
+KE-100382,5/16/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,5,Cash,18-25,Male,Kisumu,Rep 18
+KE-100383,1/26/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,15,Debit Card,46-55,Male,Nairobi,Rep 18
+KE-100384,10/26/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,5,Cash,36-45,Male,Kisumu,Rep 3
+KE-100385,11/10/2025,Kenya,P2003,Organic Honey,Grocery,15,1,9,0,Debit Card,36-45,Male,Kisumu,Rep 8
+KE-100386,10/29/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,8,165,10,Credit Card,18-25,Male,Kisumu,Rep 14
+KE-100387,3/29/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,5,Debit Card,18-25,Female,Nairobi,Rep 19
+KE-100388,4/9/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,5,Cash,18-25,Female,Nakuru,Rep 15
+KE-100389,8/5/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,15,Mobile Payment,36-45,Male,Nakuru,Rep 15
+KE-100390,1/15/2025,Kenya,P3002,Blender Pro,Home Appliances,120,8,85,0,Credit Card,26-35,Male,Nakuru,Rep 4
+KE-100391,5/2/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,15,Cash,18-25,Male,Nakuru,Rep 10
+KE-100392,2/16/2025,Kenya,P3002,Blender Pro,Home Appliances,120,10,85,0,Cash,46-55,Male,Kisumu,Rep 11
+KE-100393,2/12/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,10,Cash,26-35,Female,Kisumu,Rep 9
+KE-100394,11/22/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,5,Credit Card,26-35,Male,Nairobi,Rep 5
+KE-100395,12/18/2025,Kenya,P4001,Skincare Kit,Personal Care,50,2,28,0,Mobile Payment,36-45,Female,Nairobi,Rep 5
+KE-100396,7/26/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,15,Mobile Payment,36-45,Female,Nakuru,Rep 19
+KE-100397,7/14/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,15,Debit Card,46-55,Female,Nakuru,Rep 6
+KE-100398,4/8/2025,Kenya,P2003,Organic Honey,Grocery,15,7,9,5,Cash,26-35,Female,Kisumu,Rep 5
+KE-100399,4/27/2025,Kenya,P2004,Spices Pack,Grocery,9,2,4,15,Credit Card,18-25,Female,Nairobi,Rep 12
+KE-100400,2/4/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,10,Cash,18-25,Female,Nakuru,Rep 1
+KE-100401,1/1/2025,Kenya,P4001,Skincare Kit,Personal Care,50,3,28,15,Cash,18-25,Female,Kisumu,Rep 5
+KE-100402,7/6/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,0,Cash,18-25,Female,Nairobi,Rep 3
+KE-100403,10/3/2025,Kenya,P1001,Smartphone X,Electronics,800,2,620,5,Credit Card,18-25,Female,Nairobi,Rep 15
+KE-100404,5/7/2025,Kenya,P2004,Spices Pack,Grocery,9,5,4,10,Credit Card,26-35,Female,Kisumu,Rep 10
+KE-100405,4/29/2025,Kenya,P3002,Blender Pro,Home Appliances,120,1,85,15,Cash,26-35,Male,Nakuru,Rep 6
+KE-100406,5/19/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,3,165,15,Credit Card,18-25,Female,Nakuru,Rep 16
+KE-100407,9/13/2025,Kenya,P4001,Skincare Kit,Personal Care,50,9,28,0,Credit Card,26-35,Female,Kisumu,Rep 6
+KE-100408,10/4/2025,Kenya,P2004,Spices Pack,Grocery,9,4,4,5,Credit Card,46-55,Male,Nakuru,Rep 17
+KE-100409,2/21/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,15,Credit Card,36-45,Male,Nairobi,Rep 9
+KE-100410,1/31/2025,Kenya,P4001,Skincare Kit,Personal Care,50,4,28,10,Credit Card,46-55,Female,Nakuru,Rep 19
+KE-100411,1/9/2025,Kenya,P2004,Spices Pack,Grocery,9,10,4,10,Credit Card,46-55,Male,Kisumu,Rep 15
+KE-100412,3/22/2025,Kenya,P1002,Laptop Air,Electronics,1100,10,880,0,Debit Card,26-35,Male,Nakuru,Rep 14
+KE-100413,4/25/2025,Kenya,P1001,Smartphone X,Electronics,800,4,620,15,Credit Card,18-25,Male,Kisumu,Rep 16
+KE-100414,10/18/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,5,20,5,Credit Card,26-35,Female,Nairobi,Rep 20
+KE-100415,5/10/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,5,20,10,Debit Card,18-25,Male,Kisumu,Rep 4
+KE-100416,1/16/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,15,Mobile Payment,36-45,Female,Nakuru,Rep 6
+KE-100417,11/10/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,5,Credit Card,18-25,Female,Nairobi,Rep 7
+KE-100418,12/14/2025,Kenya,P2003,Organic Honey,Grocery,15,1,9,0,Mobile Payment,26-35,Male,Kisumu,Rep 9
+KE-100419,2/10/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,0,Mobile Payment,18-25,Female,Kisumu,Rep 19
+KE-100420,11/26/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,0,Credit Card,26-35,Female,Kisumu,Rep 7
+KE-100421,1/1/2025,Kenya,P4001,Skincare Kit,Personal Care,50,9,28,15,Debit Card,18-25,Female,Kisumu,Rep 10
+KE-100422,12/31/2025,Kenya,P1002,Laptop Air,Electronics,1100,9,880,15,Cash,46-55,Male,Nairobi,Rep 9
+KE-100423,9/15/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,5,Debit Card,26-35,Male,Nairobi,Rep 20
+KE-100424,8/11/2025,Kenya,P2003,Organic Honey,Grocery,15,3,9,5,Mobile Payment,26-35,Female,Kisumu,Rep 7
+KE-100425,1/28/2025,Kenya,P1002,Laptop Air,Electronics,1100,2,880,0,Cash,18-25,Female,Kisumu,Rep 6
+KE-100426,10/6/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,5,Mobile Payment,26-35,Female,Nakuru,Rep 20
+KE-100427,5/31/2025,Kenya,P2003,Organic Honey,Grocery,15,7,9,0,Mobile Payment,46-55,Male,Kisumu,Rep 18
+KE-100428,10/26/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,8,95,0,Mobile Payment,46-55,Female,Nairobi,Rep 16
+KE-100429,6/5/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,10,Cash,26-35,Female,Nakuru,Rep 7
+KE-100430,4/3/2025,Kenya,P2003,Organic Honey,Grocery,15,4,9,15,Mobile Payment,18-25,Male,Nakuru,Rep 15
+KE-100431,3/5/2025,Kenya,P4001,Skincare Kit,Personal Care,50,10,28,10,Debit Card,46-55,Male,Nakuru,Rep 2
+KE-100432,6/18/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,10,165,15,Debit Card,26-35,Male,Nakuru,Rep 4
+KE-100433,2/7/2025,Kenya,P3002,Blender Pro,Home Appliances,120,3,85,0,Credit Card,36-45,Female,Nairobi,Rep 6
+KE-100434,12/14/2025,Kenya,P1001,Smartphone X,Electronics,800,1,620,5,Debit Card,26-35,Male,Kisumu,Rep 1
+KE-100435,4/22/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,0,Cash,46-55,Male,Nairobi,Rep 2
+KE-100436,2/18/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,10,Mobile Payment,26-35,Male,Nakuru,Rep 18
+KE-100437,11/17/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,0,Credit Card,46-55,Female,Nakuru,Rep 19
+KE-100438,8/9/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,15,Cash,18-25,Female,Nakuru,Rep 11
+KE-100439,7/9/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,10,Credit Card,18-25,Female,Kisumu,Rep 18
+KE-100440,11/16/2025,Kenya,P4001,Skincare Kit,Personal Care,50,2,28,5,Debit Card,36-45,Female,Kisumu,Rep 6
+KE-100441,2/24/2025,Kenya,P2004,Spices Pack,Grocery,9,2,4,15,Mobile Payment,26-35,Female,Nairobi,Rep 1
+KE-100442,5/13/2025,Kenya,P3002,Blender Pro,Home Appliances,120,6,85,15,Debit Card,36-45,Male,Nakuru,Rep 3
+KE-100443,11/11/2025,Kenya,P1002,Laptop Air,Electronics,1100,7,880,0,Mobile Payment,36-45,Female,Nakuru,Rep 14
+KE-100444,5/30/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,7,165,10,Credit Card,46-55,Female,Kisumu,Rep 17
+KE-100445,11/27/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,3,165,15,Credit Card,46-55,Male,Nakuru,Rep 8
+KE-100446,1/1/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,6,165,10,Debit Card,36-45,Female,Kisumu,Rep 17
+KE-100447,9/8/2025,Kenya,P4001,Skincare Kit,Personal Care,50,4,28,5,Mobile Payment,26-35,Female,Kisumu,Rep 3
+KE-100448,11/29/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,10,Debit Card,36-45,Male,Nakuru,Rep 2
+KE-100449,5/24/2025,Kenya,P1002,Laptop Air,Electronics,1100,10,880,15,Cash,36-45,Male,Kisumu,Rep 6
+KE-100450,4/25/2025,Kenya,P3002,Blender Pro,Home Appliances,120,6,85,15,Credit Card,18-25,Male,Kisumu,Rep 3
+KE-100451,7/1/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,6,95,10,Debit Card,18-25,Male,Nairobi,Rep 7
+KE-100452,10/26/2025,Kenya,P4001,Skincare Kit,Personal Care,50,4,28,5,Cash,26-35,Male,Nairobi,Rep 2
+KE-100453,12/25/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,5,20,15,Mobile Payment,46-55,Male,Kisumu,Rep 16
+KE-100454,8/3/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,8,95,5,Mobile Payment,26-35,Male,Nairobi,Rep 17
+KE-100455,4/2/2025,Kenya,P4001,Skincare Kit,Personal Care,50,1,28,5,Cash,36-45,Female,Kisumu,Rep 17
+KE-100456,8/1/2025,Kenya,P1002,Laptop Air,Electronics,1100,3,880,10,Credit Card,26-35,Male,Kisumu,Rep 6
+KE-100457,7/7/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,15,Cash,46-55,Male,Kisumu,Rep 13
+KE-100458,5/21/2025,Kenya,P3002,Blender Pro,Home Appliances,120,7,85,0,Mobile Payment,18-25,Female,Kisumu,Rep 4
+KE-100459,10/16/2025,Kenya,P2004,Spices Pack,Grocery,9,2,4,15,Debit Card,18-25,Female,Kisumu,Rep 7
+KE-100460,3/7/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,10,Cash,46-55,Female,Nairobi,Rep 11
+KE-100461,8/26/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,4,20,5,Debit Card,18-25,Female,Nairobi,Rep 14
+KE-100462,4/20/2025,Kenya,P4001,Skincare Kit,Personal Care,50,6,28,0,Credit Card,18-25,Male,Nakuru,Rep 17
+KE-100463,3/5/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,10,95,5,Debit Card,18-25,Male,Nakuru,Rep 12
+KE-100464,5/31/2025,Kenya,P1001,Smartphone X,Electronics,800,7,620,10,Cash,18-25,Female,Nairobi,Rep 6
+KE-100465,5/26/2025,Kenya,P4001,Skincare Kit,Personal Care,50,5,28,15,Cash,26-35,Male,Nairobi,Rep 12
+KE-100466,9/10/2025,Kenya,P1001,Smartphone X,Electronics,800,5,620,15,Mobile Payment,18-25,Female,Nakuru,Rep 17
+KE-100467,8/27/2025,Kenya,P1002,Laptop Air,Electronics,1100,4,880,10,Debit Card,26-35,Female,Nairobi,Rep 2
+KE-100468,9/19/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,4,165,5,Cash,36-45,Female,Nakuru,Rep 5
+KE-100469,5/7/2025,Kenya,P2003,Organic Honey,Grocery,15,5,9,0,Mobile Payment,46-55,Female,Kisumu,Rep 4
+KE-100470,4/28/2025,Kenya,P1002,Laptop Air,Electronics,1100,10,880,10,Debit Card,26-35,Male,Nairobi,Rep 11
+KE-100471,3/5/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,15,Mobile Payment,46-55,Female,Nakuru,Rep 4
+KE-100472,2/22/2025,Kenya,P1002,Laptop Air,Electronics,1100,4,880,0,Mobile Payment,36-45,Male,Nakuru,Rep 18
+KE-100473,2/15/2025,Kenya,P2003,Organic Honey,Grocery,15,9,9,0,Credit Card,26-35,Female,Nairobi,Rep 2
+KE-100474,5/8/2025,Kenya,P1002,Laptop Air,Electronics,1100,10,880,10,Cash,46-55,Female,Kisumu,Rep 17
+KE-100475,4/18/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,0,Credit Card,46-55,Female,Nakuru,Rep 4
+KE-100476,6/2/2025,Kenya,P1001,Smartphone X,Electronics,800,10,620,10,Debit Card,46-55,Female,Kisumu,Rep 13
+KE-100477,5/13/2025,Kenya,P1001,Smartphone X,Electronics,800,9,620,15,Mobile Payment,26-35,Male,Kisumu,Rep 7
+KE-100478,11/14/2025,Kenya,P2004,Spices Pack,Grocery,9,6,4,10,Credit Card,18-25,Male,Nairobi,Rep 3
+KE-100479,7/4/2025,Kenya,P3001,Microwave Oven,Home Appliances,220,3,165,10,Credit Card,46-55,Female,Nakuru,Rep 17
+KE-100480,7/31/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,2,20,15,Debit Card,46-55,Male,Nakuru,Rep 17
+KE-100481,5/25/2025,Kenya,P4001,Skincare Kit,Personal Care,50,8,28,10,Credit Card,46-55,Male,Kisumu,Rep 19
+KE-100482,5/21/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,8,20,0,Debit Card,26-35,Female,Nakuru,Rep 18
+KE-100483,10/18/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,7,20,5,Debit Card,46-55,Male,Kisumu,Rep 5
+KE-100484,3/21/2025,Kenya,P4001,Skincare Kit,Personal Care,50,7,28,0,Debit Card,46-55,Male,Kisumu,Rep 20
+KE-100485,6/27/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,5,95,15,Mobile Payment,26-35,Male,Nairobi,Rep 12
+KE-100486,1/6/2025,Kenya,P2004,Spices Pack,Grocery,9,10,4,15,Mobile Payment,26-35,Male,Kisumu,Rep 3
+KE-100487,6/6/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,15,Cash,18-25,Female,Nairobi,Rep 18
+KE-100488,6/23/2025,Kenya,P3002,Blender Pro,Home Appliances,120,9,85,0,Debit Card,26-35,Male,Kisumu,Rep 9
+KE-100489,6/13/2025,Kenya,P1001,Smartphone X,Electronics,800,9,620,0,Debit Card,36-45,Female,Nairobi,Rep 5
+KE-100490,7/23/2025,Kenya,P1003,Wireless Earbuds,Electronics,150,3,95,10,Mobile Payment,36-45,Female,Kisumu,Rep 11
+KE-100491,2/18/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,1,20,10,Debit Card,46-55,Female,Nairobi,Rep 17
+KE-100492,6/14/2025,Kenya,P1002,Laptop Air,Electronics,1100,1,880,0,Debit Card,46-55,Male,Nairobi,Rep 3
+KE-100493,8/11/2025,Kenya,P1002,Laptop Air,Electronics,1100,3,880,0,Mobile Payment,36-45,Male,Nairobi,Rep 3
+KE-100494,12/25/2025,Kenya,P1002,Laptop Air,Electronics,1100,5,880,15,Credit Card,46-55,Male,Nairobi,Rep 14
+KE-100495,7/12/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,10,20,10,Credit Card,18-25,Male,Nairobi,Rep 10
+KE-100496,4/29/2025,Kenya,P2004,Spices Pack,Grocery,9,8,4,10,Cash,26-35,Female,Nairobi,Rep 11
+KE-100497,10/15/2025,Kenya,P4001,Skincare Kit,Personal Care,50,6,28,5,Debit Card,26-35,Male,Nakuru,Rep 18
+KE-100498,7/22/2025,Kenya,P2003,Organic Honey,Grocery,15,8,9,0,Mobile Payment,46-55,Male,Nakuru,Rep 17
+KE-100499,12/8/2025,Kenya,P4002,Hair Trimmer,Personal Care,35,5,20,5,Credit Card,18-25,Female,Nairobi,Rep 3

@@ -1,0 +1,501 @@
+Transaction_ID,Date,Country,Product_ID,Product_Name,Category,Price_Per_Unit,Quantity_Purchased,Cost_Price,Discount_Applied,Payment_Method,Customer_Age_Group,Customer_Gender,Store_Location,Sales_Rep
+SO-100000,11/29/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,8,20,10,Mobile Payment,26-35,Male,Pretoria,Rep 13
+SO-100001,12/18/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,4,20,10,Credit Card,18-25,Female,Johannesburg,Rep 5
+SO-100002,10/12/2025,South Africa,P4001,Skincare Kit,Personal Care,50,1,28,0,Credit Card,46-55,Male,Johannesburg,Rep 13
+SO-100003,5/14/2025,South Africa,P1001,Smartphone X,Electronics,800,4,620,10,Debit Card,26-35,Male,Cape Town,Rep 20
+SO-100004,4/26/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,0,Mobile Payment,18-25,Male,Pretoria,Rep 17
+SO-100005,2/28/2025,South Africa,P3002,Blender Pro,Home Appliances,120,5,85,0,Credit Card,36-45,Male,Pretoria,Rep 19
+SO-100006,5/22/2025,South Africa,P1002,Laptop Air,Electronics,1100,9,880,0,Cash,36-45,Male,Pretoria,Rep 7
+SO-100007,5/8/2025,South Africa,P2003,Organic Honey,Grocery,15,10,9,0,Credit Card,26-35,Male,Johannesburg,Rep 9
+SO-100008,12/18/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,4,165,5,Credit Card,18-25,Male,Cape Town,Rep 3
+SO-100009,7/8/2025,South Africa,P2004,Spices Pack,Grocery,9,4,4,10,Mobile Payment,36-45,Female,Cape Town,Rep 3
+SO-100010,1/24/2025,South Africa,P2003,Organic Honey,Grocery,15,7,9,0,Credit Card,46-55,Female,Johannesburg,Rep 11
+SO-100011,2/4/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,10,Mobile Payment,36-45,Female,Johannesburg,Rep 9
+SO-100012,9/6/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,15,Credit Card,26-35,Male,Johannesburg,Rep 7
+SO-100013,4/1/2025,South Africa,P1001,Smartphone X,Electronics,800,1,620,15,Cash,18-25,Male,Pretoria,Rep 17
+SO-100014,5/26/2025,South Africa,P2003,Organic Honey,Grocery,15,10,9,15,Credit Card,46-55,Female,Cape Town,Rep 10
+SO-100015,1/8/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Cash,18-25,Male,Cape Town,Rep 17
+SO-100016,9/28/2025,South Africa,P2003,Organic Honey,Grocery,15,1,9,5,Debit Card,26-35,Male,Johannesburg,Rep 17
+SO-100017,2/1/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,5,Debit Card,46-55,Male,Cape Town,Rep 12
+SO-100018,6/9/2025,South Africa,P3002,Blender Pro,Home Appliances,120,6,85,15,Credit Card,18-25,Male,Johannesburg,Rep 8
+SO-100019,10/30/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,3,20,15,Mobile Payment,36-45,Female,Pretoria,Rep 5
+SO-100020,8/11/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,0,Mobile Payment,36-45,Female,Johannesburg,Rep 8
+SO-100021,4/8/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,3,165,0,Mobile Payment,36-45,Male,Pretoria,Rep 11
+SO-100022,11/2/2025,South Africa,P2004,Spices Pack,Grocery,9,5,4,5,Credit Card,26-35,Female,Johannesburg,Rep 20
+SO-100023,7/10/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,5,Cash,46-55,Male,Cape Town,Rep 16
+SO-100024,12/19/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,0,Cash,26-35,Female,Pretoria,Rep 3
+SO-100025,1/11/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,5,Credit Card,26-35,Male,Pretoria,Rep 18
+SO-100026,11/15/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,15,Credit Card,46-55,Male,Pretoria,Rep 6
+SO-100027,3/31/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,10,Credit Card,46-55,Male,Pretoria,Rep 7
+SO-100028,3/30/2025,South Africa,P2003,Organic Honey,Grocery,15,6,9,10,Mobile Payment,26-35,Female,Johannesburg,Rep 7
+SO-100029,12/7/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,18-25,Female,Johannesburg,Rep 2
+SO-100030,9/27/2025,South Africa,P1001,Smartphone X,Electronics,800,7,620,10,Mobile Payment,46-55,Male,Johannesburg,Rep 20
+SO-100031,11/26/2025,South Africa,P3002,Blender Pro,Home Appliances,120,1,85,0,Mobile Payment,36-45,Female,Pretoria,Rep 16
+SO-100032,1/15/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,5,Cash,36-45,Female,Pretoria,Rep 18
+SO-100033,6/1/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,5,95,5,Cash,36-45,Female,Johannesburg,Rep 9
+SO-100034,8/11/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,1,20,5,Cash,46-55,Female,Johannesburg,Rep 15
+SO-100035,12/19/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,1,95,5,Debit Card,36-45,Female,Pretoria,Rep 9
+SO-100036,2/19/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,15,Debit Card,26-35,Male,Pretoria,Rep 3
+SO-100037,1/11/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,0,Cash,36-45,Female,Pretoria,Rep 4
+SO-100038,8/8/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,10,20,15,Debit Card,18-25,Female,Cape Town,Rep 3
+SO-100039,7/20/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,10,Cash,36-45,Male,Pretoria,Rep 6
+SO-100040,7/8/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,10,165,0,Credit Card,26-35,Male,Cape Town,Rep 5
+SO-100041,7/15/2025,South Africa,P1002,Laptop Air,Electronics,1100,4,880,0,Debit Card,26-35,Male,Cape Town,Rep 11
+SO-100042,12/26/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,3,20,15,Mobile Payment,26-35,Male,Pretoria,Rep 9
+SO-100043,1/26/2025,South Africa,P3002,Blender Pro,Home Appliances,120,1,85,5,Cash,26-35,Male,Pretoria,Rep 18
+SO-100044,2/17/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,10,Credit Card,46-55,Male,Johannesburg,Rep 1
+SO-100045,5/31/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,10,Credit Card,26-35,Female,Johannesburg,Rep 2
+SO-100046,8/30/2025,South Africa,P1002,Laptop Air,Electronics,1100,9,880,15,Credit Card,26-35,Female,Johannesburg,Rep 19
+SO-100047,3/30/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,0,Credit Card,36-45,Female,Cape Town,Rep 10
+SO-100048,10/10/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,0,Credit Card,46-55,Female,Pretoria,Rep 10
+SO-100049,9/23/2025,South Africa,P1002,Laptop Air,Electronics,1100,4,880,0,Credit Card,46-55,Male,Cape Town,Rep 12
+SO-100050,1/24/2025,South Africa,P1001,Smartphone X,Electronics,800,5,620,10,Mobile Payment,46-55,Female,Pretoria,Rep 14
+SO-100051,2/11/2025,South Africa,P2004,Spices Pack,Grocery,9,2,4,10,Debit Card,36-45,Male,Johannesburg,Rep 6
+SO-100052,2/27/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,10,Credit Card,36-45,Male,Cape Town,Rep 2
+SO-100053,10/17/2025,South Africa,P3002,Blender Pro,Home Appliances,120,3,85,15,Credit Card,46-55,Female,Cape Town,Rep 20
+SO-100054,8/9/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,4,20,15,Debit Card,46-55,Male,Cape Town,Rep 19
+SO-100055,10/25/2025,South Africa,P1002,Laptop Air,Electronics,1100,7,880,10,Mobile Payment,26-35,Male,Pretoria,Rep 4
+SO-100056,3/5/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,0,Cash,26-35,Male,Pretoria,Rep 12
+SO-100057,1/24/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,2,20,0,Mobile Payment,46-55,Male,Johannesburg,Rep 15
+SO-100058,8/31/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,9,20,15,Mobile Payment,18-25,Male,Johannesburg,Rep 20
+SO-100059,7/3/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,0,Debit Card,26-35,Female,Pretoria,Rep 16
+SO-100060,11/6/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,15,Credit Card,36-45,Female,Pretoria,Rep 7
+SO-100061,12/13/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,0,Mobile Payment,36-45,Female,Johannesburg,Rep 17
+SO-100062,4/15/2025,South Africa,P2004,Spices Pack,Grocery,9,9,4,10,Credit Card,18-25,Male,Pretoria,Rep 16
+SO-100063,10/8/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,10,Credit Card,18-25,Male,Pretoria,Rep 9
+SO-100064,9/10/2025,South Africa,P4001,Skincare Kit,Personal Care,50,10,28,5,Debit Card,26-35,Female,Johannesburg,Rep 1
+SO-100065,8/13/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,10,Mobile Payment,36-45,Female,Cape Town,Rep 5
+SO-100066,6/2/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Mobile Payment,18-25,Male,Cape Town,Rep 3
+SO-100067,4/9/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,0,Cash,26-35,Female,Pretoria,Rep 15
+SO-100068,8/18/2025,South Africa,P2004,Spices Pack,Grocery,9,3,4,15,Cash,26-35,Male,Cape Town,Rep 5
+SO-100069,5/24/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,9,165,5,Mobile Payment,26-35,Female,Johannesburg,Rep 20
+SO-100070,1/19/2025,South Africa,P1001,Smartphone X,Electronics,800,4,620,0,Debit Card,46-55,Male,Pretoria,Rep 19
+SO-100071,1/16/2025,South Africa,P1002,Laptop Air,Electronics,1100,9,880,15,Debit Card,18-25,Male,Johannesburg,Rep 5
+SO-100072,6/12/2025,South Africa,P2004,Spices Pack,Grocery,9,2,4,5,Credit Card,36-45,Female,Pretoria,Rep 9
+SO-100073,12/2/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,10,Credit Card,18-25,Female,Cape Town,Rep 12
+SO-100074,10/18/2025,South Africa,P2004,Spices Pack,Grocery,9,4,4,15,Mobile Payment,26-35,Male,Pretoria,Rep 13
+SO-100075,10/12/2025,South Africa,P1002,Laptop Air,Electronics,1100,8,880,5,Cash,26-35,Male,Johannesburg,Rep 3
+SO-100076,6/3/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,10,Debit Card,46-55,Male,Cape Town,Rep 6
+SO-100077,3/26/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,0,Debit Card,18-25,Male,Cape Town,Rep 14
+SO-100078,5/5/2025,South Africa,P3002,Blender Pro,Home Appliances,120,10,85,15,Cash,46-55,Male,Cape Town,Rep 8
+SO-100079,5/8/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,5,95,5,Cash,26-35,Male,Johannesburg,Rep 11
+SO-100080,7/1/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,5,95,5,Credit Card,18-25,Male,Pretoria,Rep 16
+SO-100081,1/23/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,10,Debit Card,26-35,Male,Cape Town,Rep 6
+SO-100082,2/6/2025,South Africa,P3002,Blender Pro,Home Appliances,120,5,85,5,Debit Card,36-45,Female,Johannesburg,Rep 8
+SO-100083,5/21/2025,South Africa,P4001,Skincare Kit,Personal Care,50,3,28,0,Credit Card,46-55,Male,Cape Town,Rep 5
+SO-100084,1/28/2025,South Africa,P1001,Smartphone X,Electronics,800,8,620,0,Debit Card,46-55,Male,Cape Town,Rep 7
+SO-100085,3/4/2025,South Africa,P3002,Blender Pro,Home Appliances,120,8,85,10,Cash,36-45,Female,Pretoria,Rep 9
+SO-100086,8/16/2025,South Africa,P4001,Skincare Kit,Personal Care,50,1,28,5,Cash,26-35,Male,Pretoria,Rep 5
+SO-100087,8/28/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,15,Debit Card,18-25,Female,Cape Town,Rep 16
+SO-100088,12/31/2025,South Africa,P1001,Smartphone X,Electronics,800,1,620,5,Mobile Payment,18-25,Female,Cape Town,Rep 19
+SO-100089,2/13/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,5,Debit Card,36-45,Male,Pretoria,Rep 10
+SO-100090,1/17/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,15,Credit Card,18-25,Female,Cape Town,Rep 18
+SO-100091,7/19/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Credit Card,36-45,Female,Cape Town,Rep 3
+SO-100092,6/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,6,28,5,Mobile Payment,46-55,Male,Pretoria,Rep 3
+SO-100093,12/3/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,10,Credit Card,46-55,Female,Johannesburg,Rep 20
+SO-100094,8/22/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,15,Mobile Payment,18-25,Female,Johannesburg,Rep 1
+SO-100095,1/12/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,15,Cash,18-25,Female,Johannesburg,Rep 5
+SO-100096,4/14/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,15,Debit Card,36-45,Female,Pretoria,Rep 8
+SO-100097,12/16/2025,South Africa,P1001,Smartphone X,Electronics,800,2,620,10,Debit Card,46-55,Male,Pretoria,Rep 14
+SO-100098,2/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,4,28,10,Debit Card,46-55,Female,Pretoria,Rep 12
+SO-100099,5/15/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,8,20,5,Credit Card,26-35,Female,Pretoria,Rep 7
+SO-100100,11/18/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,15,Debit Card,36-45,Female,Johannesburg,Rep 19
+SO-100101,1/4/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,10,Debit Card,36-45,Female,Cape Town,Rep 10
+SO-100102,3/11/2025,South Africa,P2003,Organic Honey,Grocery,15,5,9,10,Mobile Payment,26-35,Female,Cape Town,Rep 13
+SO-100103,12/24/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,0,Mobile Payment,18-25,Male,Johannesburg,Rep 12
+SO-100104,3/23/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,10,20,0,Cash,46-55,Female,Johannesburg,Rep 2
+SO-100105,2/10/2025,South Africa,P3002,Blender Pro,Home Appliances,120,10,85,15,Debit Card,26-35,Male,Pretoria,Rep 19
+SO-100106,4/26/2025,South Africa,P3002,Blender Pro,Home Appliances,120,7,85,15,Mobile Payment,26-35,Female,Cape Town,Rep 17
+SO-100107,6/20/2025,South Africa,P2003,Organic Honey,Grocery,15,5,9,15,Credit Card,18-25,Female,Pretoria,Rep 19
+SO-100108,6/18/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,15,Cash,36-45,Male,Pretoria,Rep 10
+SO-100109,9/24/2025,South Africa,P1001,Smartphone X,Electronics,800,8,620,5,Debit Card,18-25,Male,Johannesburg,Rep 14
+SO-100110,3/16/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,0,Debit Card,26-35,Female,Cape Town,Rep 19
+SO-100111,3/9/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,15,Mobile Payment,46-55,Female,Pretoria,Rep 15
+SO-100112,2/7/2025,South Africa,P3002,Blender Pro,Home Appliances,120,1,85,15,Cash,26-35,Male,Pretoria,Rep 17
+SO-100113,4/26/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,5,Credit Card,46-55,Male,Pretoria,Rep 16
+SO-100114,10/6/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,0,Mobile Payment,46-55,Female,Cape Town,Rep 4
+SO-100115,1/11/2025,South Africa,P4001,Skincare Kit,Personal Care,50,1,28,10,Debit Card,46-55,Male,Johannesburg,Rep 14
+SO-100116,10/11/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,1,95,10,Credit Card,26-35,Female,Cape Town,Rep 5
+SO-100117,3/14/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,1,95,0,Debit Card,46-55,Male,Pretoria,Rep 6
+SO-100118,9/20/2025,South Africa,P2004,Spices Pack,Grocery,9,1,4,5,Debit Card,18-25,Male,Johannesburg,Rep 9
+SO-100119,3/10/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,7,165,0,Mobile Payment,36-45,Male,Pretoria,Rep 2
+SO-100120,12/24/2025,South Africa,P4001,Skincare Kit,Personal Care,50,10,28,5,Cash,36-45,Male,Cape Town,Rep 9
+SO-100121,4/5/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,10,Cash,46-55,Male,Johannesburg,Rep 5
+SO-100122,12/30/2025,South Africa,P2003,Organic Honey,Grocery,15,9,9,15,Credit Card,18-25,Male,Pretoria,Rep 17
+SO-100123,12/14/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,15,Mobile Payment,46-55,Male,Johannesburg,Rep 2
+SO-100124,1/12/2025,South Africa,P1001,Smartphone X,Electronics,800,9,620,10,Mobile Payment,26-35,Male,Cape Town,Rep 9
+SO-100125,3/5/2025,South Africa,P4001,Skincare Kit,Personal Care,50,6,28,0,Credit Card,18-25,Female,Cape Town,Rep 6
+SO-100126,11/4/2025,South Africa,P3002,Blender Pro,Home Appliances,120,6,85,15,Cash,26-35,Male,Pretoria,Rep 11
+SO-100127,2/9/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,5,Cash,36-45,Male,Johannesburg,Rep 17
+SO-100128,5/15/2025,South Africa,P2003,Organic Honey,Grocery,15,3,9,15,Mobile Payment,18-25,Female,Johannesburg,Rep 10
+SO-100129,8/13/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,3,165,10,Mobile Payment,46-55,Female,Johannesburg,Rep 9
+SO-100130,12/5/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,10,Cash,46-55,Male,Cape Town,Rep 11
+SO-100131,10/7/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,9,20,5,Cash,46-55,Female,Cape Town,Rep 17
+SO-100132,8/5/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,18-25,Female,Pretoria,Rep 16
+SO-100133,7/3/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,5,Credit Card,26-35,Male,Johannesburg,Rep 11
+SO-100134,9/14/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Debit Card,46-55,Female,Cape Town,Rep 12
+SO-100135,12/26/2025,South Africa,P2003,Organic Honey,Grocery,15,9,9,10,Cash,18-25,Female,Johannesburg,Rep 2
+SO-100136,4/13/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,10,Mobile Payment,18-25,Male,Cape Town,Rep 14
+SO-100137,8/25/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,5,Credit Card,26-35,Male,Johannesburg,Rep 13
+SO-100138,7/9/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,5,Debit Card,46-55,Female,Cape Town,Rep 6
+SO-100139,4/23/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,0,Credit Card,46-55,Male,Pretoria,Rep 7
+SO-100140,10/25/2025,South Africa,P3002,Blender Pro,Home Appliances,120,1,85,5,Debit Card,46-55,Male,Johannesburg,Rep 6
+SO-100141,11/2/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,1,95,0,Debit Card,36-45,Male,Johannesburg,Rep 15
+SO-100142,2/11/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,15,Debit Card,36-45,Female,Johannesburg,Rep 18
+SO-100143,5/15/2025,South Africa,P4001,Skincare Kit,Personal Care,50,2,28,15,Credit Card,18-25,Female,Pretoria,Rep 14
+SO-100144,2/8/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,9,165,5,Cash,46-55,Female,Cape Town,Rep 3
+SO-100145,10/31/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,10,Cash,18-25,Male,Johannesburg,Rep 13
+SO-100146,11/18/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,15,Mobile Payment,18-25,Female,Cape Town,Rep 16
+SO-100147,12/1/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,15,Credit Card,36-45,Female,Cape Town,Rep 9
+SO-100148,6/21/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,5,Mobile Payment,18-25,Female,Cape Town,Rep 7
+SO-100149,8/16/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,18-25,Male,Pretoria,Rep 18
+SO-100150,11/27/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,0,Cash,36-45,Male,Cape Town,Rep 1
+SO-100151,5/6/2025,South Africa,P2003,Organic Honey,Grocery,15,4,9,0,Debit Card,46-55,Male,Johannesburg,Rep 2
+SO-100152,7/8/2025,South Africa,P2003,Organic Honey,Grocery,15,5,9,5,Debit Card,18-25,Male,Cape Town,Rep 12
+SO-100153,10/15/2025,South Africa,P2004,Spices Pack,Grocery,9,4,4,15,Mobile Payment,46-55,Male,Pretoria,Rep 6
+SO-100154,11/24/2025,South Africa,P3002,Blender Pro,Home Appliances,120,3,85,5,Cash,36-45,Male,Pretoria,Rep 17
+SO-100155,8/17/2025,South Africa,P1001,Smartphone X,Electronics,800,4,620,5,Mobile Payment,36-45,Male,Pretoria,Rep 10
+SO-100156,3/15/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,10,20,10,Cash,26-35,Female,Pretoria,Rep 20
+SO-100157,8/6/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,10,Credit Card,18-25,Female,Johannesburg,Rep 1
+SO-100158,12/1/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,0,Debit Card,18-25,Male,Pretoria,Rep 12
+SO-100159,4/6/2025,South Africa,P2003,Organic Honey,Grocery,15,6,9,10,Cash,36-45,Female,Pretoria,Rep 18
+SO-100160,12/3/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,0,Mobile Payment,46-55,Female,Johannesburg,Rep 8
+SO-100161,4/20/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,15,Cash,26-35,Male,Pretoria,Rep 5
+SO-100162,3/7/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,15,Debit Card,18-25,Male,Pretoria,Rep 14
+SO-100163,6/19/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,5,Mobile Payment,36-45,Male,Pretoria,Rep 8
+SO-100164,4/11/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,5,Cash,36-45,Female,Cape Town,Rep 8
+SO-100165,3/12/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,15,Cash,46-55,Female,Pretoria,Rep 1
+SO-100166,12/18/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,15,Credit Card,26-35,Female,Pretoria,Rep 6
+SO-100167,10/4/2025,South Africa,P4001,Skincare Kit,Personal Care,50,8,28,15,Credit Card,26-35,Male,Pretoria,Rep 13
+SO-100168,1/12/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,5,Debit Card,36-45,Female,Pretoria,Rep 2
+SO-100169,4/25/2025,South Africa,P1002,Laptop Air,Electronics,1100,5,880,15,Debit Card,46-55,Female,Johannesburg,Rep 8
+SO-100170,11/21/2025,South Africa,P2004,Spices Pack,Grocery,9,3,4,10,Mobile Payment,18-25,Male,Johannesburg,Rep 15
+SO-100171,6/27/2025,South Africa,P2003,Organic Honey,Grocery,15,3,9,15,Cash,46-55,Male,Cape Town,Rep 18
+SO-100172,5/22/2025,South Africa,P3002,Blender Pro,Home Appliances,120,7,85,10,Mobile Payment,26-35,Female,Johannesburg,Rep 2
+SO-100173,10/24/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,5,Debit Card,18-25,Female,Pretoria,Rep 5
+SO-100174,1/12/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,5,Mobile Payment,36-45,Female,Johannesburg,Rep 4
+SO-100175,4/11/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,0,Credit Card,36-45,Male,Johannesburg,Rep 1
+SO-100176,5/3/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,10,Cash,46-55,Male,Cape Town,Rep 3
+SO-100177,5/8/2025,South Africa,P2003,Organic Honey,Grocery,15,1,9,10,Credit Card,46-55,Female,Cape Town,Rep 20
+SO-100178,7/27/2025,South Africa,P4001,Skincare Kit,Personal Care,50,5,28,5,Mobile Payment,18-25,Female,Pretoria,Rep 1
+SO-100179,11/7/2025,South Africa,P2003,Organic Honey,Grocery,15,6,9,5,Credit Card,18-25,Male,Cape Town,Rep 5
+SO-100180,1/28/2025,South Africa,P1002,Laptop Air,Electronics,1100,2,880,5,Mobile Payment,18-25,Female,Pretoria,Rep 16
+SO-100181,4/4/2025,South Africa,P2003,Organic Honey,Grocery,15,6,9,15,Debit Card,46-55,Male,Johannesburg,Rep 4
+SO-100182,10/3/2025,South Africa,P1002,Laptop Air,Electronics,1100,2,880,0,Debit Card,26-35,Male,Cape Town,Rep 4
+SO-100183,2/25/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,8,20,5,Mobile Payment,26-35,Female,Johannesburg,Rep 4
+SO-100184,1/30/2025,South Africa,P2003,Organic Honey,Grocery,15,10,9,10,Cash,26-35,Male,Johannesburg,Rep 18
+SO-100185,7/17/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,5,Mobile Payment,36-45,Male,Cape Town,Rep 3
+SO-100186,8/13/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,5,Cash,18-25,Male,Cape Town,Rep 1
+SO-100187,9/10/2025,South Africa,P1001,Smartphone X,Electronics,800,1,620,0,Cash,46-55,Female,Cape Town,Rep 6
+SO-100188,3/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,4,28,5,Credit Card,18-25,Female,Johannesburg,Rep 8
+SO-100189,3/2/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,5,Mobile Payment,36-45,Female,Johannesburg,Rep 17
+SO-100190,8/21/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,5,165,0,Credit Card,36-45,Female,Johannesburg,Rep 16
+SO-100191,6/26/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,5,95,0,Mobile Payment,46-55,Male,Pretoria,Rep 17
+SO-100192,3/25/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,0,Credit Card,46-55,Female,Johannesburg,Rep 7
+SO-100193,2/23/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,5,165,10,Mobile Payment,46-55,Female,Pretoria,Rep 6
+SO-100194,8/29/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,10,Credit Card,18-25,Male,Pretoria,Rep 4
+SO-100195,1/14/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,15,Credit Card,26-35,Male,Johannesburg,Rep 13
+SO-100196,9/23/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Mobile Payment,26-35,Male,Johannesburg,Rep 20
+SO-100197,8/3/2025,South Africa,P1001,Smartphone X,Electronics,800,8,620,0,Credit Card,26-35,Male,Cape Town,Rep 4
+SO-100198,6/8/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,5,Debit Card,26-35,Male,Cape Town,Rep 11
+SO-100199,12/11/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,2,95,10,Cash,18-25,Male,Cape Town,Rep 18
+SO-100200,7/6/2025,South Africa,P2004,Spices Pack,Grocery,9,2,4,5,Cash,46-55,Female,Cape Town,Rep 9
+SO-100201,4/13/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,5,Debit Card,26-35,Female,Johannesburg,Rep 1
+SO-100202,11/9/2025,South Africa,P1001,Smartphone X,Electronics,800,9,620,10,Mobile Payment,26-35,Male,Johannesburg,Rep 8
+SO-100203,8/29/2025,South Africa,P3002,Blender Pro,Home Appliances,120,10,85,0,Debit Card,18-25,Male,Johannesburg,Rep 9
+SO-100204,12/14/2025,South Africa,P4001,Skincare Kit,Personal Care,50,1,28,5,Mobile Payment,36-45,Female,Johannesburg,Rep 17
+SO-100205,12/26/2025,South Africa,P1002,Laptop Air,Electronics,1100,2,880,10,Mobile Payment,26-35,Female,Cape Town,Rep 5
+SO-100206,9/10/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,10,Mobile Payment,36-45,Female,Johannesburg,Rep 14
+SO-100207,4/17/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,15,Cash,46-55,Female,Cape Town,Rep 11
+SO-100208,6/27/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,5,Credit Card,46-55,Male,Cape Town,Rep 13
+SO-100209,9/2/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,5,Credit Card,46-55,Female,Cape Town,Rep 19
+SO-100210,12/18/2025,South Africa,P2003,Organic Honey,Grocery,15,10,9,5,Cash,36-45,Male,Cape Town,Rep 6
+SO-100211,6/13/2025,South Africa,P4001,Skincare Kit,Personal Care,50,6,28,5,Cash,18-25,Male,Pretoria,Rep 19
+SO-100212,2/19/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,5,Credit Card,18-25,Female,Cape Town,Rep 19
+SO-100213,12/12/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,5,Cash,18-25,Male,Cape Town,Rep 1
+SO-100214,7/25/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,15,Mobile Payment,46-55,Female,Cape Town,Rep 9
+SO-100215,1/19/2025,South Africa,P4001,Skincare Kit,Personal Care,50,5,28,10,Credit Card,36-45,Female,Johannesburg,Rep 15
+SO-100216,3/9/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,5,Debit Card,36-45,Male,Pretoria,Rep 11
+SO-100217,6/14/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,15,Cash,18-25,Male,Johannesburg,Rep 12
+SO-100218,10/12/2025,South Africa,P4001,Skincare Kit,Personal Care,50,10,28,5,Debit Card,36-45,Male,Pretoria,Rep 9
+SO-100219,11/9/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,10,Credit Card,36-45,Male,Johannesburg,Rep 18
+SO-100220,9/14/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,5,165,0,Mobile Payment,26-35,Male,Johannesburg,Rep 9
+SO-100221,12/30/2025,South Africa,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,36-45,Male,Johannesburg,Rep 6
+SO-100222,9/24/2025,South Africa,P2003,Organic Honey,Grocery,15,7,9,15,Mobile Payment,18-25,Female,Johannesburg,Rep 2
+SO-100223,3/6/2025,South Africa,P4001,Skincare Kit,Personal Care,50,3,28,5,Mobile Payment,18-25,Male,Pretoria,Rep 4
+SO-100224,7/15/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,1,165,0,Debit Card,36-45,Male,Pretoria,Rep 19
+SO-100225,10/22/2025,South Africa,P1002,Laptop Air,Electronics,1100,9,880,15,Mobile Payment,26-35,Female,Pretoria,Rep 2
+SO-100226,6/19/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,5,95,0,Mobile Payment,26-35,Female,Cape Town,Rep 16
+SO-100227,12/10/2025,South Africa,P4001,Skincare Kit,Personal Care,50,4,28,5,Mobile Payment,26-35,Male,Johannesburg,Rep 3
+SO-100228,9/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,10,Debit Card,36-45,Male,Johannesburg,Rep 18
+SO-100229,8/15/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,5,Cash,46-55,Female,Johannesburg,Rep 16
+SO-100230,12/2/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,2,95,15,Debit Card,36-45,Male,Pretoria,Rep 15
+SO-100231,4/4/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,10,165,15,Credit Card,36-45,Male,Johannesburg,Rep 1
+SO-100232,4/8/2025,South Africa,P1001,Smartphone X,Electronics,800,4,620,5,Mobile Payment,46-55,Female,Pretoria,Rep 19
+SO-100233,7/24/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,0,Credit Card,18-25,Male,Johannesburg,Rep 12
+SO-100234,12/3/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,15,Debit Card,18-25,Male,Cape Town,Rep 9
+SO-100235,7/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,10,Credit Card,26-35,Female,Pretoria,Rep 17
+SO-100236,11/12/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,15,Debit Card,36-45,Female,Pretoria,Rep 17
+SO-100237,1/7/2025,South Africa,P2004,Spices Pack,Grocery,9,1,4,15,Mobile Payment,36-45,Male,Pretoria,Rep 5
+SO-100238,2/7/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Debit Card,26-35,Male,Pretoria,Rep 18
+SO-100239,1/13/2025,South Africa,P1001,Smartphone X,Electronics,800,9,620,15,Debit Card,26-35,Female,Pretoria,Rep 10
+SO-100240,1/14/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,10,Debit Card,18-25,Female,Pretoria,Rep 13
+SO-100241,6/3/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,0,Mobile Payment,46-55,Female,Johannesburg,Rep 7
+SO-100242,5/1/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,10,Cash,26-35,Male,Cape Town,Rep 15
+SO-100243,6/4/2025,South Africa,P3002,Blender Pro,Home Appliances,120,8,85,10,Credit Card,18-25,Male,Pretoria,Rep 3
+SO-100244,12/2/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,4,165,15,Credit Card,46-55,Male,Cape Town,Rep 9
+SO-100245,8/12/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,5,Mobile Payment,26-35,Male,Cape Town,Rep 14
+SO-100246,8/5/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,9,165,10,Mobile Payment,46-55,Female,Johannesburg,Rep 14
+SO-100247,11/26/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,1,20,15,Credit Card,36-45,Female,Johannesburg,Rep 3
+SO-100248,7/17/2025,South Africa,P2004,Spices Pack,Grocery,9,3,4,10,Debit Card,46-55,Female,Cape Town,Rep 12
+SO-100249,12/28/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,1,20,10,Debit Card,46-55,Female,Johannesburg,Rep 13
+SO-100250,9/11/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,5,95,0,Mobile Payment,18-25,Male,Pretoria,Rep 8
+SO-100251,6/5/2025,South Africa,P4001,Skincare Kit,Personal Care,50,6,28,15,Mobile Payment,36-45,Male,Cape Town,Rep 3
+SO-100252,8/23/2025,South Africa,P4001,Skincare Kit,Personal Care,50,2,28,15,Credit Card,26-35,Male,Cape Town,Rep 2
+SO-100253,1/14/2025,South Africa,P1001,Smartphone X,Electronics,800,1,620,5,Debit Card,26-35,Female,Johannesburg,Rep 14
+SO-100254,12/30/2025,South Africa,P2004,Spices Pack,Grocery,9,6,4,15,Debit Card,46-55,Female,Cape Town,Rep 2
+SO-100255,2/28/2025,South Africa,P3002,Blender Pro,Home Appliances,120,10,85,10,Debit Card,18-25,Female,Pretoria,Rep 9
+SO-100256,9/10/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,5,Debit Card,18-25,Female,Johannesburg,Rep 17
+SO-100257,2/13/2025,South Africa,P1001,Smartphone X,Electronics,800,8,620,5,Debit Card,46-55,Female,Pretoria,Rep 9
+SO-100258,1/7/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,5,Credit Card,36-45,Male,Cape Town,Rep 14
+SO-100259,1/8/2025,South Africa,P2004,Spices Pack,Grocery,9,1,4,10,Credit Card,46-55,Male,Pretoria,Rep 1
+SO-100260,8/12/2025,South Africa,P2003,Organic Honey,Grocery,15,6,9,10,Mobile Payment,18-25,Male,Pretoria,Rep 10
+SO-100261,10/3/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,10,Credit Card,18-25,Female,Johannesburg,Rep 19
+SO-100262,6/23/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,0,Cash,46-55,Female,Pretoria,Rep 3
+SO-100263,2/26/2025,South Africa,P4001,Skincare Kit,Personal Care,50,8,28,5,Debit Card,18-25,Female,Cape Town,Rep 4
+SO-100264,6/17/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,0,Mobile Payment,18-25,Female,Johannesburg,Rep 5
+SO-100265,10/17/2025,South Africa,P2003,Organic Honey,Grocery,15,4,9,5,Credit Card,36-45,Male,Johannesburg,Rep 14
+SO-100266,2/13/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,15,Debit Card,18-25,Male,Johannesburg,Rep 9
+SO-100267,3/21/2025,South Africa,P3002,Blender Pro,Home Appliances,120,10,85,10,Cash,46-55,Male,Pretoria,Rep 10
+SO-100268,11/3/2025,South Africa,P1002,Laptop Air,Electronics,1100,9,880,0,Mobile Payment,36-45,Male,Pretoria,Rep 4
+SO-100269,6/28/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,15,Cash,26-35,Male,Cape Town,Rep 15
+SO-100270,4/12/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,9,165,0,Mobile Payment,26-35,Female,Cape Town,Rep 5
+SO-100271,9/18/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,5,Mobile Payment,18-25,Male,Johannesburg,Rep 7
+SO-100272,11/14/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,10,Mobile Payment,26-35,Male,Cape Town,Rep 2
+SO-100273,12/19/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,5,Mobile Payment,36-45,Female,Johannesburg,Rep 13
+SO-100274,9/26/2025,South Africa,P2004,Spices Pack,Grocery,9,2,4,5,Debit Card,18-25,Female,Cape Town,Rep 2
+SO-100275,5/11/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,7,165,0,Debit Card,18-25,Male,Pretoria,Rep 15
+SO-100276,7/30/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,7,165,15,Mobile Payment,46-55,Male,Cape Town,Rep 9
+SO-100277,3/30/2025,South Africa,P1001,Smartphone X,Electronics,800,7,620,15,Credit Card,26-35,Male,Cape Town,Rep 20
+SO-100278,5/15/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,0,Cash,18-25,Female,Cape Town,Rep 16
+SO-100279,9/24/2025,South Africa,P1002,Laptop Air,Electronics,1100,4,880,10,Credit Card,36-45,Female,Pretoria,Rep 10
+SO-100280,11/13/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,15,Credit Card,18-25,Male,Cape Town,Rep 11
+SO-100281,11/14/2025,South Africa,P2003,Organic Honey,Grocery,15,4,9,5,Debit Card,26-35,Female,Pretoria,Rep 5
+SO-100282,5/14/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,9,95,10,Credit Card,26-35,Male,Cape Town,Rep 5
+SO-100283,9/7/2025,South Africa,P4001,Skincare Kit,Personal Care,50,3,28,0,Mobile Payment,46-55,Female,Pretoria,Rep 15
+SO-100284,11/11/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,15,Credit Card,46-55,Female,Johannesburg,Rep 20
+SO-100285,3/16/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,5,165,5,Cash,18-25,Female,Johannesburg,Rep 18
+SO-100286,9/28/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,10,Credit Card,46-55,Male,Pretoria,Rep 7
+SO-100287,1/2/2025,South Africa,P1002,Laptop Air,Electronics,1100,8,880,10,Mobile Payment,46-55,Male,Pretoria,Rep 6
+SO-100288,10/9/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,15,Debit Card,36-45,Male,Johannesburg,Rep 18
+SO-100289,1/5/2025,South Africa,P3002,Blender Pro,Home Appliances,120,8,85,15,Debit Card,46-55,Male,Johannesburg,Rep 7
+SO-100290,12/31/2025,South Africa,P2004,Spices Pack,Grocery,9,4,4,0,Debit Card,46-55,Male,Johannesburg,Rep 16
+SO-100291,3/6/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,15,Credit Card,26-35,Male,Cape Town,Rep 14
+SO-100292,2/5/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Credit Card,18-25,Female,Pretoria,Rep 15
+SO-100293,9/27/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,10,Mobile Payment,36-45,Male,Johannesburg,Rep 11
+SO-100294,12/10/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,5,Credit Card,18-25,Male,Pretoria,Rep 15
+SO-100295,5/8/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,0,Credit Card,18-25,Female,Johannesburg,Rep 13
+SO-100296,12/9/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,9,20,5,Debit Card,18-25,Female,Johannesburg,Rep 20
+SO-100297,10/25/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,8,165,5,Mobile Payment,36-45,Female,Cape Town,Rep 14
+SO-100298,7/29/2025,South Africa,P2003,Organic Honey,Grocery,15,8,9,5,Mobile Payment,26-35,Female,Cape Town,Rep 18
+SO-100299,4/29/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,10,Cash,18-25,Male,Johannesburg,Rep 19
+SO-100300,1/4/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,1,165,10,Mobile Payment,18-25,Female,Johannesburg,Rep 2
+SO-100301,5/14/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,5,Mobile Payment,46-55,Female,Johannesburg,Rep 6
+SO-100302,3/4/2025,South Africa,P4001,Skincare Kit,Personal Care,50,10,28,0,Mobile Payment,36-45,Male,Cape Town,Rep 12
+SO-100303,7/2/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,15,Debit Card,18-25,Female,Johannesburg,Rep 7
+SO-100304,5/26/2025,South Africa,P1002,Laptop Air,Electronics,1100,8,880,15,Credit Card,36-45,Female,Johannesburg,Rep 3
+SO-100305,7/15/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,5,Mobile Payment,46-55,Male,Johannesburg,Rep 19
+SO-100306,4/24/2025,South Africa,P1002,Laptop Air,Electronics,1100,8,880,5,Cash,46-55,Female,Johannesburg,Rep 8
+SO-100307,1/10/2025,South Africa,P1001,Smartphone X,Electronics,800,9,620,15,Debit Card,18-25,Male,Pretoria,Rep 3
+SO-100308,7/12/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,7,165,10,Cash,46-55,Male,Pretoria,Rep 2
+SO-100309,1/31/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,15,Debit Card,26-35,Male,Pretoria,Rep 16
+SO-100310,5/18/2025,South Africa,P2004,Spices Pack,Grocery,9,5,4,15,Mobile Payment,36-45,Male,Cape Town,Rep 12
+SO-100311,3/20/2025,South Africa,P3002,Blender Pro,Home Appliances,120,7,85,0,Debit Card,18-25,Female,Pretoria,Rep 18
+SO-100312,8/29/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Cash,46-55,Female,Johannesburg,Rep 18
+SO-100313,7/11/2025,South Africa,P2004,Spices Pack,Grocery,9,5,4,5,Mobile Payment,18-25,Female,Cape Town,Rep 7
+SO-100314,3/20/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,10,Cash,46-55,Male,Johannesburg,Rep 7
+SO-100315,9/13/2025,South Africa,P4001,Skincare Kit,Personal Care,50,2,28,15,Debit Card,18-25,Male,Pretoria,Rep 17
+SO-100316,3/3/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,0,Cash,36-45,Male,Cape Town,Rep 11
+SO-100317,7/20/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,10,Credit Card,46-55,Female,Cape Town,Rep 5
+SO-100318,1/31/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,0,Credit Card,46-55,Female,Johannesburg,Rep 19
+SO-100319,10/15/2025,South Africa,P1002,Laptop Air,Electronics,1100,5,880,15,Cash,46-55,Male,Pretoria,Rep 3
+SO-100320,12/14/2025,South Africa,P2004,Spices Pack,Grocery,9,5,4,15,Credit Card,26-35,Female,Pretoria,Rep 13
+SO-100321,12/15/2025,South Africa,P4001,Skincare Kit,Personal Care,50,3,28,0,Cash,26-35,Male,Johannesburg,Rep 18
+SO-100322,2/1/2025,South Africa,P2003,Organic Honey,Grocery,15,5,9,5,Mobile Payment,46-55,Male,Cape Town,Rep 8
+SO-100323,5/28/2025,South Africa,P1001,Smartphone X,Electronics,800,8,620,0,Debit Card,36-45,Female,Johannesburg,Rep 18
+SO-100324,5/10/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,10,20,10,Credit Card,46-55,Male,Johannesburg,Rep 11
+SO-100325,4/17/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,2,20,10,Mobile Payment,18-25,Male,Pretoria,Rep 9
+SO-100326,3/15/2025,South Africa,P1001,Smartphone X,Electronics,800,4,620,15,Debit Card,26-35,Female,Johannesburg,Rep 14
+SO-100327,3/30/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,9,20,5,Mobile Payment,46-55,Male,Johannesburg,Rep 12
+SO-100328,11/23/2025,South Africa,P2004,Spices Pack,Grocery,9,4,4,0,Cash,26-35,Male,Cape Town,Rep 16
+SO-100329,5/25/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,9,20,0,Credit Card,46-55,Male,Cape Town,Rep 7
+SO-100330,6/5/2025,South Africa,P3002,Blender Pro,Home Appliances,120,8,85,5,Mobile Payment,46-55,Female,Johannesburg,Rep 15
+SO-100331,2/3/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,9,20,5,Mobile Payment,36-45,Female,Pretoria,Rep 1
+SO-100332,6/6/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,7,165,10,Cash,26-35,Male,Johannesburg,Rep 1
+SO-100333,2/25/2025,South Africa,P2004,Spices Pack,Grocery,9,1,4,15,Debit Card,26-35,Male,Cape Town,Rep 7
+SO-100334,4/22/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,10,Debit Card,18-25,Female,Pretoria,Rep 17
+SO-100335,8/18/2025,South Africa,P4001,Skincare Kit,Personal Care,50,8,28,0,Mobile Payment,18-25,Male,Cape Town,Rep 18
+SO-100336,12/10/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,10,Cash,46-55,Male,Cape Town,Rep 14
+SO-100337,3/20/2025,South Africa,P1001,Smartphone X,Electronics,800,5,620,0,Credit Card,36-45,Female,Cape Town,Rep 20
+SO-100338,12/9/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,7,95,0,Mobile Payment,36-45,Male,Pretoria,Rep 3
+SO-100339,5/27/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Debit Card,26-35,Female,Pretoria,Rep 12
+SO-100340,10/24/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,4,95,0,Cash,18-25,Female,Pretoria,Rep 12
+SO-100341,11/3/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,10,Debit Card,46-55,Female,Johannesburg,Rep 8
+SO-100342,12/28/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,2,95,10,Debit Card,36-45,Female,Pretoria,Rep 5
+SO-100343,10/14/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,15,Debit Card,46-55,Male,Johannesburg,Rep 1
+SO-100344,9/3/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,15,Mobile Payment,26-35,Female,Pretoria,Rep 7
+SO-100345,9/21/2025,South Africa,P2004,Spices Pack,Grocery,9,9,4,0,Debit Card,18-25,Female,Pretoria,Rep 7
+SO-100346,5/6/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,1,95,15,Debit Card,46-55,Male,Pretoria,Rep 11
+SO-100347,11/18/2025,South Africa,P2004,Spices Pack,Grocery,9,6,4,10,Debit Card,46-55,Female,Pretoria,Rep 7
+SO-100348,3/7/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,10,Mobile Payment,36-45,Male,Pretoria,Rep 15
+SO-100349,9/19/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,7,20,0,Debit Card,36-45,Female,Cape Town,Rep 7
+SO-100350,1/13/2025,South Africa,P2004,Spices Pack,Grocery,9,1,4,5,Mobile Payment,46-55,Female,Johannesburg,Rep 5
+SO-100351,6/20/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Credit Card,36-45,Female,Cape Town,Rep 20
+SO-100352,7/21/2025,South Africa,P2004,Spices Pack,Grocery,9,3,4,0,Cash,46-55,Male,Cape Town,Rep 11
+SO-100353,4/26/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,15,Credit Card,36-45,Male,Johannesburg,Rep 4
+SO-100354,8/11/2025,South Africa,P1002,Laptop Air,Electronics,1100,2,880,10,Debit Card,26-35,Male,Pretoria,Rep 12
+SO-100355,4/10/2025,South Africa,P2003,Organic Honey,Grocery,15,3,9,0,Debit Card,18-25,Female,Johannesburg,Rep 19
+SO-100356,1/25/2025,South Africa,P2003,Organic Honey,Grocery,15,4,9,0,Cash,26-35,Male,Cape Town,Rep 5
+SO-100357,8/9/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,5,Cash,18-25,Female,Cape Town,Rep 13
+SO-100358,3/30/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,15,Mobile Payment,46-55,Female,Cape Town,Rep 18
+SO-100359,6/19/2025,South Africa,P3002,Blender Pro,Home Appliances,120,5,85,0,Cash,46-55,Male,Pretoria,Rep 6
+SO-100360,9/20/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,2,165,10,Credit Card,46-55,Male,Johannesburg,Rep 4
+SO-100361,12/29/2025,South Africa,P2003,Organic Honey,Grocery,15,5,9,10,Cash,26-35,Female,Johannesburg,Rep 19
+SO-100362,4/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,8,28,10,Credit Card,36-45,Male,Cape Town,Rep 5
+SO-100363,2/13/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,0,Mobile Payment,26-35,Female,Johannesburg,Rep 8
+SO-100364,4/6/2025,South Africa,P2003,Organic Honey,Grocery,15,1,9,5,Cash,36-45,Female,Johannesburg,Rep 2
+SO-100365,3/24/2025,South Africa,P2004,Spices Pack,Grocery,9,1,4,5,Mobile Payment,26-35,Female,Cape Town,Rep 19
+SO-100366,2/4/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,0,Cash,26-35,Male,Pretoria,Rep 9
+SO-100367,8/31/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,10,Debit Card,18-25,Female,Pretoria,Rep 14
+SO-100368,6/29/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,5,20,10,Mobile Payment,18-25,Female,Pretoria,Rep 11
+SO-100369,1/26/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,1,165,10,Credit Card,46-55,Female,Johannesburg,Rep 17
+SO-100370,4/5/2025,South Africa,P1002,Laptop Air,Electronics,1100,5,880,5,Debit Card,26-35,Female,Pretoria,Rep 8
+SO-100371,3/25/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,5,20,5,Cash,18-25,Male,Pretoria,Rep 17
+SO-100372,10/17/2025,South Africa,P2004,Spices Pack,Grocery,9,9,4,10,Mobile Payment,26-35,Male,Johannesburg,Rep 13
+SO-100373,11/24/2025,South Africa,P4001,Skincare Kit,Personal Care,50,3,28,5,Debit Card,26-35,Male,Johannesburg,Rep 2
+SO-100374,5/13/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,5,Credit Card,36-45,Male,Johannesburg,Rep 3
+SO-100375,1/26/2025,South Africa,P2003,Organic Honey,Grocery,15,2,9,5,Credit Card,26-35,Male,Cape Town,Rep 8
+SO-100376,8/7/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,10,165,5,Mobile Payment,36-45,Female,Pretoria,Rep 12
+SO-100377,3/9/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,0,Mobile Payment,36-45,Female,Johannesburg,Rep 15
+SO-100378,4/28/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,9,95,0,Cash,36-45,Female,Johannesburg,Rep 14
+SO-100379,9/25/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,5,Debit Card,46-55,Male,Cape Town,Rep 18
+SO-100380,8/10/2025,South Africa,P1002,Laptop Air,Electronics,1100,8,880,0,Debit Card,26-35,Male,Johannesburg,Rep 16
+SO-100381,5/14/2025,South Africa,P4001,Skincare Kit,Personal Care,50,4,28,10,Debit Card,36-45,Female,Johannesburg,Rep 7
+SO-100382,2/20/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,10,Mobile Payment,36-45,Female,Cape Town,Rep 8
+SO-100383,5/23/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,0,Debit Card,46-55,Male,Pretoria,Rep 12
+SO-100384,10/20/2025,South Africa,P2004,Spices Pack,Grocery,9,4,4,0,Debit Card,46-55,Male,Cape Town,Rep 5
+SO-100385,8/22/2025,South Africa,P1001,Smartphone X,Electronics,800,1,620,0,Mobile Payment,46-55,Female,Pretoria,Rep 6
+SO-100386,2/13/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,15,Credit Card,18-25,Male,Johannesburg,Rep 8
+SO-100387,2/13/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,1,95,5,Mobile Payment,46-55,Male,Johannesburg,Rep 11
+SO-100388,1/19/2025,South Africa,P2003,Organic Honey,Grocery,15,4,9,10,Credit Card,26-35,Male,Cape Town,Rep 1
+SO-100389,11/6/2025,South Africa,P1002,Laptop Air,Electronics,1100,4,880,0,Debit Card,26-35,Female,Johannesburg,Rep 20
+SO-100390,6/13/2025,South Africa,P4001,Skincare Kit,Personal Care,50,5,28,10,Cash,36-45,Male,Pretoria,Rep 4
+SO-100391,10/27/2025,South Africa,P1001,Smartphone X,Electronics,800,5,620,15,Mobile Payment,36-45,Male,Cape Town,Rep 2
+SO-100392,8/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,15,Cash,36-45,Female,Pretoria,Rep 8
+SO-100393,6/19/2025,South Africa,P1001,Smartphone X,Electronics,800,5,620,15,Debit Card,36-45,Female,Johannesburg,Rep 6
+SO-100394,2/16/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,1,165,0,Credit Card,26-35,Male,Pretoria,Rep 6
+SO-100395,11/11/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,0,Credit Card,26-35,Female,Cape Town,Rep 6
+SO-100396,3/25/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,5,Debit Card,36-45,Female,Cape Town,Rep 11
+SO-100397,10/28/2025,South Africa,P1001,Smartphone X,Electronics,800,9,620,10,Credit Card,36-45,Female,Cape Town,Rep 1
+SO-100398,12/4/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,10,Cash,26-35,Male,Pretoria,Rep 8
+SO-100399,10/18/2025,South Africa,P4001,Skincare Kit,Personal Care,50,1,28,5,Cash,26-35,Female,Cape Town,Rep 8
+SO-100400,10/25/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,2,20,15,Credit Card,46-55,Female,Cape Town,Rep 2
+SO-100401,9/8/2025,South Africa,P3002,Blender Pro,Home Appliances,120,6,85,0,Cash,18-25,Male,Cape Town,Rep 20
+SO-100402,10/14/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,3,165,0,Credit Card,18-25,Male,Pretoria,Rep 4
+SO-100403,10/19/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,4,20,0,Cash,46-55,Female,Cape Town,Rep 11
+SO-100404,5/15/2025,South Africa,P3002,Blender Pro,Home Appliances,120,1,85,15,Debit Card,46-55,Female,Cape Town,Rep 9
+SO-100405,10/14/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,1,165,5,Debit Card,46-55,Female,Pretoria,Rep 3
+SO-100406,4/17/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,15,Mobile Payment,18-25,Female,Johannesburg,Rep 8
+SO-100407,12/3/2025,South Africa,P4001,Skincare Kit,Personal Care,50,2,28,0,Debit Card,26-35,Female,Johannesburg,Rep 3
+SO-100408,9/12/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,7,165,0,Cash,36-45,Male,Johannesburg,Rep 11
+SO-100409,12/4/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,0,Cash,36-45,Male,Cape Town,Rep 5
+SO-100410,7/31/2025,South Africa,P1001,Smartphone X,Electronics,800,1,620,10,Credit Card,36-45,Female,Johannesburg,Rep 1
+SO-100411,3/28/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,15,Debit Card,26-35,Male,Johannesburg,Rep 1
+SO-100412,2/4/2025,South Africa,P3002,Blender Pro,Home Appliances,120,10,85,15,Mobile Payment,18-25,Female,Pretoria,Rep 16
+SO-100413,2/3/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,15,Cash,36-45,Male,Johannesburg,Rep 20
+SO-100414,9/3/2025,South Africa,P4001,Skincare Kit,Personal Care,50,8,28,10,Cash,18-25,Male,Pretoria,Rep 8
+SO-100415,1/18/2025,South Africa,P2004,Spices Pack,Grocery,9,7,4,5,Debit Card,26-35,Female,Johannesburg,Rep 9
+SO-100416,10/1/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,15,Debit Card,36-45,Female,Cape Town,Rep 13
+SO-100417,10/3/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,5,Mobile Payment,46-55,Male,Cape Town,Rep 13
+SO-100418,7/1/2025,South Africa,P3002,Blender Pro,Home Appliances,120,7,85,0,Credit Card,18-25,Female,Cape Town,Rep 10
+SO-100419,6/13/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,0,Cash,36-45,Male,Johannesburg,Rep 2
+SO-100420,4/4/2025,South Africa,P2004,Spices Pack,Grocery,9,9,4,0,Mobile Payment,18-25,Female,Johannesburg,Rep 10
+SO-100421,12/19/2025,South Africa,P3002,Blender Pro,Home Appliances,120,8,85,5,Mobile Payment,26-35,Female,Johannesburg,Rep 7
+SO-100422,4/14/2025,South Africa,P2003,Organic Honey,Grocery,15,9,9,5,Cash,46-55,Female,Johannesburg,Rep 7
+SO-100423,3/20/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,10,Cash,46-55,Female,Pretoria,Rep 17
+SO-100424,2/1/2025,South Africa,P2003,Organic Honey,Grocery,15,6,9,0,Mobile Payment,46-55,Female,Cape Town,Rep 4
+SO-100425,5/1/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,5,20,15,Mobile Payment,26-35,Female,Pretoria,Rep 5
+SO-100426,2/6/2025,South Africa,P4001,Skincare Kit,Personal Care,50,4,28,15,Mobile Payment,18-25,Female,Johannesburg,Rep 18
+SO-100427,1/19/2025,South Africa,P1001,Smartphone X,Electronics,800,4,620,5,Cash,36-45,Female,Johannesburg,Rep 20
+SO-100428,11/23/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,2,95,5,Mobile Payment,18-25,Female,Pretoria,Rep 14
+SO-100429,9/21/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Credit Card,36-45,Male,Cape Town,Rep 16
+SO-100430,12/27/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,15,Mobile Payment,46-55,Female,Johannesburg,Rep 19
+SO-100431,2/1/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,1,20,0,Cash,18-25,Male,Johannesburg,Rep 18
+SO-100432,4/20/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,5,Credit Card,26-35,Female,Johannesburg,Rep 1
+SO-100433,8/5/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,10,Debit Card,26-35,Female,Pretoria,Rep 9
+SO-100434,11/1/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,0,Mobile Payment,36-45,Male,Johannesburg,Rep 7
+SO-100435,7/1/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,4,165,0,Credit Card,18-25,Female,Pretoria,Rep 8
+SO-100436,1/9/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,0,Credit Card,18-25,Male,Pretoria,Rep 5
+SO-100437,9/7/2025,South Africa,P3002,Blender Pro,Home Appliances,120,9,85,15,Mobile Payment,46-55,Male,Pretoria,Rep 4
+SO-100438,9/29/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,10,Mobile Payment,36-45,Male,Johannesburg,Rep 9
+SO-100439,7/28/2025,South Africa,P2003,Organic Honey,Grocery,15,3,9,0,Cash,46-55,Male,Johannesburg,Rep 11
+SO-100440,9/30/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,2,20,0,Cash,18-25,Male,Cape Town,Rep 10
+SO-100441,2/27/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,5,20,15,Debit Card,18-25,Female,Pretoria,Rep 12
+SO-100442,2/20/2025,South Africa,P2004,Spices Pack,Grocery,9,9,4,15,Debit Card,36-45,Male,Pretoria,Rep 13
+SO-100443,1/10/2025,South Africa,P1002,Laptop Air,Electronics,1100,10,880,15,Mobile Payment,26-35,Male,Johannesburg,Rep 14
+SO-100444,12/8/2025,South Africa,P2004,Spices Pack,Grocery,9,6,4,5,Mobile Payment,46-55,Male,Johannesburg,Rep 10
+SO-100445,3/11/2025,South Africa,P4001,Skincare Kit,Personal Care,50,1,28,0,Mobile Payment,26-35,Male,Pretoria,Rep 8
+SO-100446,4/30/2025,South Africa,P1002,Laptop Air,Electronics,1100,5,880,0,Cash,26-35,Female,Cape Town,Rep 19
+SO-100447,5/26/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,8,95,15,Debit Card,18-25,Male,Pretoria,Rep 4
+SO-100448,11/4/2025,South Africa,P1002,Laptop Air,Electronics,1100,9,880,15,Debit Card,36-45,Female,Cape Town,Rep 3
+SO-100449,4/21/2025,South Africa,P1002,Laptop Air,Electronics,1100,1,880,0,Credit Card,26-35,Male,Pretoria,Rep 17
+SO-100450,3/22/2025,South Africa,P3002,Blender Pro,Home Appliances,120,4,85,5,Credit Card,26-35,Male,Cape Town,Rep 10
+SO-100451,2/6/2025,South Africa,P1002,Laptop Air,Electronics,1100,2,880,5,Cash,18-25,Male,Cape Town,Rep 15
+SO-100452,7/25/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,5,Mobile Payment,18-25,Female,Cape Town,Rep 15
+SO-100453,9/13/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,10,165,5,Credit Card,46-55,Female,Johannesburg,Rep 19
+SO-100454,1/23/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Credit Card,46-55,Female,Johannesburg,Rep 1
+SO-100455,7/23/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,10,Mobile Payment,26-35,Male,Johannesburg,Rep 10
+SO-100456,10/4/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,5,20,15,Credit Card,26-35,Male,Cape Town,Rep 13
+SO-100457,2/5/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,10,20,5,Debit Card,36-45,Female,Cape Town,Rep 11
+SO-100458,4/10/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,0,Credit Card,26-35,Male,Cape Town,Rep 15
+SO-100459,9/26/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,8,20,5,Mobile Payment,26-35,Male,Johannesburg,Rep 9
+SO-100460,12/13/2025,South Africa,P1001,Smartphone X,Electronics,800,10,620,0,Mobile Payment,36-45,Female,Johannesburg,Rep 17
+SO-100461,8/8/2025,South Africa,P3002,Blender Pro,Home Appliances,120,2,85,0,Credit Card,26-35,Male,Pretoria,Rep 12
+SO-100462,7/1/2025,South Africa,P2004,Spices Pack,Grocery,9,3,4,15,Mobile Payment,26-35,Male,Johannesburg,Rep 14
+SO-100463,8/12/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,9,165,5,Credit Card,26-35,Male,Johannesburg,Rep 13
+SO-100464,5/1/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,7,95,0,Cash,26-35,Female,Johannesburg,Rep 10
+SO-100465,7/1/2025,South Africa,P4001,Skincare Kit,Personal Care,50,9,28,10,Credit Card,46-55,Female,Johannesburg,Rep 6
+SO-100466,8/9/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,7,95,15,Mobile Payment,18-25,Female,Pretoria,Rep 6
+SO-100467,10/19/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,6,165,5,Credit Card,18-25,Female,Cape Town,Rep 20
+SO-100468,7/9/2025,South Africa,P4001,Skincare Kit,Personal Care,50,10,28,5,Credit Card,36-45,Female,Johannesburg,Rep 8
+SO-100469,11/15/2025,South Africa,P3002,Blender Pro,Home Appliances,120,3,85,10,Credit Card,18-25,Male,Johannesburg,Rep 5
+SO-100470,6/24/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,3,20,0,Cash,36-45,Female,Cape Town,Rep 12
+SO-100471,3/5/2025,South Africa,P3002,Blender Pro,Home Appliances,120,9,85,15,Cash,36-45,Male,Pretoria,Rep 5
+SO-100472,8/18/2025,South Africa,P2004,Spices Pack,Grocery,9,2,4,10,Credit Card,46-55,Male,Johannesburg,Rep 2
+SO-100473,7/17/2025,South Africa,P1001,Smartphone X,Electronics,800,8,620,5,Debit Card,26-35,Male,Pretoria,Rep 11
+SO-100474,5/28/2025,South Africa,P1001,Smartphone X,Electronics,800,6,620,15,Mobile Payment,36-45,Male,Pretoria,Rep 11
+SO-100475,4/27/2025,South Africa,P1002,Laptop Air,Electronics,1100,2,880,15,Mobile Payment,46-55,Male,Pretoria,Rep 14
+SO-100476,10/25/2025,South Africa,P1002,Laptop Air,Electronics,1100,8,880,10,Credit Card,36-45,Female,Cape Town,Rep 12
+SO-100477,12/3/2025,South Africa,P1002,Laptop Air,Electronics,1100,5,880,5,Mobile Payment,18-25,Male,Johannesburg,Rep 10
+SO-100478,3/30/2025,South Africa,P2003,Organic Honey,Grocery,15,3,9,15,Cash,36-45,Male,Cape Town,Rep 19
+SO-100479,8/17/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,6,20,0,Cash,46-55,Female,Johannesburg,Rep 6
+SO-100480,2/3/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,15,Mobile Payment,36-45,Female,Johannesburg,Rep 12
+SO-100481,1/27/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,10,Debit Card,18-25,Female,Pretoria,Rep 12
+SO-100482,9/10/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,0,Cash,18-25,Female,Johannesburg,Rep 14
+SO-100483,6/21/2025,South Africa,P2004,Spices Pack,Grocery,9,8,4,10,Debit Card,26-35,Male,Pretoria,Rep 4
+SO-100484,10/3/2025,South Africa,P4001,Skincare Kit,Personal Care,50,7,28,15,Mobile Payment,46-55,Female,Johannesburg,Rep 3
+SO-100485,7/25/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,0,Debit Card,26-35,Male,Johannesburg,Rep 20
+SO-100486,4/7/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Mobile Payment,26-35,Female,Cape Town,Rep 11
+SO-100487,11/7/2025,South Africa,P1002,Laptop Air,Electronics,1100,3,880,0,Cash,46-55,Male,Cape Town,Rep 2
+SO-100488,9/9/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,1,165,15,Debit Card,46-55,Female,Cape Town,Rep 20
+SO-100489,10/18/2025,South Africa,P3001,Microwave Oven,Home Appliances,220,5,165,0,Credit Card,46-55,Female,Cape Town,Rep 18
+SO-100490,5/29/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,3,95,0,Debit Card,26-35,Female,Cape Town,Rep 1
+SO-100491,2/15/2025,South Africa,P1001,Smartphone X,Electronics,800,3,620,5,Debit Card,26-35,Female,Pretoria,Rep 2
+SO-100492,9/24/2025,South Africa,P1002,Laptop Air,Electronics,1100,6,880,10,Cash,18-25,Female,Pretoria,Rep 12
+SO-100493,5/20/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,10,95,5,Cash,46-55,Male,Cape Town,Rep 13
+SO-100494,10/19/2025,South Africa,P1003,Wireless Earbuds,Electronics,150,6,95,5,Debit Card,46-55,Female,Cape Town,Rep 7
+SO-100495,12/11/2025,South Africa,P2004,Spices Pack,Grocery,9,10,4,5,Mobile Payment,36-45,Male,Cape Town,Rep 11
+SO-100496,2/23/2025,South Africa,P4002,Hair Trimmer,Personal Care,35,5,20,10,Debit Card,46-55,Female,Pretoria,Rep 1
+SO-100497,9/5/2025,South Africa,P3002,Blender Pro,Home Appliances,120,6,85,0,Cash,36-45,Female,Johannesburg,Rep 14
+SO-100498,1/18/2025,South Africa,P3002,Blender Pro,Home Appliances,120,1,85,15,Cash,26-35,Female,Cape Town,Rep 9
+SO-100499,11/10/2025,South Africa,P2004,Spices Pack,Grocery,9,2,4,5,Credit Card,36-45,Female,Cape Town,Rep 9
