@@ -34,9 +34,11 @@ The output is a focused dashboard designed to support pricing, expansion, and sa
 
 # Data Source
 _What data is needed to achieve our objective?_
+
 Sales Data for the Time Period of January 2025 – December 2025
 
 _Where is the data coming from?_
+
 The dataset used in this project is from ChatGPT and represents a structured sales transactions dataset, capturing activity in 2025.
 
 # Project Stages
@@ -110,41 +112,102 @@ _What steps are needed to clean and shape the data into the desired format?_
 
 ### Transform the Data
 '''sql
-
-'''
-
-### Create the SQL View
-'''sql
-
+/*
+Merge datasets from the six regions
+*/
+CREATE TABLE global_sales_analysis.sales_analysis AS
+SELECT *
+FROM global_sales_analysis.sales_2025_canada
+UNION ALL
+SELECT *
+FROM global_sales_analysis.sales_2025_china
+UNION ALL
+SELECT *
+FROM global_sales_analysis.sales_2025_india
+UNION ALL
+SELECT *
+FROM global_sales_analysis.sales_2025_kenya
+UNION ALL
+SELECT *
+FROM global_sales_analysis.sales_2025_south_africa
+UNION ALL
+SELECT *
+FROM global_sales_analysis.sales_2025_united_states;
 '''
 
 # Testing
 ## Data Quality Tests
 _Data quality and validation checks I conducted_
+
 ### 1. Row count validation
 '''sql
-
+/*
+Count the total number of records (or rows)
+*/
+SELECT COUNT(*) AS no_of_rows
+FROM global_sales_analysis.sales_analysis;
 '''
+
+![Row Count Check]()
 
 ### 2. Column completeness check
 '''sql
-
+/*
+Count the total number of columns
+*/
+SELECT COUNT(*) AS column_count
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'sales_analysis';
 '''
+
+![Column Count Check]()
 
 ### 3. Data type validation
 '''sql
-
+/*
+Check the data type of each column
+*/
+SELECT 
+	COLUMN_NAME,
+    DATA_TYPE
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'sales_analysis';
 '''
+
+![Data Type Check]()
 
 ### 4. Duplicate transaction ID check
 '''sql
-
+/*
+Check for duplicate rows
+Group by Transaction ID
+Filter for groups with more than one row
+*/
+SELECT 
+	Transaction_ID,
+    COUNT(*) AS duplicate_count
+FROM sales_analysis
+GROUP BY Transaction_ID
+HAVING COUNT(*) > 1;
 '''
+
+![Data Type Check]()
 
 ### 5. Missing value checks for critical fields (price, quantity, cost)
 '''sql
-
+/*
+Check for missing values
+*/
+SELECT *
+FROM global_sales_analysis.sales_analysis
+WHERE Country IS NULL
+	OR Price_Per_Unit IS NULL
+    OR Quantity_Purchased IS NULL
+    OR Cost_Price IS NULL
+    OR Discount_Applied IS NULL;
 '''
+
+![Data Type Check]()
 
 # Visualization
 ## a. Results
