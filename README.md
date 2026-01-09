@@ -35,11 +35,16 @@ The output is a focused dashboard designed to support pricing, expansion, and sa
 # Data Source
 _What data is needed to achieve our objective?_
 
-Sales Data for the Time Period of January 2025 – December 2025
+Sales transaction data covering the period **January 2025 – December 2025**, including information on:
+- transactions
+- products
+- pricing and discounts
+- regions
+- sales representatives
 
 _Where is the data coming from?_
 
-The dataset used in this project is from ChatGPT and represents a structured sales transactions dataset, capturing activity in 2025.
+The dataset used in this project is a **synthetic sales transactions dataset** generated for analytical and portfolio purposes. It represents realistic sales activity for a multinational retail business operating across six regions in 2025.
 
 # Project Stages
 This project followed a structured analytics workflow:
@@ -98,13 +103,7 @@ The aim is to refine our dataset to ensure it is structured and ready for analys
 The cleaned data should meet the following criteria and constraints:
 1. Only relevant columns should be retained.
 2. All data types should be appropriate for the contents of each column.
-3. No column should contain full values, including complete data for all records.
-
-Below is a table outlining the constraints on our cleaned dataset:
-
-
-Here is a tabular representation of the expected schema for the clean data:
-
+3. No column should contain null values, including complete data for all records.
 
 _What steps are needed to clean and shape the data into the desired format?_
 * Ensure there are no duplicates and deal with null values in the dataset
@@ -135,8 +134,29 @@ SELECT *
 FROM global_sales_analysis.sales_2025_united_states;
 ```
 
+```sql
+/*
+Adding a column for Sales per transaction.
+*/
+ALTER TABLE global_sales_analysis.sales_analysis
+ADD COLUMN Total_Amount Numeric(10, 2);
+
+UPDATE global_sales_analysis.sales_analysis
+SET Total_Amount = (Price_Per_Unit * Quantity_Purchased) - Discount_Applied;
+```
+
+```sql
+/*
+Adding a profits column
+*/
+ALTER TABLE global_sales_analysis.sales_analysis
+ADD COLUMN Profit Numeric (10, 2);
+
+UPDATE global_sales_analysis.sales_analysis
+SET Profit = Total_Amount - (Cost_Price * Quantity_Purchased);
+```
+
 # Testing
-## Data Quality Tests
 _Data quality and validation checks I conducted_
 
 ### 1. Row count validation
@@ -191,7 +211,7 @@ GROUP BY Transaction_ID
 HAVING COUNT(*) > 1;
 ```
 
-![Data Type Check](assets/images/duplicate-count-check.jpg)
+![Duplicate Check](assets/images/duplicate-count-check.jpg)
 
 ### 5. Missing value checks for critical fields (price, quantity, cost)
 ```sql
@@ -207,24 +227,51 @@ WHERE Country IS NULL
     OR Discount_Applied IS NULL;
 ```
 
-![Data Type Check](assets/images/missing-value-check.jpg)
+![Missing Values Check](assets/images/missing-value-check.jpg)
 
 # Visualization
 ## a. Results
-![Dashboard](Sales Analysis Screenshort.JPG)
+![Dashboard](sales-analysis.jpg)
+
+The dashboard provides a concise, decision-focused view of:
+- overall sales performance
+- regional profitability
+- product and category contribution
+- discount impact on margins
+- sales representative performance
+
+It is designed to help Sales Managers quickly identify what is performing well, where risks exist, and where action may be required.
 
 ## b. DAX Measures
-### Total Sales
+### Total Revenue
+```DAX
+Total_Revenue = SUM('global_sales_analysis sales_analysis'[Total_Amount])
+```
 
 ### Total Profit
+```DAX
+Total_Profit = SUM('global_sales_analysis sales_analysis'[Profit])
+```
 
 ### Total Discount
+```DAX
+Total_Discount = SUM('global_sales_analysis sales_analysis'[Actual_Discount_Applied])
+```
 
-### Sales per Region
+### Total Orders
+```DAX
+Total_Orders = DISTINCTCOUNT('global_sales_analysis sales_analysis'[Transaction_ID])
+```
 
-### Profit per Region
+### Profit Margin
+```DAX
+Profit_Margin = DIVIDE([Total_Profit],[Total_Revenue])
+```
 
 ### Average Order Value
+```DAX
+Average_Order_Value = DIVIDE([Total_Revenue],[Total_Orders],0)
+```
 
 # Analysis
 ## a. Findings
@@ -235,20 +282,18 @@ For this analysis, we are going to focus on the questions below to get the infor
 4. Are discounts helping growth or hurting profitability?
 5. How is sales performance distributed across the team?
 
-## b. Validation
-
-## c. Discovery
+## b. Discovery
 Additional patterns observed:
 * Regional differences in discount effectiveness
 * Product categories with consistent margin performance
 * Sales behavior patterns that influence profitability
 
 # Recommendations
-Based on the insights gathered, this is what I recommend:
-* Improved margin control through optimized discount thresholds to maintain sales momentum while preventing excessive discounting that erodes profitability.
-* Shifting attention toward products that deliver strong margins to allow the business to grow revenue more efficiently.
-* Understand which regions, products, and sales representatives generate healthy revenue-to-margin balance, enabling leadership to focus time and resources where they have the greatest impact.
-* Highlight areas where sales growth is driven by heavy discounting or low-margin products, and the business can intervene early.
+Based on the insights gathered, the following actions are recommended:
+- Optimize discount thresholds to protect profit margins while maintaining sales momentum.
+- Shift focus toward products that consistently deliver strong margins.
+- Allocate sales effort toward regions and sales representatives with a healthy revenue-to-margin balance.
+- Monitor areas where growth is driven by heavy discounting to prevent revenue leakage.
 
 ## a. Potential ROI
 _What ROI do we expect if we take this course of action?_
@@ -260,5 +305,8 @@ _What ROI do we expect if we take this course of action?_
 ## b. Potential Courses of Action
 Based on the analysis, the most effective way to improve sales performance and profitability is to optimize discount strategies, prioritize high-margin products, and rebalance sales effort across regions and sales representatives.
 
-We will work with sales and leadership teams to align on performance expectations and margin targets. As improvements are observed and targets are met, these strategies can be scaled across additional regions and product categories.
+Next steps include:
+- Aligning on target margins and discount limits with leadership
+- Monitoring performance against agreed KPIs
+- Scaling successful strategies across regions and product categories
 
